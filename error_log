@@ -1,0 +1,335 @@
+[16-Apr-2021 06:05:05 America/New_York] PHP Notice:  Undefined variable: html in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/aridtlpn/public_html/scraping/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:09 America/New_York] PHP Notice:  Undefined variable: html in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/aridtlpn/public_html/scraping/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:32 America/New_York] PHP Notice:  Undefined variable: html in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/aridtlpn/public_html/scraping/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:54 America/New_York] PHP Notice:  Undefined variable: html in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:05:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/aridtlpn/public_html/scraping/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:06:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on string in /home/aridtlpn/public_html/scraping/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 48
+[16-Apr-2021 06:07:18 America/New_York] PHP Warning:  file_get_contents(https://www.merinfo.se/search?d=c&amp;emp=0%3A100&amp;rev=0%3A100&amp;bf=1%2C3%2C2%2C0): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 82
+[16-Apr-2021 06:07:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 51
+[16-Apr-2021 06:09:38 America/New_York] PHP Warning:  include_once(simple_html_dosm.php): failed to open stream: No such file or directory in /home/aridtlpn/public_html/scraping/index.php on line 2
+[16-Apr-2021 06:09:38 America/New_York] PHP Warning:  include_once(): Failed opening 'simple_html_dosm.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aridtlpn/public_html/scraping/index.php on line 2
+[16-Apr-2021 06:09:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function file_get_html() in /home/aridtlpn/public_html/scraping/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 49
+[16-Apr-2021 06:20:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method simple_html_dom::file_get_html() in /home/aridtlpn/public_html/scraping/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 52
+[16-Apr-2021 06:21:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method simple_html_dom::file_get_html() in /home/aridtlpn/public_html/scraping/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 50
+[16-Apr-2021 06:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on string in /home/aridtlpn/public_html/scraping/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 50
+[16-Apr-2021 06:22:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on string in /home/aridtlpn/public_html/scraping/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 50
+[16-Apr-2021 06:22:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on string in /home/aridtlpn/public_html/scraping/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 50
+[16-Apr-2021 06:22:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on string in /home/aridtlpn/public_html/scraping/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 50
+[16-Apr-2021 06:23:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on string in /home/aridtlpn/public_html/scraping/index.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 50
+[16-Apr-2021 06:30:57 America/New_York] PHP Warning:  include(../simple_html_dom.php): failed to open stream: No such file or directory in /home/aridtlpn/public_html/scraping/index.php on line 6
+[16-Apr-2021 06:30:57 America/New_York] PHP Warning:  include(): Failed opening '../simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aridtlpn/public_html/scraping/index.php on line 6
+[16-Apr-2021 06:31:25 America/New_York] PHP Warning:  file_get_contents(https://www.merinfo.se/search?d=c&amp;emp=0%3A100&amp;rev=0%3A100&amp;bf=1%2C3%2C2%2C0): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 82
+[16-Apr-2021 06:31:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 10
+[16-Apr-2021 06:33:56 America/New_York] PHP Warning:  file_get_contents(https://www.merinfo.se/search?d=c&amp;emp=0%3A100&amp;rev=0%3A100&amp;bf=1%2C3%2C2%2C0): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 82
+[16-Apr-2021 06:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 10
+[16-Apr-2021 06:34:19 America/New_York] PHP Warning:  file_get_contents(https://www.merinfo.se): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 82
+[16-Apr-2021 06:34:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 10
+[16-Apr-2021 06:34:21 America/New_York] PHP Warning:  file_get_contents(https://www.merinfo.se): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 82
+[16-Apr-2021 06:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 10
+[16-Apr-2021 06:35:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 13
+[16-Apr-2021 06:36:09 America/New_York] PHP Warning:  file_get_contents(https://www.merinfo.se/search?d=c&amp;emp=0%3A100&amp;rev=0%3A100&amp;bf=1%2C3%2C2%2C0): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 82
+[16-Apr-2021 06:36:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 15
+[16-Apr-2021 06:37:29 America/New_York] PHP Warning:  include_once(../../simple_html_dom.php): failed to open stream: No such file or directory in /home/aridtlpn/public_html/scraping/index.php on line 2
+[16-Apr-2021 06:37:29 America/New_York] PHP Warning:  include_once(): Failed opening '../../simple_html_dom.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aridtlpn/public_html/scraping/index.php on line 2
+[16-Apr-2021 06:51:26 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/aridtlpn/public_html/scraping/index.php on line 59
+[16-Apr-2021 06:51:36 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:36 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:37 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:37 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:37 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:37 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:38 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:38 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:38 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:38 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:39 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:39 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:39 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:39 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:40 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:40 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:40 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:40 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:41 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:41 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:41 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:41 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:42 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:42 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:42 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:42 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:42 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:42 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:43 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:43 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:43 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:43 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:44 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:44 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:44 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:44 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:45 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:45 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 06:51:45 America/New_York] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 113
+[16-Apr-2021 06:51:45 America/New_York] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/aridtlpn/public_html/scraping/simple_html_dom.php on line 1630
+[16-Apr-2021 07:41:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Rct567\DomQuery\DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 07:41:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Rct567\DomQuery\DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 07:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Rct567\DomQuery\DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 07:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Rct567\DomQuery\DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 07:48:58 America/New_York] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/aridtlpn/public_html/scraping/index.php on line 6
+[16-Apr-2021 07:49:00 America/New_York] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/aridtlpn/public_html/scraping/index.php on line 6
+[16-Apr-2021 07:49:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 07:50:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 07:52:56 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Unknown object simple_html_dom given as argument in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:128
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/index.php(64): Rct567\DomQuery\DomQueryNodes->__construct(Object(simple_html_dom))
+#1 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 128
+[16-Apr-2021 07:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Rct567\DomQuery' not found in /home/aridtlpn/public_html/scraping/index.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 64
+[16-Apr-2021 08:00:40 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Unknown object simple_html_dom given as argument in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:128
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/index.php(64): Rct567\DomQuery\DomQueryNodes->__construct(Object(simple_html_dom))
+#1 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 128
+[16-Apr-2021 08:01:39 America/New_York] PHP Fatal error:  Uncaught InvalidArgumentException: Unknown object simple_html_dom given as argument in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:128
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/index.php(69): Rct567\DomQuery\DomQueryNodes->__construct(Object(simple_html_dom))
+#1 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 128
+[16-Apr-2021 08:09:36 America/New_York] PHP Fatal error:  Uncaught Exception: Unknown call href in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:639
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/index.php(72): Rct567\DomQuery\DomQueryNodes->__call('href', Array)
+#1 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 639
+[16-Apr-2021 09:13:04 America/New_York] PHP Notice:  Undefined index: address in /home/aridtlpn/public_html/scraping/index.php on line 74
+[16-Apr-2021 09:13:30 America/New_York] PHP Warning:  A non-numeric value encountered in /home/aridtlpn/public_html/scraping/index.php on line 76
+[16-Apr-2021 09:15:25 America/New_York] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/aridtlpn/public_html/scraping/index.php on line 76
+[16-Apr-2021 09:15:47 America/New_York] PHP Notice:  Trying to get property 'innertext' of non-object in /home/aridtlpn/public_html/scraping/index.php on line 76
+[16-Apr-2021 09:23:05 America/New_York] PHP Fatal error:  Uncaught Exception: Pseudo class second-child unknown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/CssToXpath.php:292
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/CssToXpath.php(234): Rct567\DomQuery\CssToXpath::transformCssPseudoSelector('second-child', Array)
+#1 /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/CssToXpath.php(65): Rct567\DomQuery\CssToXpath::transformCssSegments(Array)
+#2 /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php(374): Rct567\DomQuery\CssToXpath::transform('#sammanfattning...')
+#3 /home/aridtlpn/public_html/scraping/index.php(77): Rct567\DomQuery\DomQueryNodes->find('#sammanfattning...')
+#4 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/CssToXpath.php on line 292
+[16-Apr-2021 09:23:35 America/New_York] PHP Fatal error:  Uncaught Exception: Expression //*[@id='sammanfattning']//*[contains(concat(' ', normalize-space(@class), ' '), ' row ')]//p:nth-child(1) is malformed. in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:661
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php(186): Rct567\DomQuery\DomQueryNodes->xpathQuery('//*[@id='samman...')
+#1 /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php(375): Rct567\DomQuery\DomQueryNodes->xpath('//*[@id='samman...')
+#2 /home/aridtlpn/public_html/scraping/index.php(77): Rct567\DomQuery\DomQueryNodes->find('#sammanfattning...')
+#3 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 661
+[16-Apr-2021 11:54:30 America/New_York] PHP Warning:  print_r() expects parameter 2 to be bool, array given in /home/aridtlpn/public_html/scraping/index.php on line 49
+[17-Apr-2021 05:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/aridtlpn/public_html/scraping/index.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 59
+[17-Apr-2021 05:11:38 America/New_York] PHP Parse error:  syntax error, unexpected '.146' (T_DNUMBER), expecting ')' in /home/aridtlpn/public_html/scraping/index.php on line 16
+[17-Apr-2021 05:49:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function text() on null in /home/aridtlpn/public_html/scraping/index.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 94
+[17-Apr-2021 05:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function text() on array in /home/aridtlpn/public_html/scraping/index.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 94
+[17-Apr-2021 05:50:09 America/New_York] PHP Fatal error:  Uncaught Exception: Unknown call plaintext in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:639
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/index.php(94): Rct567\DomQuery\DomQueryNodes->__call('plaintext', Array)
+#1 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 639
+[17-Apr-2021 05:50:20 America/New_York] PHP Fatal error:  Uncaught Exception: Unknown call innertext in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php:639
+Stack trace:
+#0 /home/aridtlpn/public_html/scraping/index.php(94): Rct567\DomQuery\DomQueryNodes->__call('innertext', Array)
+#1 {main}
+  thrown in /home/aridtlpn/public_html/scraping/vendor/rct567/dom-query/src/Rct567/DomQuery/DomQueryNodes.php on line 639
+[17-Apr-2021 05:52:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function plaintext() on array in /home/aridtlpn/public_html/scraping/index.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 94
+[17-Apr-2021 05:52:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function plaintext() on null in /home/aridtlpn/public_html/scraping/index.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 94
+[17-Apr-2021 05:52:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function plaintext() on null in /home/aridtlpn/public_html/scraping/index.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 94
+[17-Apr-2021 06:10:32 America/New_York] PHP Warning:  Use of undefined constant word - assumed 'word' (this will throw an Error in a future version of PHP) in /home/aridtlpn/public_html/scraping/index.php on line 109
+[17-Apr-2021 06:10:32 America/New_York] PHP Notice:  Undefined variable: last in /home/aridtlpn/public_html/scraping/index.php on line 109
+[17-Apr-2021 06:10:32 America/New_York] PHP Warning:  A non-numeric value encountered in /home/aridtlpn/public_html/scraping/index.php on line 109
+[17-Apr-2021 07:51:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_empty() in /home/aridtlpn/public_html/scraping/index.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 84
+[17-Apr-2021 07:59:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_empty() in /home/aridtlpn/public_html/scraping/index.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 84
+[17-Apr-2021 08:16:47 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:16:47 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:16:47 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:17:01 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:17:01 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:17:01 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:17:14 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:17:14 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:17:14 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:17:27 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:17:27 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:17:27 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:17:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:17:40 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:17:40 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:17:54 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:17:54 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:17:54 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:18:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:18:07 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:18:07 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:18:21 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:18:21 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:18:21 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:18:34 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:18:34 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:18:34 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:18:47 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:18:47 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:18:47 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:19:00 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:19:00 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:19:00 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:19:14 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:19:14 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:19:14 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:19:27 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:19:27 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:19:27 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:19:40 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:19:40 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:19:40 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:19:54 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:19:54 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:19:54 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:20:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:20:07 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:20:07 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:20:20 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:20:20 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:20:20 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:20:35 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:20:35 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:20:35 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:20:48 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:20:48 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:20:48 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[17-Apr-2021 08:21:01 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 145
+[17-Apr-2021 08:21:01 America/New_York] PHP Warning:  main(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 149
+[17-Apr-2021 08:21:01 America/New_York] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/aridtlpn/public_html/scraping/index.php on line 152
+[18-Apr-2021 08:44:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function text() on null in /home/aridtlpn/public_html/scraping/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 108
+[18-Apr-2021 08:45:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function text() on null in /home/aridtlpn/public_html/scraping/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 108
+[18-Apr-2021 08:47:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function text() on null in /home/aridtlpn/public_html/scraping/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 108
+[18-Apr-2021 08:49:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function text() on null in /home/aridtlpn/public_html/scraping/index.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/aridtlpn/public_html/scraping/index.php on line 106
