@@ -119,10 +119,15 @@ use HeadlessChromium\BrowserFactory;
 
         $data = json_decode($result, true);
 
-        if(array_key_exists('data', $data))
-            return $data['data']['description'];
-        else
+        if(is_array($data)){
+            if(array_key_exists('data', $data))
+                    return $data['data']['description'];
+                else
+                    return 'not exist';
+        }
+        else{
             return 'not exist';
+        }
         
     }
 
@@ -225,6 +230,7 @@ use HeadlessChromium\BrowserFactory;
                 }
                 else{
                     createLog($key,$original_address,'third loop error');
+                    sleep(5);
                     return;
                 }
                 
