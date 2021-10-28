@@ -230,7 +230,7 @@ use HeadlessChromium\BrowserFactory;
                 }
                 else{
                     createLog($key,$original_address,'third loop error');
-                    sleep(5);
+                    // sleep(5);
                     return;
                 }
                 
