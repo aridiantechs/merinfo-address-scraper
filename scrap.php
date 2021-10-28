@@ -65,6 +65,68 @@ use HeadlessChromium\BrowserFactory;
     }
 
 
+
+    function getResidenceInfo( $uuid , $csrf )
+    {
+        $x_csrf = 'x-csrf-token:' . $csrf;
+
+        $user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
+
+        $options = array(
+    
+            CURLOPT_CUSTOMREQUEST  => "POST",        //set request type post or get
+            CURLOPT_POST           => true,        //set to GET
+            CURLOPT_USERAGENT      => $user_agent, //set user agent
+            CURLOPT_COOKIEFILE     =>"cookie.txt", //set cookie file
+            CURLOPT_COOKIEJAR      =>"cookie.txt", //set cookie jar
+            CURLOPT_RETURNTRANSFER => true,     // return web page
+            CURLOPT_FOLLOWLOCATION => true,     // follow redirects
+            CURLOPT_ENCODING       => "",       // handle all encodings
+            CURLOPT_AUTOREFERER    => true,     // set referer on redirect
+            CURLOPT_CONNECTTIMEOUT => 120,      // timeout on connect
+            CURLOPT_TIMEOUT        => 120,      // timeout on response
+            CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
+            CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
+            CURLOPT_PROXYPORT      => '22225',
+            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone:0xwx5ytxlfcc',
+            CURLOPT_HTTPPROXYTUNNEL=> 1,
+            CURLOPT_HTTPHEADER     => array(
+                                        'origin: https://www.merinfo.se',
+                                        $x_csrf,
+                                        'Content-Type: application/json',
+                                    ),
+
+        );
+        
+        $ch = curl_init( 'https://www.merinfo.se/api/v1/person/residence' );
+        curl_setopt_array( $ch, $options );
+
+        $x_csrf = 'x-csrf-token:' . $csrf;
+
+        $uuid_aaray['uuid'] = $uuid;
+        $json_data = json_encode($uuid_aaray);
+
+
+        curl_setopt($ch, CURLOPT_POSTFIELDS, $json_data);
+
+        // print_r($ch);die();
+
+        $result = curl_exec( $ch );
+        $err     = curl_errno( $ch );
+        $errmsg  = curl_error( $ch );
+        $header  = curl_getinfo( $ch );
+        curl_close( $ch );
+
+        $data = json_decode($result, true);
+
+        if(array_key_exists('data', $data))
+            return $data['data']['description'];
+        else
+            return 'not exist';
+        
+    }
+
+
     function headLessRequest($url){
 
         $browserCommand = 'google-chrome';
@@ -94,17 +156,12 @@ use HeadlessChromium\BrowserFactory;
 
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
-        if($original_address == '\n'){echo 'found';die();}
-        
         $address = str_replace(' ', '+', urlencode($address));
-        // echo '<br>';
-
+        
         $url = 'https://www.merinfo.se/search?who=0&where='.$address;
         
         $result = get_web_page($url);
-
         $html   = $result['content'];
-        
         $dom    = str_get_html($html);
         
         $page_links   = [];
@@ -117,30 +174,48 @@ use HeadlessChromium\BrowserFactory;
 
             foreach($dom->find('.link-primary') as $element){
 
-                $page_link = $page_links[] = $element->href;
-                $found = true;
+                $page_link = $element->href;
+                
+                if($page_link)
+                    $found = true;
+
                 break;
 
             }
+
 
             if($found){
 
                 createLog($key,$original_address,$page_link,true);
 
-                $html = headLessRequest($page_links[0]);
+                $result = get_web_page($page_link);
+                $html   = $result['content'];
+                $dom    = str_get_html($html);
 
-                $dom  = str_get_html($html);
-
-                if(gettype($dom) == 'boolean')
-                    createLog($key,$original_address,'headless error');
+                if(gettype($dom) == 'boolean'){
+                    createLog($key,$original_address,'Second loop error');
+                    return;
+                }
 
                 $result = '';
 
-                foreach($dom->find('#residence-info') as $element){
-                    $result = $element;
-                }
+                $element = $dom->find('script', 20);
 
-                // $uuid = substr($element,377,36);
+                $uuid = substr($element,377,36) ?? '';
+
+                $element = $dom->find('meta', 3);
+
+                $csrf = explode('"', $element);
+
+                $csrf = $csrf[3] ?? '';
+
+                if($uuid && $csrf)
+                    $result = getResidenceInfo($uuid, $csrf);
+                else{
+                    createLog($key,$original_address,'second loop error');
+                    return;
+                }
+                
 
                 if (strpos($result, 'bostadsrätt') !== false) {
                     $living_type = 'bostadsrätt';
@@ -148,24 +223,30 @@ use HeadlessChromium\BrowserFactory;
                 else if (strpos($result, 'hyresrätt') !== false) {
                     $living_type = 'hyresrätt';
                 }
+                else{
+                    createLog($key,$original_address,'third loop error');
+                    return;
+                }
                 
             }
 
             else if(!$found){
                 handleFailedAddresses($dom, $html, $key, $original_address);
+                return;
             }
 
         }
         else{
+
             createLog($key,$original_address,'Proxy or Scraper not working');
             sleep(25);
-            // echo $living_type . '  1 ';
+            return;
+        
         }
 
         // Store data
         $living_type = str_replace(' ', '', $living_type);
-        echo $living_type . ' ('.$key.')    ';
-
+        
         if($living_type == ''){
             createLog($key,$original_address,'Headless issue');
         }
