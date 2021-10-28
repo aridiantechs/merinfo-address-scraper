@@ -67,7 +67,7 @@ use HeadlessChromium\BrowserFactory;
 
     function headLessRequest($url){
 
-        $browserCommand = 'C:\Program Files\Google\Chrome\Application\chrome.exe';
+        $browserCommand = 'google-chrome';
 
         $browserFactory = new BrowserFactory($browserCommand);
         $browser = $browserFactory->createBrowser([
