@@ -164,7 +164,7 @@ use HeadlessChromium\BrowserFactory;
 
         // Store data
         $living_type = str_replace(' ', '', $living_type);
-        // echo $living_type . ' ('.$key.')    ';
+        echo $living_type . ' ('.$key.')    ';
 
         if($living_type == ''){
             createLog($key,$original_address,'Headless issue');
