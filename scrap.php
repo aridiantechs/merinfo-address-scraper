@@ -245,7 +245,7 @@ use HeadlessChromium\BrowserFactory;
         else{
 
             createLog($key,$original_address,'Proxy or Scraper not working');
-            sleep(25);
+            sleep(10);
             return;
         
         }
