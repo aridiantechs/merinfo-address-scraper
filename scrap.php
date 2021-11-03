@@ -364,20 +364,29 @@ use HeadlessChromium\BrowserFactory;
         $file_addresses = fopen("address-1.txt", "r") or die("Unable to open file!");
         $addresses = [];
 
-        while (($line = fgets($file_addresses)) !== false) {
-            $addresses[] = $line;
-        }
+        // while (($line = fgets($file_addresses)) !== false) {
+        //     $addresses[] = $line;
+        // }
 
-        foreach(array_unique($addresses) as $key => $address){
-            getData($address,$key,$file_name);
-        }
+        // foreach(array_unique($addresses) as $key => $address){
+        //     getData($address,$key,$file_name);
+        // }
 
 
         // print_r($addresses);
 
+        createLog(0001, 'loop 1', 'New loop started', true);
         runFailedNumbers($file_name);
+
+        createLog(0002, 'loop 2', 'New loop started', true);
         runFailedNumbers($file_name);
+
+        createLog(0003, 'loop 3', 'New loop started', true);
         runFailedNumbers($file_name);
+
+        createLog(0004, 'loop 4', 'New loop started', true);
+        runFailedNumbers($file_name);
+
 
         
 
