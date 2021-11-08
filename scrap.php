@@ -228,9 +228,11 @@ use HeadlessChromium\BrowserFactory;
                 else if (strpos($result, 'hyresrätt') !== false) {
                     $living_type = 'hyresrätt';
                 }
+                else if (strpos($result, 'bostadsinformation') !== false) {
+                    $living_type = 'ingen-information';
+                }
                 else{
                     createLog($key,$original_address,'third loop error');
-                    // sleep(5);
                     return;
                 }
                 
@@ -385,6 +387,12 @@ use HeadlessChromium\BrowserFactory;
         runFailedNumbers($file_name);
 
         createLog(0004, 'loop 4', 'New 1M loop started', true);
+        runFailedNumbers($file_name);
+
+        createLog(0005, 'loop 5', 'New 1M loop started', true);
+        runFailedNumbers($file_name);
+
+        createLog(0006, 'loop 6', 'New 1M loop started', true);
         runFailedNumbers($file_name);
 
 
