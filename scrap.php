@@ -375,16 +375,16 @@ use HeadlessChromium\BrowserFactory;
 
         // print_r($addresses);
 
-        createLog(0001, 'loop 1', 'New loop started', true);
+        createLog(0001, 'loop 1', 'New 1M loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0002, 'loop 2', 'New loop started', true);
+        createLog(0002, 'loop 2', 'New 1M loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0003, 'loop 3', 'New loop started', true);
+        createLog(0003, 'loop 3', 'New 1M loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0004, 'loop 4', 'New loop started', true);
+        createLog(0004, 'loop 4', 'New 1M loop started', true);
         runFailedNumbers($file_name);
 
 
