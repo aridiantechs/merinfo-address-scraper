@@ -1,0 +1,2794 @@
+Holbergsgatan 34 lgh 1001 - bostadsrätt
+Sleipnergatan 56 lgh 1501 - hyresrätt
+Vintergatan 6 lgh 1205 - bostadsrätt
+Ålgrytevägen 151 lgh 1401 - hyresrätt
+Hagavägen 22 lgh 1201 - bostadsrätt
+Kilian Zollsgatan 31C lgh 1101 - bostadsrätt
+Ingebjörnsgatan 7B lgh 1003 - hyresrätt
+Porsögården 22 lgh 1016 - hyresrätt
+Drottningholmsvägen 280 lgh 1103 - hyresrätt
+Eriksbergsvägen 21B lgh 1002 - hyresrätt
+Femkampsgatan 7A lgh 1301 - bostadsrätt
+Mörbyvägen 60 lgh 1203 - bostadsrätt
+Axvallagatan 5A lgh 1101 - hyresrätt
+Fängelsegatan 5 lgh 1103 - hyresrätt
+Sjunde Villagatan 9 lgh 1301 - hyresrätt
+Ringen 4A lgh 1507 - bostadsrätt
+Riddaregatan 7B lgh 1303 - bostadsrätt
+Filipstadsbacken 38 lgh 1201 - bostadsrätt
+Planterarvägen 61 lgh 1301 - bostadsrätt
+Staveredsgatan 7B lgh 1201 - bostadsrätt
+Djurängsvägen 62C lgh 1102 - bostadsrätt
+Kryddgårdsgränd 14 lgh 1101 - bostadsrätt
+Kaserngatan 8 lgh 1306 - hyresrätt
+Fribergsgatan 8 lgh 1002 - bostadsrätt
+Övre Majorsgatan 8 lgh 1001 - bostadsrätt
+Skandiavägen 4A lgh 1403 - bostadsrätt
+Gåsagången 35 lgh 1203 - hyresrätt
+Tornslingan 31 lgh 1602 - bostadsrätt
+Stagneliusvägen 60 lgh 1107 - hyresrätt
+Mäster Simons Väg 6B lgh 1401 - bostadsrätt
+Lindgården 37 lgh 1403 - hyresrätt
+Maltesholmsvägen 139 lgh 1105 - hyresrätt
+Hantverkargatan 90 lgh 1301 - hyresrätt
+Historiegränd 16C lgh 1201 - hyresrätt
+Katarina Bangata 59C lgh 1502 - bostadsrätt
+Västra Varvsgatan 22C lgh 1202 - bostadsrätt
+Middagsgatan 100 lgh 1001 - hyresrätt
+Storgatan 21B lgh 1301 - bostadsrätt
+Mellangatan 7A lgh 1102 - hyresrätt
+Arvid Mörnes Väg 60 lgh 1101 - bostadsrätt
+Risåsgatan 5 lgh 1003 - bostadsrätt
+Nygatan 18A lgh 1001 - bostadsrätt
+Jutevägen 22 lgh 1101 - bostadsrätt
+Skogsgatan 95 lgh 1105 - hyresrätt
+Aspnäsvägen 6 lgh 1001 - bostadsrätt
+Uppfartsvägen 8 lgh 1206 - bostadsrätt
+Sveavägen 129 lgh 1403 - bostadsrätt
+Bergviksgatan 19 lgh 1102 - bostadsrätt
+Vegagatan 9B lgh 1102 - hyresrätt
+Brännbergsvägen 1A lgh 1003 - bostadsrätt
+Burensköldsvägen 34 lgh 1001 - hyresrätt
+Rantzowgatan 2A lgh 1002 - hyresrätt
+Margreteborgsvägen 26 lgh 1202 - bostadsrätt
+Björkgatan 19 lgh 1202 - bostadsrätt
+Ormingeringen 14C lgh 1102 - bostadsrätt
+Stora Gråbrödersgatan 16B lgh 1105 - hyresrätt
+Arkövägen 35 lgh 1102 - hyresrätt
+Kyrkgatan 9B lgh 1102 - hyresrätt
+Lotta Svärds Gränd 6 lgh 1308 - bostadsrätt
+Reuterholmsvägen 9 lgh 1001 - bostadsrätt
+Landsdomarevägen 1 lgh 1001 - hyresrätt
+Granitvägen 24E lgh 1302 - bostadsrätt
+Terrassgatan 9 lgh 1406 - hyresrätt
+Pjäsbacken 22 lgh 1102 - hyresrätt
+Villagatan 23 lgh 1108 - hyresrätt
+Göljemålagatan 23D lgh 1102 - bostadsrätt
+Professorsslingan 10 lgh 0918 - hyresrätt
+Vallhornsvägen 6 lgh 1001 - hyresrätt
+Fyrvaktarkroken 34 lgh 1503 - bostadsrätt
+Fagerdalsvägen 4 lgh 1104 - bostadsrätt
+Stationsgatan 3 lgh 1106 - hyresrätt
+Toltorpsgatan 127 lgh 1202 - hyresrätt
+Floravägen 3A lgh 1103 - hyresrätt
+Södergatan 2C lgh 1202 - hyresrätt
+Trädgårdsgatan 1 lgh 1103 - bostadsrätt
+Kalkugnsvägen 8B lgh 1002 - bostadsrätt
+Riddargatan 31B lgh 1301 - bostadsrätt
+Björklundsgatan 3A lgh 1201 - bostadsrätt
+Roslagsgatan 31 lgh 1202 - hyresrätt
+Nygatan 14 lgh 1002 - bostadsrätt
+Rundvägen 1 lgh 1101 - hyresrätt
+Holmvägen 5 lgh 1403 - bostadsrätt
+Olshammarsgatan 38 lgh 1402 - hyresrätt
+Kaptensgatan 9A lgh 1202 - bostadsrätt
+Bävervägen 11B lgh 1001 - hyresrätt
+Myntgatan 53 lgh 1303 - bostadsrätt
+Fridhemsgatan 4A lgh 1202 - hyresrätt
+Heimdalsgatan 1 lgh 1302 - bostadsrätt
+Stabbegatan 93 lgh 1001 - bostadsrätt
+Lerbäcksgränd 3 lgh 1102 - bostadsrätt
+Djurgårdsvägen 15A lgh 1202 - bostadsrätt
+Sjömansgatan 14B lgh 1002 - bostadsrätt
+Tumatorpsvägen 3B lgh 1001 - bostadsrätt
+Monsungatan 32 lgh 1402 - bostadsrätt
+Domaregatan 9C lgh 1001 - bostadsrätt
+Stakegatan 14 lgh 1101 - hyresrätt
+Ekebyvägen 30 lgh 1001 - bostadsrätt
+Vidkärrsallén 3A lgh 1101 - hyresrätt
+Hjalmar Lundbohmsvägen 43 lgh 1102 - bostadsrätt
+Bergsjövägen 41C lgh 1202 - hyresrätt
+Briljantgatan 57 lgh 1001 - hyresrätt
+Karneolgatan 69 lgh 1202 - hyresrätt
+Lasarettsvägen 9 lgh 1206 - hyresrätt
+Verkstadsgatan 2B lgh 0905 - hyresrätt
+Maltesholmsvägen 145 lgh 1706 - hyresrätt
+Kyrkogatan 2B lgh 1003 - hyresrätt
+Valhallagatan 1A lgh 1102 - bostadsrätt
+Eriksdalsgatan 26 lgh 1101 - bostadsrätt
+Hällgumsgatan 31A lgh 1002 - hyresrätt
+Sturegatan 1B lgh 1201 - hyresrätt
+Paternostervägen 92 lgh 1102 - bostadsrätt
+Odengatan 98 lgh 1501 - bostadsrätt
+Skansvägen 98B lgh 1002 - hyresrätt
+Jakobsdalsvägen 23 lgh 1304 - hyresrätt
+Örnbacken 10 lgh 1202 - hyresrätt
+Bildhuggarvägen 7 lgh 1001 - hyresrätt
+Mangårdsvägen 10 lgh 1201 - hyresrätt
+Bäckaskiftsvägen 21 lgh 0901 - bostadsrätt
+Månadsvägen 65 lgh 1201 - bostadsrätt
+Trondheimsgatan 40 lgh 1302 - hyresrätt
+Sjödalsbacken 2 lgh 1002 - bostadsrätt
+Västmannagatan 78 lgh 1104 - hyresrätt
+Bondegatan 71A lgh 1403 - hyresrätt
+Essingestråket 27 lgh 1105 - hyresrätt
+Skördegatan 6 lgh 1003 - hyresrätt
+Aspåsvägen 1A lgh 1104 - bostadsrätt
+Krukmakargatan 24 lgh 1603 - bostadsrätt
+Storgatan 13A lgh 1201 - hyresrätt
+Johannelundsvägen 20 lgh 1103 - bostadsrätt
+Elias Lönnrots Väg 7 lgh 1001 - bostadsrätt
+Björkvägen 6B lgh 1201 - hyresrätt
+Mjölkuddsvägen 57 lgh 1601 - bostadsrätt
+Skomakargatan 5 lgh 1203 - bostadsrätt
+Skarphagsgatan 49 lgh 1101 - hyresrätt
+Sockenvägen 11 lgh 1003 - hyresrätt
+Kolgårdsgatan 11 lgh 1001 - bostadsrätt
+Friluftsvägen 3 lgh 1103 - bostadsrätt
+Storgatan 19 lgh 1101 - hyresrätt
+Frögatan 18 lgh 1001 - hyresrätt
+Östra Kyrkogatan 14A lgh 1202 - hyresrätt
+Läkarvägen 2B lgh 1104 - hyresrätt
+Västra Brinkvägen 21 lgh 1203 - bostadsrätt
+Kungsfågelvägen 1D lgh 1002 - hyresrätt
+Tunnlandsvägen 73 lgh 1001 - bostadsrätt
+Åkerbyvägen 364 lgh 1201 - bostadsrätt
+Bodastigen 54 lgh 0901 - hyresrätt
+Hagalundsgatan 35 lgh 1803 - hyresrätt
+Sturegatan 25B lgh 1203 - hyresrätt
+Hissjövägen 26 lgh 1301 - bostadsrätt
+Rissneleden 35 lgh 1001 - hyresrätt
+Lindhagensplan 45 lgh 1905 - hyresrätt
+Råsundavägen 134 lgh 1501 - bostadsrätt
+Bellevuegatan 5A lgh 1101 - hyresrätt
+Lisebergsvägen 123 lgh 1003 - bostadsrätt
+Brogatan 31 lgh 1001 - hyresrätt
+Batterigatan 7 lgh 1105 - bostadsrätt
+Kilbacksvägen 5C lgh 1102 - hyresrätt
+Liljeholmsgränd 4 lgh 1201 - bostadsrätt
+Eskadervägen 40 lgh 1204 - bostadsrätt
+Doktorsronden 11D lgh 1102 - hyresrätt
+Kallenbergsgatan 8A lgh 1202 - bostadsrätt
+Inteckningsvägen 55 lgh 1001 - hyresrätt
+Botvidsgatan 6B lgh 1301 - bostadsrätt
+Wilhelmsrovägen 3 lgh 1301 - bostadsrätt
+Djäknegatan 45 lgh 1202 - hyresrätt
+Övre Torekällgatan 35 lgh 1203 - hyresrätt
+Vasagatan 11 lgh 1202 - bostadsrätt
+Östra Fäladsgatan 4A lgh 1801 - hyresrätt
+Tågagatan 5 lgh 1403 - hyresrätt
+Myrgatan 21B lgh 1101 - bostadsrätt
+Myrbacksvägen 2C lgh 1102 - hyresrätt
+Bryggaregatan 17 lgh 1103 - hyresrätt
+Hasselbackevägen 88 lgh 0902 - hyresrätt
+Nedre Torekällgatan 15 lgh 1202 - hyresrätt
+Genvägen 15E lgh 1102 - bostadsrätt
+Skepparegatan 37B lgh 1304 - hyresrätt
+Luntantugatan 4 lgh 1101 - hyresrätt
+Kungsgatan 9M lgh 1404 - bostadsrätt
+Ejdervägen 20 lgh 1001 - hyresrätt
+Solstickegatan 15 lgh 1002 - bostadsrätt
+Brobygatan 3 lgh 1003 - bostadsrätt
+Skolgatan 11B lgh 1102 - hyresrätt
+Västgötavägen 29 lgh 1201 - bostadsrätt
+Höstvädersgatan 53 lgh 1301 - hyresrätt
+Annagatan 2 lgh 1202 - hyresrätt
+Anderslundsgatan 4 lgh 1206 - hyresrätt
+Bivägen 8B lgh 1203 - hyresrätt
+Västeränggatan 9A lgh 1003 - bostadsrätt
+Tvistevägen 46 lgh 1305 - hyresrätt
+Konstruktörsgatan 56 lgh 1102 - hyresrätt
+Porfyrvägen 8 lgh 1101 - hyresrätt
+Fornbyvägen 7 lgh 1501 - hyresrätt
+Smultronbacken 17 lgh 0904 - hyresrätt
+Kungsgatan 32 lgh 1001 - bostadsrätt
+Götgatan 78 lgh 2612 - hyresrätt
+Väderkvarnsvägen 3 lgh 1003 - bostadsrätt
+Daltorpsgatan 49B lgh 1201 - bostadsrätt
+Spolegatan 15 lgh 1613 - hyresrätt
+Lantmannavägen 36 lgh 1105 - hyresrätt
+Drottninggatan 13 lgh 1005 - hyresrätt
+Vanadisvägen 26A lgh 1303 - bostadsrätt
+Svennebygränd 5 lgh 1002 - hyresrätt
+Mejerigatan 14 lgh 1702 - hyresrätt
+Kaptensgatan 11A lgh 1103 - hyresrätt
+Hunnebergsvägen 14 lgh 1101 - hyresrätt
+Vickergatan 11 lgh 1004 - bostadsrätt
+Siversgatan 2 lgh 1301 - hyresrätt
+Fleminggatan 32 lgh 1303 - bostadsrätt
+Norra Dragspelsgatan 14 lgh 2105 - hyresrätt
+Oskarsgatan 22B lgh 1201 - hyresrätt
+Kvarnbergsgatan 52 lgh 1602 - hyresrätt
+Hantverksgatan 12A lgh 1202 - bostadsrätt
+Flintvägen 4B lgh 1106 - hyresrätt
+Sturegatan 3 lgh 1102 - hyresrätt
+Södra Gröngatan 34 lgh 1309 - hyresrätt
+Södra Kyrkogatan 11 lgh 1210 - bostadsrätt
+Kungsgatan 14 lgh 1102 - hyresrätt
+Elsa Borgs Gata 70 lgh 1303 - bostadsrätt
+Ingenjörsgatan 7B lgh 1401 - bostadsrätt
+Solgårdsgatan 2C lgh 1002 - hyresrätt
+Walkeskroken 14C lgh 1202 - hyresrätt
+Johannesbäcksgatan 72A lgh 1302 - hyresrätt
+Storgatan 37 lgh 1003 - hyresrätt
+Prästgårdsvägen 9 lgh 1303 - hyresrätt
+Fjällgatan 23 lgh 1303 - hyresrätt
+Köpmangatan 33A lgh 1102 - hyresrätt
+Bärkingeplan 17 lgh 1101 - bostadsrätt
+Osbyringen 14 lgh 1002 - hyresrätt
+Svampskogsvägen 39 lgh 1001 - bostadsrätt
+Korpegatan 23C lgh 1301 - hyresrätt
+Strindbergsvägen 5A lgh 1202 - hyresrätt
+Karpgatan 4 lgh 1002 - hyresrätt
+Gärdesgatan 90B lgh 1004 - bostadsrätt
+Dalagatan 9B lgh 1202 - bostadsrätt
+Väderkvarnsgatan 52B lgh 1001 - bostadsrätt
+Tallundsgatan 17 lgh 1001 - bostadsrätt
+Gjuterigatan 23 lgh 1305 - hyresrätt
+Valbogatan 23A lgh 1101 - hyresrätt
+Torpagatan 7A lgh 1302 - bostadsrätt
+Getbergsvägen 28 lgh 1201 - bostadsrätt
+Gotlandsgatan 37 lgh 1205 - bostadsrätt
+Sidvallsvägen 15 lgh 1103 - bostadsrätt
+Lextorpsvägen 7 lgh 1104 - hyresrätt
+Styckjunkaregatan 1A lgh 1102 - hyresrätt
+Slaggatan 3C lgh 1001 - hyresrätt
+Basungatan 34 lgh 1102 - hyresrätt
+Kilsgatan 1 lgh 1301 - hyresrätt
+Malmuddsvägen 3 lgh 1201 - hyresrätt
+Östra Långgatan 17B lgh 1002 - hyresrätt
+Dybecksgatan 2D lgh 1302 - hyresrätt
+Silverringen 33 lgh 1302 - hyresrätt
+Nordanvindsvägen 11C lgh 1001 - hyresrätt
+Luftvärnsgatan 92 lgh 1203 - hyresrätt
+Torpagatan 12A lgh 1003 - hyresrätt
+Folkparken 3 lgh 1003 - hyresrätt
+Kocksgatan 56 lgh 1402 - hyresrätt
+Vetlandavägen 18 lgh 1101 - hyresrätt
+Kyrkostigen 3A lgh 1101 - hyresrätt
+Havsörnsgatan 7 lgh 1502 - hyresrätt
+Gåsagången 30 lgh 1102 - hyresrätt
+Torggatan 7 lgh 1201 - hyresrätt
+Karlfeldtsgatan 24 lgh 1002 - hyresrätt
+Bergsmarksvägen 3 lgh 1107 - hyresrätt
+Thulegatan 23A lgh 1101 - bostadsrätt
+Norrsättersgatan 11A lgh 1102 - hyresrätt
+Rönnbergagatan 8A lgh 1101 - hyresrätt
+Kungsgatan 54B lgh 1202 - bostadsrätt
+Brantholmsgränd 62 lgh 1002 - hyresrätt
+Bergsgatan 16 lgh 1302 - hyresrätt
+Doktor Saléns Gata 17 lgh 1803 - hyresrätt
+Vintergatan 10 lgh 1201 - hyresrätt
+Unionsgatan 14 lgh 1105 - hyresrätt
+Odensalavägen 62C lgh 1106 - hyresrätt
+Sommarvägen 27 lgh 1102 - bostadsrätt
+Boforsgatan 5 lgh 1302 - bostadsrätt
+Arrendevägen 7A lgh 1401 - hyresrätt
+Planteringsvägen 94B lgh 1201 - hyresrätt
+Rullstensgatan 176 lgh 1007 - hyresrätt
+Örtagatan 12 lgh 1101 - hyresrätt
+Björkgatan 4 lgh 1203 - hyresrätt
+Lulsundsgatan 28 lgh 1002 - hyresrätt
+Norrbågen 28 lgh 1106 - hyresrätt
+Storgatan 52B lgh 1202 - hyresrätt
+Stolmakaregatan 6A lgh 1201 - bostadsrätt
+Vasallgatan 3D lgh 1301 - bostadsrätt
+Stora Torget 2C lgh 1201 - hyresrätt
+Brynäsgränd 13 lgh 1202 - bostadsrätt
+Älvans Väg 91 lgh 1202 - bostadsrätt
+Rosenhöjdsvägen 28 lgh 1206 - bostadsrätt
+Lorensbergsgatan 1A lgh 1201 - bostadsrätt
+Hagmarksvägen 19A lgh 1101 - hyresrätt
+Skeppargatan 75 lgh 1602 - bostadsrätt
+Postgatan 18 lgh 1101 - hyresrätt
+Svandammsvägen 8 lgh 1103 - bostadsrätt
+Jungmansgatan 31B lgh 1302 - hyresrätt
+Bygatan 15 lgh 1201 - hyresrätt
+Nordenskiöldsgatan 12 lgh 1703 - hyresrätt
+Åsgatan 35C lgh 1001 - bostadsrätt
+Ekebyvägen 19 lgh 1102 - hyresrätt
+Timmervägen 26C lgh 1101 - hyresrätt
+Utmarksvägen 7 lgh 1201 - hyresrätt
+Staketgatan 14 lgh 1205 - hyresrätt
+Magnus Ladulåsgatan 37 lgh 1101 - bostadsrätt
+Bergsgårdsgärdet 45 lgh 1203 - hyresrätt
+Frida Åslunds Gränd 1A lgh 1302 - hyresrätt
+Utåkersgatan 5B lgh 1202 - bostadsrätt
+Föreningsgatan 54B lgh 1201 - bostadsrätt
+Repslagaregatan 25B lgh 1001 - bostadsrätt
+Solrosgatan 6A lgh 1201 - bostadsrätt
+Pukegatan 5C lgh 1202 - hyresrätt
+Gussarvsgatan 11 lgh 1002 - hyresrätt
+Timmermansgatan 38B lgh 1203 - hyresrätt
+Industrivägen 12 lgh 1001 - hyresrätt
+Östra Farmvägen 36D lgh 1002 - bostadsrätt
+Topasgatan 68 lgh 1303 - bostadsrätt
+Prästbolsvägen 57 lgh 1001 - hyresrätt
+Kungsvägen 123 lgh 1301 - bostadsrätt
+Styvingevägen 22B lgh 1202 - hyresrätt
+Knutsgatan 6 lgh 1002 - hyresrätt
+Ymergatan 17C lgh 1301 - bostadsrätt
+Dunkehallavägen 78 lgh 1212 - hyresrätt
+Toppsockergränd 4 lgh 1201 - bostadsrätt
+Duvhöksgränd 22 lgh 1101 - hyresrätt
+Vaktgatan 14 lgh 1201 - hyresrätt
+Rusthållarvägen 79 lgh 1104 - hyresrätt
+Bergsliden 58 lgh 1101 - hyresrätt
+Hauptvägen 68 lgh 1303 - hyresrätt
+Snevringevägen 47C lgh 1003 - hyresrätt
+Von Rosens Väg 30 lgh 1203 - hyresrätt
+Amiralsgatan 87E lgh 1002 - bostadsrätt
+Runebergsgatan 10 lgh 1002 - hyresrätt
+Kolbottenvägen 7B lgh 1204 - hyresrätt
+Bryggarevägen 24 lgh 1102 - hyresrätt
+Kemivägen 7B lgh 1404 - hyresrätt
+Grundläggaregatan 74 lgh 1201 - hyresrätt
+Höjdgatan 8B lgh 1103 - bostadsrätt
+Bäverbäcksgränd 11 lgh 1102 - hyresrätt
+Sandbackavägen 22N lgh 1004 - hyresrätt
+Hallgatan 7 lgh 1303 - hyresrätt
+Frihetsvägen 74 lgh 1102 - hyresrätt
+Källvägen 1A lgh 0901 - hyresrätt
+Harlyckegatan 7A lgh 1201 - hyresrätt
+Hagaborgsgatan 3 lgh 1002 - hyresrätt
+Regeringsgatan 125A lgh 1101 - hyresrätt
+Svalgränd 5 lgh 1101 - bostadsrätt
+Norrbackagatan 5A lgh 1201 - bostadsrätt
+Elsa Beskows Gata 23 lgh 1302 - hyresrätt
+Roslins Väg 4 lgh 1402 - bostadsrätt
+Brocksgatan 6C lgh 1203 - hyresrätt
+Frejgatan 4A lgh 1002 - bostadsrätt
+Adolf Zethelius Gata 3 lgh 1503 - bostadsrätt
+Altfiolsvägen 5 lgh 1003 - bostadsrätt
+Älggatan 7 lgh 1403 - hyresrätt
+Hallgatan 18 lgh 1203 - hyresrätt
+Fridhemsgatan 1 lgh 1604 - bostadsrätt
+Banérgatan 9 lgh 1202 - hyresrätt
+Norra Kyrkogatan 8 lgh 1201 - bostadsrätt
+Lasarettsvägen 18 lgh 1101 - bostadsrätt
+Norra Centralgatan 7 lgh 1201 - hyresrätt
+Hälsingegatan 35 lgh 1302 - bostadsrätt
+Skogsvägen 48C lgh 1101 - hyresrätt
+Bergshöjden 32 lgh 1002 - hyresrätt
+Hugo Sabels Torg 2 lgh 1102 - hyresrätt
+Lille Mats Väg 7C lgh 1002 - hyresrätt
+Sorgenfrivägen 41 lgh 1601 - hyresrätt
+Batterigatan 13 lgh 1202 - bostadsrätt
+Stenbockens Gata 108 lgh 1001 - bostadsrätt
+Eriksfältsgatan 93B lgh 1203 - hyresrätt
+Landåvägen 77 lgh 1101 - bostadsrätt
+Generalsgatan 72 lgh 1107 - hyresrätt
+Jonstorpsvägen 26 lgh 1002 - bostadsrätt
+Ploggatan 1 lgh 1502 - bostadsrätt
+Fagottgatan 70 lgh 1215 - hyresrätt
+Storvägen 57A lgh 1001 - hyresrätt
+Stenrösvägen 81 lgh 1102 - bostadsrätt
+Mariehemsvägen 33C lgh 1002 - bostadsrätt
+Östra Järnvägsgatan 20C lgh 1201 - bostadsrätt
+Allegatan 8B lgh 1102 - hyresrätt
+Planteringsvägen 73B lgh 1006 - hyresrätt
+Svengrensgatan 38 lgh 1003 - bostadsrätt
+Senapsgatan 23 lgh 1202 - hyresrätt
+Käpplunda Gränd 5 lgh 1501 - hyresrätt
+Stryckselgatan 18 lgh 1001 - hyresrätt
+Bragegatan 4 lgh 1101 - bostadsrätt
+Amanuensvägen 10 lgh 1003 - hyresrätt
+Bondegatan 11B lgh 1002 - hyresrätt
+Årstagatan 31 lgh 1103 - bostadsrätt
+Styrmansgatan 31 lgh 1102 - hyresrätt
+Storvägen 45A lgh 1102 - hyresrätt
+Holmsundsvägen 27 lgh 1102 - hyresrätt
+Karl XII Gatan 20A lgh 1101 - bostadsrätt
+Kyrkogatan 1E lgh 1401 - bostadsrätt
+Trastvägen 6A lgh 1203 - bostadsrätt
+Skogsängsgatan 12D lgh 1102 - hyresrätt
+Sörgården 106 lgh 1202 - bostadsrätt
+Bergavägen 74 lgh 1303 - bostadsrätt
+Lommavägen 32A lgh 1102 - bostadsrätt
+Kantatgatan 60 lgh 1702 - hyresrätt
+Baggargatan 12A lgh 1302 - bostadsrätt
+Tingshusgatan 2 lgh 0901 - hyresrätt
+Tungatan 9 lgh 1202 - hyresrätt
+Centralgatan 29C lgh 1001 - bostadsrätt
+Solvarvsgatan 6 lgh 0901 - hyresrätt
+Norrby Tvärgata 20 lgh 1604 - hyresrätt
+Burströmsvägen 44 lgh 1103 - bostadsrätt
+Svegsgatan 2 lgh 1002 - bostadsrätt
+Gräsklipparvägen 14 lgh 1201 - hyresrätt
+Friluftsvägen 18 lgh 1202 - hyresrätt
+Murargatan 5 lgh 1301 - bostadsrätt
+Ängesvägen 9B lgh 1102 - hyresrätt
+Studentstaden 23 lgh 1202 - hyresrätt
+Paternostervägen 29 lgh 1201 - hyresrätt
+Husby 115A lgh 1102 - hyresrätt
+Sandviksgatan 36D lgh 1001 - bostadsrätt
+Barnhemsvägen 6 lgh 1101 - bostadsrätt
+Ängesvägen 2 lgh 1102 - hyresrätt
+Luthagsesplanaden 87 lgh 1308 - hyresrätt
+Seminariegatan 14A lgh 1102 - bostadsrätt
+Jönköpingsvägen 2B lgh 1104 - bostadsrätt
+Vasagatan 1 lgh 1002 - bostadsrätt
+Björngårdsgatan 3 lgh 1302 - bostadsrätt
+Degerbygränd 3 lgh 1501 - hyresrätt
+Norra Ringvägen 30B lgh 1001 - hyresrätt
+Adelgatan 4 lgh 1305 - hyresrätt
+Barometergatan 72 lgh 1402 - hyresrätt
+Skolspåret 73 lgh 1302 - hyresrätt
+Tvistevägen 4 lgh 1202 - hyresrätt
+Bärnstensgatan 31A lgh 1104 - bostadsrätt
+Östanvindsvägen 5D lgh 1002 - bostadsrätt
+Thorildsvägen 5 lgh 1004 - bostadsrätt
+Kämnärsvägen 49F lgh 1106 - hyresrätt
+Glaciärvägen 2J lgh 1002 - hyresrätt
+Madängsgatan 1 lgh 1110 - hyresrätt
+Arvesgärde 31 lgh 1203 - bostadsrätt
+Dragongatan 1 lgh 1001 - hyresrätt
+Spannmålsgatan 10B lgh 1001 - bostadsrätt
+Rubanksgränd 6 lgh 1003 - bostadsrätt
+Apelbergsgatan 54 lgh 1302 - hyresrätt
+Rådhusgatan 14A lgh 0901 - bostadsrätt
+Sagas Gränd 19 lgh 1002 - hyresrätt
+Gustavsgatan 53 lgh 1201 - bostadsrätt
+Färgaregatan 14C lgh 1202 - bostadsrätt
+Nillas Väg 28C lgh 1001 - hyresrätt
+Långgatan 33 lgh 1101 - hyresrätt
+Gästgivaregatan 17B lgh 1102 - hyresrätt
+Lagergrensgatan 23 lgh 1002 - hyresrätt
+Nydalavägen 3B lgh 1103 - hyresrätt
+Biblioteksgatan 1C lgh 1305 - hyresrätt
+Jumkilsgatan 7A lgh 1002 - bostadsrätt
+Lysingsvägen 7B lgh 1202 - hyresrätt
+Lina Sandells Plan 2 lgh 1305 - bostadsrätt
+Lantmätarvägen 17 lgh 1001 - bostadsrätt
+Bärnstensvägen 28 lgh 1201 - bostadsrätt
+Nelinsgatan 19 lgh 1003 - hyresrätt
+Rådstuguvägen 18 lgh 1203 - bostadsrätt
+Västra Ryttmästaregatan 17A lgh 1201 - bostadsrätt
+Rydsvägen 112B lgh 1101 - hyresrätt
+Nobelvägen 17B lgh 1404 - hyresrätt
+Geografigränd 8E lgh 1002 - hyresrätt
+Vintervägen 32B lgh 1202 - hyresrätt
+Råbyvägen 17 lgh 1227 - hyresrätt
+Becksjudarvägen 29 lgh 0802 - bostadsrätt
+Sibeliusgången 34 lgh 1601 - bostadsrätt
+Båtgatan 6 lgh 1303 - hyresrätt
+Vikingagatan 21 lgh 1101 - bostadsrätt
+Karlagatan 1B lgh 1102 - hyresrätt
+Distansgatan 29 lgh 1002 - hyresrätt
+Granängsvägen 5 lgh 1303 - hyresrätt
+Vasavägen 60B lgh 1001 - hyresrätt
+Storgatan 2 lgh 1201 - hyresrätt
+Birger Jarlsgatan 110 lgh 1201 - bostadsrätt
+Vikingavägen 48 lgh 1101 - bostadsrätt
+Torsvikssvängen 56 lgh 1201 - bostadsrätt
+Grimstagatan 185 lgh 1102 - hyresrätt
+Skrinvägen 31 lgh 1102 - hyresrätt
+Drottninggatan 52 lgh 1501 - hyresrätt
+Stenshällsvägen 13 lgh 1104 - bostadsrätt
+Göteborgsvägen 60 lgh 1001 - hyresrätt
+Von Kraemers Allé 37 lgh 1101 - hyresrätt
+Hjortronvägen 83 lgh 1101 - bostadsrätt
+Fleminggatan 27 lgh 1502 - bostadsrätt
+Hantverkaregatan 23B lgh 1103 - bostadsrätt
+Brushanegatan 8D lgh 1002 - hyresrätt
+Östergatan 112C lgh 1101 - hyresrätt
+Sicksackvägen 19 lgh 1401 - hyresrätt
+Agnegatan 15 lgh 1202 - hyresrätt
+Järnvägsgatan 4 lgh 1301 - hyresrätt
+Kapellvägen 24C lgh 1102 - bostadsrätt
+Storgatan 13 lgh 1102 - hyresrätt
+Stagneliusvägen 28 lgh 1308 - bostadsrätt
+Sunnegatan 33 lgh 1002 - hyresrätt
+Holbergsgatan 84 lgh 1112 - hyresrätt
+Nya Tanneforsvägen 36A lgh 1201 - hyresrätt
+Göketorpsgatan 34A lgh 1001 - bostadsrätt
+Bruksgatan 27A lgh 1102 - hyresrätt
+Holbergsgatan 104 lgh 1001 - bostadsrätt
+Södra Esplanaden 36 lgh 1510 - hyresrätt
+Röntgenvägen 1 lgh 2216 - hyresrätt
+Dunkehallavägen 78 lgh 1216 - hyresrätt
+Djurgårdsgatan 37B lgh 1001 - hyresrätt
+Ormingeringen 3 lgh 1102 - bostadsrätt
+Senapsgatan 8 lgh 1401 - hyresrätt
+Västra Norrlandsgatan 12 lgh 1004 - hyresrätt
+Smed-Anders Väg 2B lgh 1102 - hyresrätt
+Sturevägen 13 lgh 1201 - hyresrätt
+Von Kraemers Allé 35 lgh 1102 - hyresrätt
+Fjällavägen 15C lgh 1002 - hyresrätt
+Brahegatan 9 lgh 1903 - hyresrätt
+Gjörloffsgatan 81B lgh 1001 - hyresrätt
+Odengatan 10 lgh 1002 - hyresrätt
+Kungsgatan 22B lgh 1101 - hyresrätt
+Munkgatan 8C lgh 1002 - bostadsrätt
+Skedagatan 4 lgh 1201 - bostadsrätt
+Spinnrocksvägen 13 lgh 1102 - bostadsrätt
+Kantor Edgrens Väg 12A lgh 1201 - bostadsrätt
+Jungfrudansen 8 lgh 1103 - bostadsrätt
+Stens Väg 12A lgh 1101 - hyresrätt
+Forellgränd 6 lgh 1102 - hyresrätt
+Mandolingatan 39 lgh 1103 - hyresrätt
+Sörgården 136 lgh 1002 - bostadsrätt
+Domkyrkoesplanaden 5A lgh 1003 - hyresrätt
+Rundelsgatan 16B lgh 1203 - hyresrätt
+Två Systrars Väg 21B lgh 1101 - hyresrätt
+Planteringsvägen 206 lgh 1202 - hyresrätt
+Myntstigen 1 lgh 1103 - hyresrätt
+Polhemsgatan 1 lgh 1105 - hyresrätt
+Mamsellstigen 2 lgh 1602 - hyresrätt
+Älgstigen 7C lgh 1001 - hyresrätt
+Skaragatan 18C lgh 1201 - hyresrätt
+Skogvaktaregatan 24 lgh 1101 - bostadsrätt
+Övre Åkargatan 50 lgh 1201 - hyresrätt
+Kilsmogatan 17 lgh 1302 - hyresrätt
+Stinsgatan 10 lgh 1204 - bostadsrätt
+Krongårdsvägen 3 lgh 1408 - hyresrätt
+Österlånggatan 38 lgh 1202 - hyresrätt
+Ståthållaregatan 54B lgh 1202 - bostadsrätt
+Väpnargatan 14 lgh 1202 - hyresrätt
+Kungsgatan 20B lgh 1202 - bostadsrätt
+Hästskobacken 5 lgh 1604 - hyresrätt
+Knapegatan 6B lgh 1102 - hyresrätt
+Storgatan 22C lgh 1103 - hyresrätt
+Storkällsvägen 2A lgh 1101 - hyresrätt
+Kullagatan 9C lgh 1103 - hyresrätt
+Stenhammarsvägen 25 lgh 1008 - hyresrätt
+Väderkvarnsgatan 8A lgh 1002 - bostadsrätt
+Professorsslingan 19 lgh 1108 - hyresrätt
+Cyklonvägen 7 lgh 1701 - hyresrätt
+Storgatan 62B lgh 1202 - hyresrätt
+Cervins Väg 19A lgh 1301 - hyresrätt
+David Bagares Gata 6 lgh 1205 - hyresrätt
+Storgatan 30C lgh 1202 - hyresrätt
+Bjärkevägen 8C lgh 1101 - hyresrätt
+Granängsringen 52 lgh 1601 - hyresrätt
+Vetevägen 3 lgh 1601 - bostadsrätt
+Eneborgsvägen 1A lgh 1002 - hyresrätt
+Gasverksgatan 16 lgh 1302 - hyresrätt
+Västmannavägen 19 lgh 1003 - bostadsrätt
+Solters Plan 1B lgh 1303 - bostadsrätt
+Holtermansgatan 5C lgh 1101 - hyresrätt
+Ståthållaregatan 58B lgh 1303 - bostadsrätt
+Torggatan 35A lgh 1202 - bostadsrätt
+Lundenvägen 33A lgh 1102 - bostadsrätt
+Tamms Väg 17B lgh 1002 - hyresrätt
+Kvillegatan 35 lgh 1002 - bostadsrätt
+Fabriksgatan 54B lgh 1101 - bostadsrätt
+Hermanstorpsvägen 13 lgh 1402 - hyresrätt
+Grengatan 3B lgh 1102 - bostadsrätt
+Raketgatan 8 lgh 1303 - bostadsrätt
+Tjädervägen 2B lgh 1202 - bostadsrätt
+Fågelvägen 18 lgh 1001 - hyresrätt
+Amiralitetsgatan 11A lgh 1202 - bostadsrätt
+Pilagårdsgatan 12C lgh 1101 - hyresrätt
+Totravägen 9A lgh 1002 - hyresrätt
+Vigelsjövägen 14A lgh 1301 - bostadsrätt
+Ängsvägen 1B lgh 1102 - hyresrätt
+Skaraborgsvägen 22 lgh 1104 - bostadsrätt
+Slingvägen 16 lgh 1001 - hyresrätt
+Mjölnargränd 1 lgh 1502 - bostadsrätt
+Södra Esplanaden 11B lgh 1202 - hyresrätt
+Kyrkogatan 7A lgh 1102 - hyresrätt
+Doktor Bex Gata 13B lgh 1102 - bostadsrätt
+Finlandsgatan 22B lgh 1301 - hyresrätt
+Sockenvägen 363 lgh 1202 - bostadsrätt
+Degerbygränd 17 lgh 1102 - hyresrätt
+Myntgatan 3K lgh 1201 - bostadsrätt
+Bondegatan 71B lgh 1202 - hyresrätt
+Strandvägen 14A lgh 1003 - hyresrätt
+Hagavägen 14 lgh 1001 - bostadsrätt
+Drottninggatan 21A lgh 1102 - hyresrätt
+Elisetorpsvägen 9A lgh 1702 - hyresrätt
+Rydsvägen 64A lgh 1102 - hyresrätt
+Bergkullevägen 215 lgh 1102 - bostadsrätt
+Köpmangatan 23B lgh 1101 - bostadsrätt
+Majorsgatan 9 lgh 1001 - bostadsrätt
+Bruno Liljeforsgatan 25 lgh 1002 - hyresrätt
+Furuvägen 6 lgh 1701 - hyresrätt
+Rörstrandsgatan 3 lgh 1201 - hyresrätt
+Planteringsvägen 115 lgh 1201 - hyresrätt
+Bronsgatan 8 lgh 1202 - hyresrätt
+Blå Vägen 233 lgh 0902 - bostadsrätt
+Bredfjällsgatan 64 lgh 1001 - hyresrätt
+Hantverkargatan 84 lgh 1302 - hyresrätt
+Konduktörsgatan 19A lgh 1102 - bostadsrätt
+Kungsgårdsvägen 11A lgh 1101 - hyresrätt
+Silogatan 6 lgh 1302 - bostadsrätt
+Asperögatan 6C lgh 1202 - hyresrätt
+Vinkelgatan 4 lgh 1002 - hyresrätt
+Gibraltargatan 90 lgh 0907 - hyresrätt
+Glimmervägen 10A lgh 1301 - hyresrätt
+Ågatan 43 lgh 1201 - hyresrätt
+Hjortronvägen 29 lgh 1002 - bostadsrätt
+Idrottsgatan 29B lgh 1003 - hyresrätt
+Lagerlundavägen 13 lgh 1102 - hyresrätt
+Torsplan 8B lgh 1102 - hyresrätt
+Barkarbyvägen 73 lgh 1302 - bostadsrätt
+Luftvärnsgatan 38 lgh 1002 - hyresrätt
+Backgatan 25C lgh 1002 - hyresrätt
+Ridvägen 41 lgh 1301 - hyresrätt
+Rydsvägen 254C lgh 1006 - hyresrätt
+Storängsvägen 22 lgh 1002 - bostadsrätt
+Mariedalsvägen 32E lgh 1902 - hyresrätt
+Konstapelgränd 2 lgh 1001 - hyresrätt
+Sagers Väg 2B lgh 1103 - hyresrätt
+Kyrkvägen 4 lgh 1202 - hyresrätt
+Gamla Landsvägen 9 lgh 1202 - bostadsrätt
+Ringvägen 2A lgh 1302 - hyresrätt
+Ankarskatavägen 73A lgh 1105 - hyresrätt
+Teatergatan 38 lgh 1401 - hyresrätt
+Doktorsronden 11D lgh 1104 - hyresrätt
+August Malmsgatan 6A lgh 1101 - hyresrätt
+Luftvärnsgatan 56 lgh 1102 - hyresrätt
+Östgötagatan 22 lgh 1102 - bostadsrätt
+Döbelnsgatan 110C lgh 1101 - bostadsrätt
+Gärdesgatan 4C lgh 1002 - bostadsrätt
+Järnvägsgatan 64 lgh 1101 - hyresrätt
+Bergsgatan 51 lgh 1601 - bostadsrätt
+Vallhornsvägen 1 lgh 1005 - hyresrätt
+Norra Brogatan 6 lgh 1203 - hyresrätt
+Regementsgatan 84B lgh 1203 - hyresrätt
+Skolgatan 11 lgh 1101 - hyresrätt
+Malmövägen 2C lgh 1101 - hyresrätt
+Konsistoriegatan 12B lgh 1001 - bostadsrätt
+Apelgatan 1C lgh 1303 - hyresrätt
+Jössevägen 3B lgh 1103 - hyresrätt
+Karlhovsvägen 5 lgh 1501 - hyresrätt
+Torggatan 16 lgh 1401 - bostadsrätt
+Hissjövägen 32 lgh 1203 - bostadsrätt
+Magasinsgatan 11 lgh 1001 - hyresrätt
+Norrbäcksgatan 34 lgh 1302 - hyresrätt
+Finstavägen 23 lgh 1102 - bostadsrätt
+Kungsgatan 3 lgh 1203 - hyresrätt
+Grönborgsgatan 13 lgh 1217 - hyresrätt
+Sturegatan 23B lgh 1102 - hyresrätt
+Engelbrektsgatan 73 lgh 1101 - hyresrätt
+Dunkehallavägen 78 lgh 1012 - hyresrätt
+Ferlinsgatan 59 lgh 1102 - bostadsrätt
+Dahlborgsgatan 6 lgh 1301 - hyresrätt
+Östra Åsgatan 8E lgh 1202 - bostadsrätt
+Blomstervägen 3A lgh 1103 - hyresrätt
+Annerovägen 40B lgh 1001 - hyresrätt
+Växjövägen 36 lgh 1102 - hyresrätt
+Torkelsgatan 6B lgh 1301 - hyresrätt
+Horisontvägen 75 lgh 1301 - bostadsrätt
+Bagarfruvägen 98 lgh 1201 - hyresrätt
+Ånäsvägen 33B lgh 1301 - hyresrätt
+Degerbygränd 22 lgh 1302 - hyresrätt
+Fridensborgsvägen 153 lgh 1202 - bostadsrätt
+Herrhagsvägen 69 lgh 1202 - hyresrätt
+Kyrkängsbacken 8 lgh 1405 - hyresrätt
+Norra Skjutbanegatan 12D lgh 1103 - bostadsrätt
+Gussarvsgatan 16B lgh 1101 - bostadsrätt
+Lerbrännargatan 5K lgh 1201 - hyresrätt
+Jakob Persvägen 5 lgh 1303 - bostadsrätt
+Prästgårdsgränd 9 lgh 1104 - bostadsrätt
+Järnvägsgatan 28C lgh 1101 - hyresrätt
+Glimmerstigen 19 lgh 1101 - hyresrätt
+Kungsgatan 3A lgh 1201 - hyresrätt
+Brunnsgatan 30 lgh 1202 - hyresrätt
+Strandvägen 25E lgh 1101 - hyresrätt
+Köpmangatan 46B lgh 1001 - bostadsrätt
+Storgatan 104B lgh 1103 - hyresrätt
+Birkagatan 12C lgh 1102 - hyresrätt
+Brunnsnäs 151 lgh 1103 - hyresrätt
+Storgatan 5 lgh 1001 - hyresrätt
+Krondikesvägen 58B lgh 1003 - bostadsrätt
+Sköldvägen 14 lgh 1201 - hyresrätt
+Ploggatan 6B lgh 1102 - hyresrätt
+Svampskogsvägen 39 lgh 1002 - bostadsrätt
+Salviagatan 43 lgh 1402 - hyresrätt
+Bråvallagatan 3 lgh 1502 - bostadsrätt
+Studievägen 31 lgh 1002 - hyresrätt
+Sandgatan 10 lgh 1004 - hyresrätt
+Sundholmsgatan 22 lgh 1103 - bostadsrätt
+Skäpplandsgatan 23 lgh 1702 - hyresrätt
+Ragnvallagatan 18A lgh 1103 - hyresrätt
+Magistratsvägen 55A lgh 1002 - hyresrätt
+Snapphanegatan 12B lgh 1203 - hyresrätt
+Havsörnsgatan 99 lgh 1401 - hyresrätt
+Rosgården 32 lgh 1002 - hyresrätt
+Västra Brinkvägen 21 lgh 1102 - bostadsrätt
+Kristinelundsvägen 26 lgh 0902 - bostadsrätt
+Gibraltargatan 90 lgh 1406 - hyresrätt
+Häradsgatan 31 lgh 1604 - bostadsrätt
+Humlegatan 4B lgh 1202 - hyresrätt
+Kiviksgatan 4D lgh 1301 - bostadsrätt
+Uvelundsgatan 4 lgh 1202 - hyresrätt
+Askrikegatan 19 lgh 1303 - bostadsrätt
+Armégatan 9A lgh 1402 - hyresrätt
+Kalendervägen 36 lgh 1402 - hyresrätt
+Göteborgsvägen 125A lgh 1001 - hyresrätt
+Junelundsgatan 3 lgh 1204 - bostadsrätt
+Folkskolegatan 6 lgh 1403 - bostadsrätt
+Pålsjögatan 4 lgh 1402 - hyresrätt
+Solventilsgatan 20 lgh 1103 - hyresrätt
+Neptunigatan 5 lgh 1001 - hyresrätt
+Höglundavägen 19 lgh 1303 - bostadsrätt
+Falkgatan 18A lgh 1203 - hyresrätt
+Rydsvägen 108A lgh 1102 - hyresrätt
+Norrbackagatan 46 lgh 1301 - bostadsrätt
+Storgatan 88A lgh 1202 - hyresrätt
+Bjurholmsplan 31 lgh 1005 - hyresrätt
+Folkskolegatan 12 lgh 1503 - bostadsrätt
+Smörbollsgatan 2A lgh 1102 - hyresrätt
+Orvar Odds Väg 3 lgh 1304 - hyresrätt
+Lavettvägen 23 lgh 1304 - hyresrätt
+Albertinavägen 3B lgh 1101 - hyresrätt
+Torggatan 5C lgh 1201 - bostadsrätt
+Erik Dahlbergs Väg 12B lgh 1002 - hyresrätt
+Bygdegatan 395 lgh 1001 - bostadsrätt
+Styrmansgatan 17B lgh 1202 - bostadsrätt
+Peterson-Bergers Väg 41 lgh 1002 - hyresrätt
+Stopvägen 31 lgh 1201 - bostadsrätt
+Serenadgatan 70 lgh 1603 - bostadsrätt
+Asphyttegatan 12C lgh 1201 - bostadsrätt
+Swedenborgsgatan 5B lgh 1302 - hyresrätt
+Fågelbacksgatan 27A lgh 1003 - bostadsrätt
+Riksdalersgatan 51 lgh 1403 - hyresrätt
+Kristinegatan 30A lgh 1001 - hyresrätt
+Strombergs Väg 118 lgh 1105 - hyresrätt
+Professorsvägen 23 lgh 1103 - hyresrätt
+Munkavägen 24 lgh 1103 - hyresrätt
+Övedsgatan 2A lgh 1102 - hyresrätt
+Åsenvägen 5 lgh 1408 - hyresrätt
+Gärdebyplan 11 lgh 0901 - hyresrätt
+Tångringsgatan 15 lgh 1302 - hyresrätt
+Fregattgatan 28 lgh 1105 - hyresrätt
+Anders Reimers Väg 2 lgh 1303 - bostadsrätt
+Lovisagatan 199 lgh 1403 - bostadsrätt
+Räntmästaregatan 25E lgh 1002 - bostadsrätt
+Grubbagatan 1A lgh 1003 - hyresrätt
+Vegagatan 12 lgh 1204 - hyresrätt
+Skolgatan 2N lgh 1102 - hyresrätt
+Södra Kyrkogatan 57A lgh 1002 - bostadsrätt
+Bodagatan 42 lgh 1003 - bostadsrätt
+Läroverksgatan 38B lgh 1202 - hyresrätt
+Aspåsvägen 18B lgh 1201 - bostadsrätt
+Astrakangatan 82 lgh 1003 - bostadsrätt
+Vänortsringen 15 lgh 1401 - bostadsrätt
+Docentvägen 32 lgh 1101 - hyresrätt
+Apotekaregatan 7 lgh 1204 - hyresrätt
+Grönbetesvägen 15 lgh 1103 - hyresrätt
+Kammakargatan 70 lgh 1407 - bostadsrätt
+Källängsvägen 35 lgh 1102 - hyresrätt
+Docentvägen 32 lgh 1303 - hyresrätt
+Alvastragatan 3 lgh 1201 - hyresrätt
+Idrottsvägen 28B lgh 1101 - bostadsrätt
+Spårvägen 12 lgh 1002 - hyresrätt
+Herrhagsvägen 229 lgh 1002 - hyresrätt
+Stig Lindbergs Gata 10 lgh 1005 - bostadsrätt
+Riksgatan 9 lgh 1103 - bostadsrätt
+Bromsgatan 37 lgh 1302 - hyresrätt
+Billerudsgatan 32C lgh 1002 - hyresrätt
+Saffransgatan 76 lgh 1202 - hyresrätt
+Engelbrektsgatan 22 lgh 1504 - hyresrätt
+Skiftingegatan 20B lgh 1001 - hyresrätt
+Stekastigen 6 lgh 1003 - bostadsrätt
+Rönningsgatan 23A lgh 1001 - hyresrätt
+Piparens Gata 2 lgh 1203 - hyresrätt
+Repslagaregatan 16C lgh 1201 - bostadsrätt
+Valhallavägen 65D lgh 1101 - bostadsrätt
+Fridhemsgatan 90H lgh 1102 - bostadsrätt
+Eskil Isakssons Gata 3 lgh 1001 - bostadsrätt
+Plangatan 2 lgh 1202 - hyresrätt
+Skarbogatan 2 lgh 0902 - bostadsrätt
+Köpmansgatan 15 lgh 1002 - hyresrätt
+Brännkyrkagatan 114 lgh 1203 - hyresrätt
+Norra Strömgatan 58B lgh 1301 - hyresrätt
+Termovägen 6 lgh 1104 - hyresrätt
+Storgatan 43 lgh 1102 - hyresrätt
+Oscarsgatan 32A lgh 1103 - hyresrätt
+Engelbrektsgatan 6A lgh 1201 - hyresrätt
+Rullstensgatan 174 lgh 1302 - hyresrätt
+Skönviksvägen 280 lgh 1102 - bostadsrätt
+Höglandsvägen 13C lgh 1205 - hyresrätt
+Björn Barkmans Väg 16 lgh 1201 - hyresrätt
+Smedjegatan 13 lgh 1101 - bostadsrätt
+Kastanjegatan 7 lgh 1218 - hyresrätt
+Markörgatan 10B lgh 1101 - hyresrätt
+Sandspåret 75 lgh 1201 - hyresrätt
+Åkervägen 8C lgh 1201 - hyresrätt
+Margreteborgsvägen 23 lgh 1102 - bostadsrätt
+Ruddammsgatan 7 lgh 1108 - hyresrätt
+Bjäregatan 31 lgh 1101 - hyresrätt
+Ormgatan 19A lgh 1001 - hyresrätt
+Åkergatan 13 lgh 1004 - bostadsrätt
+Majrovägen 33 lgh 1002 - bostadsrätt
+Bergkullevägen 283 lgh 1104 - bostadsrätt
+Odengatan 9B lgh 1102 - hyresrätt
+Björnskogsvägen 76 lgh 1101 - bostadsrätt
+Kompanivägen 27 lgh 1402 - hyresrätt
+Stora Gråbrödersgatan 3C lgh 1003 - bostadsrätt
+Köpmangatan 14 lgh 1103 - hyresrätt
+Ludvikagatan 41 lgh 1602 - hyresrätt
+John Ericssons Väg 75B lgh 1103 - hyresrätt
+Värmegatan 3 lgh 1101 - hyresrätt
+Börjegatan 54D lgh 1002 - bostadsrätt
+S:t Peders Gata 19 lgh 1401 - bostadsrätt
+Timmervägen 37C lgh 1102 - hyresrätt
+Bodagatan 47 lgh 0902 - bostadsrätt
+Blomstergatan 15 lgh 1201 - bostadsrätt
+Brännkyrkagatan 53 lgh 1401 - hyresrätt
+Råbystigen 23 lgh 1203 - hyresrätt
+Lökgatan 21 lgh 1004 - bostadsrätt
+Sturegatan 9A lgh 1202 - bostadsrätt
+Himmelriksgränden 6A lgh 1101 - bostadsrätt
+Östra Drottningvägen 23 lgh 1001 - hyresrätt
+Trädgårdsgatan 4A lgh 1103 - hyresrätt
+Stagneliusgatan 25 lgh 1001 - hyresrätt
+Olaus Magnus Väg 8 lgh 1001 - hyresrätt
+Klostergatan 18 lgh 1201 - hyresrätt
+Storgatan 36B lgh 1102 - hyresrätt
+Farkostvägen 2 lgh 1604 - hyresrätt
+Stråkvägen 24 lgh 1001 - bostadsrätt
+Gröndalsvägen 1 lgh 1206 - bostadsrätt
+Engelbrektsgatan 2A lgh 1003 - bostadsrätt
+Sunnerbogatan 5B lgh 1101 - hyresrätt
+Fredsgatan 28A lgh 0902 - hyresrätt
+Tångvägen 32 lgh 1101 - bostadsrätt
+Storgatan 80 lgh 1001 - hyresrätt
+Planteringsgatan 16B lgh 1302 - hyresrätt
+Hantverkargatan 36 lgh 1002 - hyresrätt
+Geografigränd 6B lgh 1002 - hyresrätt
+Skönsbergsvägen 40E lgh 1201 - hyresrätt
+Registervägen 30 lgh 1301 - bostadsrätt
+Tvärgatan 6B lgh 1002 - hyresrätt
+Docentvägen 12 lgh 1405 - hyresrätt
+Lövholmsvägen 19 lgh 1402 - bostadsrätt
+Ekgården 45 lgh 1202 - hyresrätt
+Lottgatan 24B lgh 1201 - bostadsrätt
+Kustroddaregatan 12 lgh 1101 - hyresrätt
+Tunavägen 39E lgh 1409 - hyresrätt
+Munktorpsgatan 3B lgh 1301 - bostadsrätt
+Mariegärdes Väg 11 lgh 1001 - hyresrätt
+Bisittarevägen 27 lgh 1102 - hyresrätt
+Hermelinsgatan 31 lgh 1301 - hyresrätt
+Jägargatan 31B lgh 1102 - hyresrätt
+Repslagargatan 22 lgh 1101 - hyresrätt
+Birkagatan 43A lgh 1102 - hyresrätt
+Fritjof Nansens Väg 10 lgh 1002 - bostadsrätt
+Bokgården 23 lgh 1001 - hyresrätt
+Kongahällagatan 32A lgh 1001 - hyresrätt
+Augustenborgsgatan 14C lgh 1203 - hyresrätt
+Våmmedalsvägen 156 lgh 1202 - hyresrätt
+Mjölnargränd 1 lgh 1203 - bostadsrätt
+Grevgatan 49 lgh 1506 - bostadsrätt
+Kubbegatan 24 lgh 1103 - bostadsrätt
+Villagatan 12A lgh 1010 - hyresrätt
+Bondegatan 1D lgh 1302 - bostadsrätt
+Lindeborgsgatan 45 lgh 1101 - bostadsrätt
+Kungsgatan 38 lgh 1101 - hyresrätt
+Fjällgatan 40 lgh 1002 - hyresrätt
+Torggatan 28 lgh 1102 - hyresrätt
+Stenhuggargränd 1 lgh 1404 - bostadsrätt
+Hyttlidgatan 62A lgh 1002 - hyresrätt
+Hagavägen 28 lgh 1101 - hyresrätt
+Nygatan 13 lgh 1402 - bostadsrätt
+Norra Bogesundsgatan 8 lgh 1303 - bostadsrätt
+Sagovägen 24C lgh 1302 - bostadsrätt
+Klockgjutargatan 6B lgh 1002 - hyresrätt
+Björksundsslingan 18 lgh 1202 - hyresrätt
+Bielkegatan 13A lgh 1201 - bostadsrätt
+Åkersviksgatan 7C lgh 1201 - hyresrätt
+Filarevägen 13A lgh 1202 - hyresrätt
+Oxelgatan 9 lgh 1002 - bostadsrätt
+Intagsgatan 12C lgh 1201 - hyresrätt
+Sandbackavägen 22M lgh 1003 - hyresrätt
+Kaptensgatan 2 lgh 1103 - hyresrätt
+Finningevägen 64C lgh 1003 - hyresrätt
+Stora Ringvägen 44 lgh 0901 - hyresrätt
+Brunflovägen 66 lgh 0901 - hyresrätt
+Lilla Brogatan 3 lgh 1201 - hyresrätt
+Doktor Hjorts Gata 10B lgh 1201 - bostadsrätt
+Västra Ringvägen 26A lgh 1102 - hyresrätt
+Parternas Gränd 29 lgh 1204 - bostadsrätt
+Åstorpsringen 37 lgh 1303 - hyresrätt
+Nils Forsbergsgatan 7A lgh 1101 - bostadsrätt
+Jägaregatan 16B lgh 1201 - hyresrätt
+Luthagsesplanaden 8B lgh 1101 - bostadsrätt
+Björnsonsgatan 142 lgh 1302 - bostadsrätt
+Storgatan 6 lgh 1002 - hyresrätt
+Käpplundavägen 1A lgh 1103 - bostadsrätt
+Vädursgatan 1 lgh 1105 - bostadsrätt
+Gasverksgatan 13 lgh 1310 - hyresrätt
+Åkeshovsvägen 26 lgh 1601 - hyresrätt
+Unionsgatan 16 lgh 1101 - hyresrätt
+Risingeplan 14 lgh 1301 - hyresrätt
+Rundvägen 18B lgh 1102 - hyresrätt
+Rådhusgatan 78 lgh 1101 - hyresrätt
+Prästbolsgatan 22 lgh 1201 - hyresrätt
+Lantmannavägen 38 lgh 1501 - hyresrätt
+Hagalundsgatan 13 lgh 1003 - hyresrätt
+Arkivgatan 4 lgh 1403 - hyresrätt
+Stagneliusvägen 45 lgh 1407 - hyresrätt
+Crafoords Väg 14 lgh 1408 - hyresrätt
+Kungsholms Strand 173 lgh 1203 - hyresrätt
+Bodastigen 8 lgh 1002 - hyresrätt
+Silvergården 3B lgh 1101 - hyresrätt
+Högbovägen 6C lgh 1203 - bostadsrätt
+Stora Gråbrödersgatan 3B lgh 1201 - bostadsrätt
+Godvädersgatan 46 lgh 1303 - hyresrätt
+Drottninggatan 25 lgh 1302 - hyresrätt
+Siljansvägen 27 lgh 1102 - bostadsrätt
+Bäckvägen 127 lgh 1102 - bostadsrätt
+Vänortsringen 13 lgh 1001 - bostadsrätt
+Rydsvägen 240A lgh 1001 - hyresrätt
+Nygatan 24 lgh 1402 - hyresrätt
+Skolgatan 63B lgh 1001 - hyresrätt
+Algatan 46 lgh 1003 - hyresrätt
+Gripenbergsvägen 5B lgh 1101 - bostadsrätt
+Muskötstigen 7 lgh 1806 - hyresrätt
+Havrevägen 6 lgh 1601 - bostadsrätt
+Strombergs Väg 130 lgh 1204 - hyresrätt
+Botvidsgatan 9B lgh 1001 - hyresrätt
+Malmgatan 25B lgh 1202 - hyresrätt
+Gästrikegatan 22 lgh 1203 - bostadsrätt
+Almgatan 1A lgh 1201 - hyresrätt
+Brommavägen 4 lgh 1102 - bostadsrätt
+Torpgatan 8 lgh 1101 - bostadsrätt
+Idrottsgatan 42 lgh 1002 - hyresrätt
+Balladgatan 5 lgh 1302 - bostadsrätt
+Regementsgatan 54 lgh 1301 - hyresrätt
+Tottebovägen 2 lgh 0903 - hyresrätt
+Linbanegatan 15 lgh 1011 - bostadsrätt
+Melongatan 12 lgh 1101 - bostadsrätt
+Stålgatan 37 lgh 1005 - hyresrätt
+Barkarbyvägen 66 lgh 1101 - bostadsrätt
+Tråddragargatan 27B lgh 1002 - hyresrätt
+Luxorgatan 8C lgh 1002 - hyresrätt
+Runstigen 7C lgh 1202 - hyresrätt
+Muskötstigen 7 lgh 1408 - hyresrätt
+Häggatorpsgatan 3 lgh 1001 - hyresrätt
+Tvistevägen 9B lgh 1010 - hyresrätt
+Östra Farmvägen 6A lgh 1503 - hyresrätt
+Norra Drottninggatan 19A lgh 1401 - hyresrätt
+Stockholmsvägen 7B lgh 1002 - bostadsrätt
+Norra Bergvägen 8 lgh 1203 - hyresrätt
+Norra Allén 28A lgh 1102 - hyresrätt
+Romstadsvägen 1 lgh 1206 - hyresrätt
+Paradisgatan 25H lgh 1201 - bostadsrätt
+Timmermansgatan 66 lgh 2003 - hyresrätt
+Krongatan 1 lgh 1102 - hyresrätt
+Södra Klöverstigen 33 lgh 1203 - hyresrätt
+Fjärde Tvärgatan 48 lgh 1104 - bostadsrätt
+Nämndemansgatan 51B lgh 1102 - hyresrätt
+Grevegårdsvägen 122 lgh 1101 - hyresrätt
+Cedergrensvägen 36 lgh 1201 - bostadsrätt
+Amiralitetsgatan 18A lgh 1202 - hyresrätt
+Döbelnsgatan 58 lgh 1801 - bostadsrätt
+Andra Parkgatan 7 lgh 1001 - hyresrätt
+Linnévägen 7B lgh 1003 - hyresrätt
+Bautastensgatan 11B lgh 1301 - hyresrätt
+Lm Ericssons Väg 19 lgh 1102 - bostadsrätt
+Eriksbo Västergärde 10 lgh 1101 - hyresrätt
+Banérgatan 25A lgh 1101 - bostadsrätt
+Lorensbergsgatan 38 lgh 1002 - hyresrätt
+Färnebogatan 62 lgh 1303 - bostadsrätt
+Norra Kyrkogatan 35 lgh 1201 - bostadsrätt
+Hyllie Vattenparksgata 5A lgh 1504 - hyresrätt
+S:t Johannesgatan 32A lgh 1202 - hyresrätt
+S:ta Ragnhildsgatan 26 lgh 1004 - hyresrätt
+Klostervägen 7B lgh 1302 - bostadsrätt
+Torsgränd 7 lgh 1001 - hyresrätt
+Vårdkasvägen 5 lgh 1202 - hyresrätt
+Folkparksvägen 160 lgh 1506 - bostadsrätt
+Ägirgatan 1D lgh 1202 - hyresrätt
+Tunaforsgatan 6B lgh 1303 - hyresrätt
+Salbergavägen 2 lgh 1101 - hyresrätt
+Klubbacken 16 lgh 1201 - bostadsrätt
+Centralgatan 30A lgh 1102 - bostadsrätt
+Västra Torggatan 5 lgh 1204 - hyresrätt
+Eriksviksgatan 2B lgh 1204 - hyresrätt
+Ängsvaktaregatan 4 lgh 1201 - hyresrätt
+Skräddaretorpsvägen 15A lgh 1201 - bostadsrätt
+Täppgatan 10B lgh 1101 - hyresrätt
+Styckjunkaregatan 1E lgh 1202 - hyresrätt
+Ringvägen 51D lgh 1204 - bostadsrätt
+Engelbrektsgatan 30A lgh 1201 - bostadsrätt
+Gjuterigatan 8E lgh 1003 - hyresrätt
+Bergsrådsvägen 75 lgh 1101 - hyresrätt
+Sunnanbyplan 5 lgh 1001 - hyresrätt
+Sturegatan 14 lgh 1107 - hyresrätt
+Gudmundvägen 1B lgh 1203 - bostadsrätt
+Nedre Norrtullsgatan 1B lgh 1203 - bostadsrätt
+Lorensbergsgatan 5A lgh 0901 - hyresrätt
+Suddagummans Gata 13 lgh 1001 - hyresrätt
+Alkalievägen 9A lgh 1204 - bostadsrätt
+Furudal Noretvägen 9 lgh 1001 - hyresrätt
+Vejlegatan 4A lgh 1203 - hyresrätt
+Folkskolegatan 24 lgh 0901 - hyresrätt
+Södra Bäckvägen 1C lgh 1003 - hyresrätt
+Baldergatan 6 lgh 1101 - bostadsrätt
+Sofielundsvägen 3A lgh 1303 - bostadsrätt
+Granbacksvägen 4 lgh 1504 - hyresrätt
+Lilla Grevegårdsvägen 39 lgh 1001 - hyresrätt
+Barnhemsgatan 8 lgh 1103 - bostadsrätt
+Topasgatan 27 lgh 1401 - hyresrätt
+Köpmangatan 27 lgh 1415 - hyresrätt
+Portalgatan 78 lgh 1002 - bostadsrätt
+Eketrägatan 1C lgh 1101 - hyresrätt
+Tallåsvägen 3C lgh 1302 - hyresrätt
+Brogatan 11 lgh 1005 - hyresrätt
+Närlundavägen 15 lgh 1404 - hyresrätt
+Sörgårdsgatan 9 lgh 1002 - hyresrätt
+Kaparegatan 2A lgh 1002 - bostadsrätt
+Slåttervägen 7C lgh 1102 - bostadsrätt
+Gyllenstensgatan 1 lgh 1006 - bostadsrätt
+Nobelgatan 15B lgh 1202 - hyresrätt
+Eknäsvägen 4B lgh 1202 - bostadsrätt
+Parallellvägen 7E lgh 1302 - hyresrätt
+Lidnersgatan 5 lgh 1203 - bostadsrätt
+Utflyktsvägen 14 lgh 1302 - hyresrätt
+Centralvägen 6 lgh 1101 - bostadsrätt
+Stallgatan 7 lgh 1002 - bostadsrätt
+Borgarfjordsgatan 5 lgh 1206 - bostadsrätt
+Räntmästaregatan 26E lgh 1401 - bostadsrätt
+Stationsgatan 7B lgh 1202 - bostadsrätt
+Frihetsvägen 2B lgh 1303 - bostadsrätt
+Vulcanusgatan 5 lgh 1202 - hyresrätt
+Erik Dahlbergsgatan 35 lgh 1308 - bostadsrätt
+Karlbergsvägen 51A lgh 1102 - bostadsrätt
+Pilgatan 15 lgh 1803 - hyresrätt
+Köpenhamnsgatan 5B lgh 1101 - hyresrätt
+Väringgatan 27 lgh 1002 - bostadsrätt
+Lars Kaggsgatan 27 lgh 1302 - hyresrätt
+Krakel Spektakels Gata 2 lgh 1501 - bostadsrätt
+Litsvägen 33B lgh 1002 - bostadsrätt
+Skepparegatan 10 lgh 1002 - hyresrätt
+Herrestadsgatan 9C lgh 1103 - hyresrätt
+Lundbladsvägen 9B lgh 1201 - bostadsrätt
+Olai Kyrkogata 7A lgh 1301 - hyresrätt
+Tjädergränd 21 lgh 1101 - hyresrätt
+Södra Järnvägsgatan 18 lgh 1001 - hyresrätt
+Trädgårdsmästarstigen 4 lgh 1004 - bostadsrätt
+Vallbygatan 10 lgh 1201 - hyresrätt
+Kinadalsvägen 39A lgh 1301 - hyresrätt
+Mellangatan 20B lgh 1003 - bostadsrätt
+Vintrosagatan 52 lgh 1603 - bostadsrätt
+Hermelinsgatan 4B lgh 1201 - hyresrätt
+Fältgatan 79 lgh 1106 - hyresrätt
+Svarvargatan 5D lgh 1002 - hyresrätt
+Hallonbergsplan 6 lgh 1502 - bostadsrätt
+Fridhemsplan 2D lgh 1302 - bostadsrätt
+Floragatan 27B lgh 1003 - bostadsrätt
+Sätunavägen 16E lgh 1302 - bostadsrätt
+Plangatan 38 lgh 1001 - hyresrätt
+Esplanaden 8A lgh 1301 - hyresrätt
+Kristina Wahlfeldts Väg 1A lgh 1102 - bostadsrätt
+Läraregatan 2A lgh 1201 - bostadsrätt
+Gånglåten 19 lgh 1401 - hyresrätt
+Burggrevegatan 15 lgh 1511 - hyresrätt
+Södra Centralgatan 12B lgh 1202 - bostadsrätt
+Munkebergsgatan 22 lgh 1201 - bostadsrätt
+Framgången 246 lgh 0801 - hyresrätt
+Övre Besvärsgatan 11 lgh 1302 - hyresrätt
+Föreningsgatan 32 lgh 1406 - hyresrätt
+Tamms Väg 25A lgh 1001 - bostadsrätt
+Marknadsgatan 5C lgh 1201 - hyresrätt
+Jakthornsgatan 76 lgh 1308 - hyresrätt
+Storgatan 1B lgh 1201 - hyresrätt
+Fartygsgatan 4 lgh 1303 - bostadsrätt
+Karlagatan 36 lgh 1202 - bostadsrätt
+Bockhornsvägen 3 lgh 1303 - hyresrätt
+Karlslundsvägen 12 lgh 1304 - bostadsrätt
+Solventilsgatan 3 lgh 1301 - bostadsrätt
+Norrtullsgatan 35 lgh 1303 - hyresrätt
+Höjdgatan 6A lgh 1101 - bostadsrätt
+Kastellgatan 12B lgh 1001 - bostadsrätt
+Nockeby Backe 2F lgh 1202 - bostadsrätt
+Amiralsgatan 88C lgh 1001 - bostadsrätt
+Dalbobranten 16 lgh 1404 - hyresrätt
+Lustigkullevägen 16C lgh 1101 - hyresrätt
+Hjortronvägen 85 lgh 1101 - bostadsrätt
+Kantatgatan 60 lgh 1202 - hyresrätt
+Sköndalsvägen 88 lgh 1404 - bostadsrätt
+Kungsgatan 14 lgh 1201 - bostadsrätt
+Brogränd 10 lgh 1302 - bostadsrätt
+Jägarstigen 7 lgh 1102 - hyresrätt
+Kungsgatan 52D lgh 1302 - bostadsrätt
+Södra Köpmangatan 11B lgh 1101 - hyresrätt
+Banérgatan 11 lgh 1101 - hyresrätt
+Ryttarvägen 81 lgh 1702 - hyresrätt
+Storforsplan 5 lgh 1002 - bostadsrätt
+Backgränd 3B lgh 1103 - bostadsrätt
+Knutsborg 6 lgh 1101 - bostadsrätt
+Kungshamra 21 lgh 1111 - hyresrätt
+Näsbydalsvägen 14 lgh 2203 - bostadsrätt
+Eskadervägen 42 lgh 1501 - bostadsrätt
+Täppgatan 26 lgh 1303 - hyresrätt
+Magnus Stenbocksgatan 2 lgh 1301 - hyresrätt
+Ministervägen 97 lgh 1001 - hyresrätt
+Björn Barkmans Väg 47 lgh 1202 - hyresrätt
+Köpmangatan 8 lgh 1002 - hyresrätt
+Götgatan 42A lgh 1302 - hyresrätt
+Tomtebogatan 14B lgh 1302 - bostadsrätt
+Storgatan 18 lgh 1101 - hyresrätt
+Bergslagsgatan 5D lgh 1002 - bostadsrätt
+Mjölnaregatan 16 lgh 1406 - hyresrätt
+Kronetorpsgatan 50B lgh 1303 - bostadsrätt
+Hantverksgatan 19C lgh 1304 - hyresrätt
+Dag Hammarskjölds Väg 29B lgh 1102 - bostadsrätt
+Hillmanskroken 6 lgh 1206 - bostadsrätt
+Östersundsgatan 4 lgh 1105 - hyresrätt
+Olshammarsgatan 63 lgh 1501 - hyresrätt
+Kalmgatan 8 lgh 1102 - hyresrätt
+Rullstensgatan 19 lgh 0906 - hyresrätt
+Inedalsgatan 8 lgh 1104 - hyresrätt
+Mariehemsvägen 19E lgh 1004 - hyresrätt
+Armégatan 27 lgh 1203 - bostadsrätt
+Stenfalksgränd 4 lgh 1002 - hyresrätt
+Stensbergsvägen 21 lgh 1102 - hyresrätt
+Hälsovägen 33 lgh 1103 - bostadsrätt
+Erik Dahlbergsgatan 9C lgh 1102 - bostadsrätt
+Norra Allégatan 36C lgh 1103 - hyresrätt
+Bergkristallsgatan 28 lgh 1002 - bostadsrätt
+Pilåkersvägen 9A lgh 1002 - hyresrätt
+Stallgatan 3 lgh 1102 - hyresrätt
+Karusellvägen 10 lgh 1304 - hyresrätt
+Skepparegatan 41 lgh 1004 - hyresrätt
+Fornbacken 27 lgh 1302 - hyresrätt
+Knotavägen 18 lgh 1203 - bostadsrätt
+Parternas Gränd 39 lgh 1002 - bostadsrätt
+Odins Väg 13A lgh 0901 - hyresrätt
+Oxhagsvägen 6C lgh 1201 - hyresrätt
+Södra Viktoriagatan 35 lgh 1202 - hyresrätt
+Marmorgatan 11 lgh 2004 - bostadsrätt
+Västra Bernadottesgatan 24A lgh 1201 - hyresrätt
+Istidsgatan 44 lgh 1405 - hyresrätt
+Kurirgatan 28D lgh 1301 - hyresrätt
+Johannesfredsvägen 38 lgh 1201 - bostadsrätt
+Bergsgatan 6C lgh 1102 - hyresrätt
+Småbrukets Backe 30 lgh 1312 - hyresrätt
+Formgatan 5 lgh 1303 - hyresrätt
+Bollmoravägen 6 lgh 1702 - hyresrätt
+Norrings Väg 9 lgh 1201 - bostadsrätt
+Maria Röhls Väg 9 lgh 1302 - bostadsrätt
+Storängsvägen 13A lgh 1406 - hyresrätt
+Tångringsgatan 18 lgh 1103 - bostadsrätt
+Tullgarnsgatan 3 lgh 1501 - bostadsrätt
+Södra Agnegatan 26 lgh 1001 - bostadsrätt
+Drottninggatan 125 lgh 1101 - bostadsrätt
+Ringvägen 89B lgh 1301 - hyresrätt
+Tallbacksvägen 29A lgh 1603 - hyresrätt
+Storgatan 81A lgh 0904 - hyresrätt
+Bergsviksvägen 2 lgh 1501 - bostadsrätt
+Västmanlandsgatan 4E lgh 1103 - bostadsrätt
+Garmakaregatan 27B lgh 1101 - hyresrätt
+Havstenavägen 30A lgh 1302 - bostadsrätt
+Vikingavägen 11 lgh 1601 - bostadsrätt
+Hedlundavägen 1B lgh 1201 - bostadsrätt
+Smassens Väg 49B lgh 1003 - hyresrätt
+Sedelvägen 26 lgh 1002 - hyresrätt
+Tallvägen 4 lgh 1202 - bostadsrätt
+Utmarksvägen 16 lgh 1002 - bostadsrätt
+Hagmarksvägen 6 lgh 1002 - hyresrätt
+Mariehemsvägen 31G lgh 1103 - hyresrätt
+Skidspåret 17 lgh 1304 - bostadsrätt
+Rådhusgatan 26 lgh 1206 - hyresrätt
+Elin Wägnersgatan 3 lgh 1201 - bostadsrätt
+Rönnbärsstigen 12 lgh 1001 - hyresrätt
+Järvstigen 14 lgh 1301 - bostadsrätt
+Högamöllegatan 12 lgh 1302 - hyresrätt
+Virebergsvägen 13 lgh 1804 - hyresrätt
+Lövskogsgatan 5C lgh 1101 - bostadsrätt
+Giljaregränd 4A lgh 1001 - bostadsrätt
+Prytzgatan 10C lgh 1102 - hyresrätt
+Östervägen 18A lgh 1103 - hyresrätt
+Finntorpsvägen 7 lgh 1201 - bostadsrätt
+Drottninggatan 6 lgh 1103 - hyresrätt
+Vasagatan 9A lgh 1002 - hyresrätt
+Holmgatan 10B lgh 1404 - hyresrätt
+Levertinsgatan 9 lgh 1002 - hyresrätt
+Bergengatan 8 lgh 1608 - hyresrätt
+Borgaregatan 8D lgh 1101 - hyresrätt
+Storgatan 22 lgh 1102 - bostadsrätt
+Årstagatan 39 lgh 1202 - bostadsrätt
+Litsvägen 24B lgh 1203 - hyresrätt
+Prästbolsvägen 23A lgh 1202 - hyresrätt
+Biologigränd 4 lgh 1203 - bostadsrätt
+Karlavägen 30A lgh 1201 - bostadsrätt
+Stensbergsvägen 13 lgh 1401 - hyresrätt
+Delsjövägen 21B lgh 1101 - hyresrätt
+Hasselbacken 1A lgh 1102 - bostadsrätt
+Åsgärdevägen 2 lgh 1303 - hyresrätt
+Rosendalsvägen 19 lgh 1126 - hyresrätt
+Norra Allén 18C lgh 1002 - hyresrätt
+Treuddsvägen 16 lgh 1303 - bostadsrätt
+Femte Tvärgatan 20 lgh 1107 - bostadsrätt
+Doktor Lindhs Gata 6 lgh 1502 - bostadsrätt
+Drottninggatan 39 lgh 1409 - hyresrätt
+Sätunavägen 7 lgh 0902 - hyresrätt
+Fabriksgatan 4C lgh 1001 - bostadsrätt
+Slottsgatan 2A lgh 1202 - bostadsrätt
+Munkgatan 9 lgh 1004 - bostadsrätt
+Gibraltargatan 80 lgh 1313 - hyresrätt
+Bråviksvägen 11 lgh 1202 - hyresrätt
+Prinsvägen 1B lgh 1203 - bostadsrätt
+Storgatan 9 lgh 1603 - hyresrätt
+Marknadsgatan 4A lgh 1202 - hyresrätt
+Slottsgatan 27 lgh 1003 - hyresrätt
+Bangatan 10 lgh 1403 - hyresrätt
+Valhallavägen 192 lgh 1104 - hyresrätt
+Kungsholmsgatan 19A lgh 1206 - hyresrätt
+Stjärnbildsgatan 24 lgh 1001 - bostadsrätt
+Armborstvägen 12 lgh 1101 - hyresrätt
+Ringvägen 27B lgh 1203 - hyresrätt
+Svarvaregatan 5 lgh 1404 - hyresrätt
+Sandspåret 83 lgh 1001 - hyresrätt
+Brahegatan 34A lgh 1202 - hyresrätt
+Reveljgränd 23B lgh 1503 - bostadsrätt
+Stenhammars Väg 2 lgh 1501 - hyresrätt
+Månadsvägen 73 lgh 1202 - bostadsrätt
+Luntmakargatan 69A lgh 1001 - bostadsrätt
+Götgatan 2A lgh 1002 - hyresrätt
+Bondegatan 26B lgh 1203 - hyresrätt
+Staketgatan 10 lgh 1103 - hyresrätt
+Oxhagsgatan 147 lgh 1201 - hyresrätt
+Norra Ringgatan 47B lgh 1202 - hyresrätt
+Frövigatan 10 lgh 1101 - bostadsrätt
+Karlsgatan 15 lgh 1202 - hyresrätt
+Byvägen 14A lgh 1001 - hyresrätt
+Östgötagatan 26 lgh 1001 - hyresrätt
+Ryds Allé 12A lgh 1102 - hyresrätt
+Ärvingevägen 14 lgh 1103 - hyresrätt
+Hillmansgatan 16B lgh 1203 - bostadsrätt
+Södra Vägen 37 lgh 1101 - hyresrätt
+Uppsalagatan 11A lgh 1201 - bostadsrätt
+Djurgårdsgatan 39 lgh 1204 - hyresrätt
+Algatan 16 lgh 1301 - hyresrätt
+Östanvindsvägen 12A lgh 1102 - hyresrätt
+Hallandsgatan 38 lgh 1303 - hyresrätt
+Sjöbogatan 10 lgh 1201 - hyresrätt
+Bäckebovägen 18A lgh 1201 - bostadsrätt
+Gregorianska Gatan 75 lgh 1201 - hyresrätt
+Västmanlandsgatan 6B lgh 1001 - bostadsrätt
+Nåpabäcks Gränd 2 lgh 1502 - bostadsrätt
+Badstrandsvägen 20 lgh 1004 - bostadsrätt
+Drottning Kristinas Esplanad 59 lgh 1504 - bostadsrätt
+Lötsjövägen 11 lgh 1002 - hyresrätt
+Solbergavägen 15 lgh 0901 - hyresrätt
+Signalhornsgatan 68 lgh 1202 - hyresrätt
+Bruksgatan 10B lgh 1101 - hyresrätt
+Skottegatan 6B lgh 1101 - hyresrätt
+Frimurarvägen 48 lgh 0902 - hyresrätt
+Axel Oxenstiernas Gata 13 lgh 1001 - hyresrätt
+Övre Långvinkelsgatan 148B lgh 1201 - hyresrätt
+Badstrandsvägen 27 lgh 1204 - bostadsrätt
+Distansgatan 65 lgh 1101 - hyresrätt
+Kung Gustafs Väg 10B lgh 1101 - hyresrätt
+Vendelvägen 5D lgh 1101 - hyresrätt
+Hagalundsgatan 19 lgh 1001 - hyresrätt
+Carlavägen 15B lgh 1202 - hyresrätt
+Gåsagången 15 lgh 1302 - hyresrätt
+Ervallakroken 1 lgh 1302 - hyresrätt
+Studiegatan 2A lgh 1102 - hyresrätt
+Diagnosvägen 1E lgh 1702 - hyresrätt
+Drakenbergsgatan 57 lgh 1702 - hyresrätt
+Kungshamra 41 lgh 1008 - hyresrätt
+Nordmarksvägen 16 lgh 1206 - hyresrätt
+Nedre Arbetshusgatan 76D lgh 1301 - bostadsrätt
+Gasverksgatan 18C lgh 1302 - hyresrätt
+Blåmesgränd 9 lgh 1002 - hyresrätt
+Kometvägen 45 lgh 1102 - bostadsrätt
+Ringgatan 4 lgh 1002 - hyresrätt
+Rosstigen 3 lgh 1102 - hyresrätt
+Pomonagatan 8 lgh 1202 - hyresrätt
+Mångatan 4B lgh 1301 - bostadsrätt
+Gasverksgatan 3 lgh 1202 - bostadsrätt
+Solventilsgatan 3 lgh 1302 - bostadsrätt
+Annerovägen 39A lgh 1002 - hyresrätt
+Kylegatan 13A lgh 1201 - bostadsrätt
+Lövsångargatan 52 lgh 1002 - hyresrätt
+Knypplerskevägen 12 lgh 1001 - bostadsrätt
+Mariedalsvägen 39 lgh 1202 - hyresrätt
+Sturegatan 14 lgh 1111 - hyresrätt
+Västgötagatan 25A lgh 1201 - hyresrätt
+Södra Järnvägsgatan 5 lgh 1303 - bostadsrätt
+Kransvägen 180 lgh 1202 - bostadsrätt
+Gyllenkrooksgatan 1 lgh 1203 - bostadsrätt
+Klyvargatan 13 lgh 1210 - bostadsrätt
+Dimvädersgatan 77 lgh 1301 - hyresrätt
+Fagottgatan 70 lgh 1103 - hyresrätt
+Östergatan 10 lgh 1406 - hyresrätt
+Småbrukets Backe 32 lgh 1419 - hyresrätt
+Gyllenkroks Allé 29 lgh 1202 - bostadsrätt
+Blidvädersvägen 6E lgh 1404 - bostadsrätt
+Salviagatan 31 lgh 1501 - hyresrätt
+Ängskärsgatan 4 lgh 1602 - hyresrätt
+Gustaf Rydbergsgatan 10B lgh 1302 - hyresrätt
+Vasavägen 1 lgh 1105 - bostadsrätt
+Limstagatan 13A lgh 1205 - hyresrätt
+Klostergatan 52B lgh 1102 - hyresrätt
+Sigyns Väg 2A lgh 1001 - bostadsrätt
+Södra Kyrkogränd 4 lgh 1103 - hyresrätt
+Salabacksgatan 7B lgh 1101 - bostadsrätt
+Johan Nybergs Väg 2 lgh 1201 - bostadsrätt
+Virvelvindsgatan 12C lgh 1402 - hyresrätt
+John Ericssonsgatan 14 lgh 1501 - bostadsrätt
+Rådagatan 28A lgh 1001 - hyresrätt
+Sockerbruksgatan 48B lgh 1503 - bostadsrätt
+Gjuterigatan 32 lgh 1102 - hyresrätt
+Roskildevägen 13B lgh 1302 - bostadsrätt
+Oppegårdsstråket 7A lgh 1701 - hyresrätt
+Bogegatan 7 lgh 1203 - hyresrätt
+Kastanjegatan 7E lgh 1001 - hyresrätt
+Bildhuggarvägen 4 lgh 1305 - bostadsrätt
+Turebergs Allé 24 lgh 1302 - hyresrätt
+Friluftsvägen 10 lgh 1001 - hyresrätt
+Upplandsgatan 6 lgh 1501 - hyresrätt
+Prästbolsgatan 17 lgh 1502 - hyresrätt
+Handelsmansgatan 1E lgh 1101 - bostadsrätt
+Rydsvägen 190A lgh 1002 - hyresrätt
+Nygatan 32 lgh 1001 - hyresrätt
+Ulrikedalsvägen 24B lgh 1001 - hyresrätt
+Flintvägen 2A lgh 1004 - hyresrätt
+Dalbogatan 3C lgh 1203 - hyresrätt
+Kulladalsgatan 6C lgh 1401 - bostadsrätt
+Skebokvarnsvägen 167 lgh 1002 - hyresrätt
+Kiviksgatan 6C lgh 1201 - bostadsrätt
+Kålgårdsgatan 2A lgh 1102 - bostadsrätt
+Emausgatan 31C lgh 1101 - hyresrätt
+Lasarettsvägen 1 lgh 1102 - hyresrätt
+Deragatan 1A lgh 1101 - hyresrätt
+Höglundavägen 15 lgh 1102 - bostadsrätt
+Sågverksgatan 100 lgh 1001 - bostadsrätt
+Drabantgatan 24D lgh 1303 - hyresrätt
+Liljevalchsgatan 13 lgh 1104 - hyresrätt
+Ramels Väg 33 lgh 1203 - hyresrätt
+Tornavägen 17A lgh 1001 - hyresrätt
+Trollesundsvägen 15 lgh 1313 - hyresrätt
+Silvergården 5A lgh 1104 - hyresrätt
+Bredfjällsgatan 34 lgh 1102 - hyresrätt
+Grönkvists Gränd 19 lgh 1402 - hyresrätt
+Helenius Gata 10A lgh 1202 - hyresrätt
+Gjutarevägen 3D lgh 0902 - hyresrätt
+Hedlundsgatan 12A lgh 1002 - bostadsrätt
+Lundbladsvägen 13B lgh 1002 - bostadsrätt
+Kalmgatan 6 lgh 1202 - bostadsrätt
+Handelsvägen 186 lgh 1421 - hyresrätt
+Vallagränd 3 lgh 1204 - hyresrätt
+Mastgränd 7A lgh 1204 - hyresrätt
+Kommendörsgatan 24 lgh 1101 - hyresrätt
+Jacobs Gata 79 lgh 1001 - hyresrätt
+Gullregnsgatan 7D lgh 1103 - bostadsrätt
+Eksjöhovgårdsvägen 1D lgh 1101 - hyresrätt
+Vaktbergsvägen 14 lgh 1002 - bostadsrätt
+John Ericssons Väg 87E lgh 1003 - hyresrätt
+Sturegatan 43C lgh 1101 - hyresrätt
+Skolgatan 13B lgh 1403 - bostadsrätt
+Vendelsömalmsvägen 205 lgh 1202 - bostadsrätt
+Himmelstalundsvägen 43 lgh 1201 - hyresrätt
+Lägergatan 3A lgh 1104 - bostadsrätt
+Keplers Gata 10 lgh 1001 - hyresrätt
+Mariedalsvägen 31 lgh 1201 - hyresrätt
+Sagolandsvägen 4 lgh 1402 - bostadsrätt
+Närlundavägen 11 lgh 1301 - hyresrätt
+Lingonstigen 11 lgh 1202 - bostadsrätt
+Gyllenstiernsgatan 8 lgh 1302 - bostadsrätt
+Storgatan 25 lgh 1301 - bostadsrätt
+Kämnärsvägen 51F lgh 1104 - hyresrätt
+Kullagatan 7C lgh 1301 - hyresrätt
+Kämnärsvägen 23F lgh 1104 - hyresrätt
+Furutorpsgatan 34 lgh 1301 - hyresrätt
+Humanistgatan 2E lgh 1202 - bostadsrätt
+Hoppets Gränd 28B lgh 1602 - hyresrätt
+Nackstavägen 18A lgh 1105 - hyresrätt
+Skogsbrynet 6 lgh 1301 - bostadsrätt
+Dejegatan 36A lgh 1201 - hyresrätt
+Wibeligatan 13 lgh 1101 - hyresrätt
+Marknadsvägen 8B lgh 1301 - hyresrätt
+Flogstavägen 47B lgh 1202 - hyresrätt
+Rosengatan 2B lgh 1202 - hyresrätt
+Finnshyttegatan 3A lgh 1301 - bostadsrätt
+Solstrålegatan 24 lgh 1601 - bostadsrätt
+Smörgatan 8 lgh 0901 - hyresrätt
+Sofiaparken 2A lgh 1102 - bostadsrätt
+Repslagaregatan 27B lgh 1101 - hyresrätt
+Kronåsvägen 72 lgh 1102 - hyresrätt
+Blåsvädersgatan 20 lgh 1503 - hyresrätt
+Appelins Väg 5 lgh 1001 - hyresrätt
+Fridhemsgatan 20 lgh 1202 - hyresrätt
+Solbacken 4A lgh 1001 - hyresrätt
+Riddaregatan 14 lgh 1202 - bostadsrätt
+Järnvägsgatan 12A lgh 1301 - bostadsrätt
+Borgmästaregatan 3 lgh 1101 - hyresrätt
+Bokgatan 18 lgh 1002 - bostadsrätt
+Rådhusgatan 12 lgh 1102 - bostadsrätt
+Oshögavägen 166 lgh 1001 - bostadsrätt
+Villekullagatan 1 lgh 1302 - hyresrätt
+Tornavägen 3A lgh 1416 - hyresrätt
+Norra Ersmarksgatan 49 lgh 1102 - hyresrätt
+Sundsgatan 36 lgh 1110 - hyresrätt
+Lötsjövägen 57 lgh 1301 - hyresrätt
+Förvaltningsvägen 5B lgh 1202 - hyresrätt
+Tvistevägen 3C lgh 1007 - hyresrätt
+Moravägen 1A lgh 1103 - hyresrätt
+Oxbacksgatan 10 lgh 1001 - hyresrätt
+Hagalundsgatan 27 lgh 1003 - hyresrätt
+Bondegärdet 35 lgh 1202 - hyresrätt
+Burggrevegatan 15 lgh 1111 - hyresrätt
+Klippgatan 30 lgh 1101 - bostadsrätt
+Petterslundsgatan 23B lgh 1203 - bostadsrätt
+Timotejvägen 9 lgh 1104 - hyresrätt
+Gröna Gatan 36A lgh 1202 - bostadsrätt
+Margaretavägen 7 lgh 1101 - hyresrätt
+Norrtullsgatan 38 lgh 1002 - hyresrätt
+Smedjegatan 28 lgh 1201 - bostadsrätt
+Bagaregatan 58A lgh 1301 - bostadsrätt
+Armégatan 32A lgh 1019 - hyresrätt
+Erik Dahlbergsgatan 53 lgh 1103 - bostadsrätt
+Friedländers Gata 10 lgh 1302 - bostadsrätt
+Sjöbogatan 22 lgh 1101 - hyresrätt
+Valhallavägen 153 lgh 1504 - bostadsrätt
+Storgatan 28A lgh 1102 - hyresrätt
+Åsögatan 76 lgh 1401 - hyresrätt
+Rydins Väg 13A lgh 1002 - hyresrätt
+Östermalmsgatan 28 lgh 1501 - hyresrätt
+Öckerögatan 4A lgh 1102 - hyresrätt
+Östra Fäladsgatan 10 lgh 1102 - hyresrätt
+Övre Arbetshusgatan 54B lgh 1103 - bostadsrätt
+Blåmesgränd 5 lgh 1201 - hyresrätt
+Björkvägen 1A lgh 1203 - hyresrätt
+Storgatan 8 lgh 1402 - hyresrätt
+Syster Ainas Gata 5 lgh 1204 - hyresrätt
+Idrottsgatan 17 lgh 0901 - hyresrätt
+Doktor Forselius Backe 6 lgh 1001 - hyresrätt
+Kungsgatan 4B lgh 1301 - hyresrätt
+Cronquists Gata 10 lgh 1320 - hyresrätt
+Industrigatan 9 lgh 1401 - bostadsrätt
+Västerled 96B lgh 1101 - hyresrätt
+Sannagatan 50C lgh 1202 - bostadsrätt
+Fiskarnas Gata 164 lgh 1601 - hyresrätt
+Timmermansgatan 8 lgh 1202 - hyresrätt
+Pilgatan 20 lgh 1202 - hyresrätt
+Yrkesvägen 3 lgh 1003 - bostadsrätt
+Tunavägen 39C lgh 1413 - hyresrätt
+Storegårdsvägen 9B lgh 1203 - hyresrätt
+Tenstavägen 52 lgh 1002 - bostadsrätt
+Kung Karls Väg 5B lgh 1101 - bostadsrätt
+Lextorpsvägen 15 lgh 1301 - hyresrätt
+Ragvaldsgatan 19C lgh 1201 - hyresrätt
+Källhagsgatan 1B lgh 1002 - bostadsrätt
+Sankt Pauligatan 3 lgh 1201 - hyresrätt
+Larsgatan 6 lgh 1201 - hyresrätt
+Luthagsesplanaden 91 lgh 1110 - hyresrätt
+Helmutsrogatan 4A lgh 1101 - hyresrätt
+Östermalmsvägen 32A lgh 1103 - hyresrätt
+S:t Olofsgatan 20 lgh 1201 - bostadsrätt
+Sundbergsgatan 12B lgh 1202 - hyresrätt
+Södra Förstadsgatan 83B lgh 1302 - hyresrätt
+Framnäsbacken 8 lgh 1302 - bostadsrätt
+Trädgårdsgatan 7A lgh 1102 - hyresrätt
+Natt Och Dags Gränd 9 lgh 1101 - hyresrätt
+Malmgatan 5 lgh 1102 - hyresrätt
+Skiljemyntsgatan 16B lgh 1001 - hyresrätt
+Alvägen 6 lgh 1202 - hyresrätt
+Bryggaregatan 4A lgh 1201 - bostadsrätt
+Blackebergsbacken 52 lgh 1303 - hyresrätt
+Kyrkmalmsvägen 46 lgh 1103 - hyresrätt
+Dag Hammarskjölds Väg 25B lgh 1302 - bostadsrätt
+Murargatan 16A lgh 1202 - bostadsrätt
+Fyrislundsgatan 40 lgh 1404 - bostadsrätt
+Fornminnesvägen 28 lgh 1003 - bostadsrätt
+Filipstadsbacken 46 lgh 1102 - bostadsrätt
+Smedshagsvägen 26 lgh 0903 - hyresrätt
+Åbron 52 lgh 1002 - hyresrätt
+Smedsbacksgatan 1 lgh 1804 - bostadsrätt
+Krondikesvägen 22 lgh 1204 - bostadsrätt
+Östanbräcksvägen 25 lgh 1101 - hyresrätt
+Elektravägen 1 lgh 1201 - hyresrätt
+Stångholmsbacken 42 lgh 1201 - hyresrätt
+Jönköpingsgatan 27B lgh 1003 - bostadsrätt
+Gustav III:s Boulevard 41 lgh 1301 - bostadsrätt
+Alströmergatan 29 lgh 1304 - hyresrätt
+Storgatan 20 lgh 1504 - hyresrätt
+Brunnsgatan 1B lgh 1101 - hyresrätt
+Björnekärrsgatan 3A lgh 1303 - hyresrätt
+Fredsgatan 31A lgh 0902 - hyresrätt
+Rullstensgatan 180 lgh 1205 - hyresrätt
+Rindögatan 34 lgh 1301 - hyresrätt
+Doktor Forselius Gata 14 lgh 1201 - bostadsrätt
+Lästmakargatan 8B lgh 1001 - bostadsrätt
+Ringvägen 2A lgh 1102 - hyresrätt
+Hvitfeldtsgatan 7B lgh 1202 - bostadsrätt
+Bruno Liljeforsgatan 85 lgh 1302 - hyresrätt
+Rosenlundsvägen 8A lgh 1203 - hyresrätt
+Lillängsvägen 10B lgh 1102 - hyresrätt
+Källvindsgatan 21 lgh 1404 - hyresrätt
+Tågagatan 34 lgh 1201 - bostadsrätt
+Mårdvägen 6 lgh 1101 - hyresrätt
+Terrassen 19 lgh 1402 - bostadsrätt
+Urbergsgatan 57 lgh 1101 - hyresrätt
+Industrigatan 7B lgh 1505 - hyresrätt
+Långgatan 68B lgh 1403 - bostadsrätt
+Föreningsgatan 7A lgh 1102 - hyresrätt
+Terrängvägen 53 lgh 1302 - bostadsrätt
+Borgmästaregatan 29B lgh 1201 - hyresrätt
+Gullingeplan 16 lgh 1102 - hyresrätt
+Lilla Södergatan 2 lgh 1109 - hyresrätt
+Rotegatan 6 lgh 1003 - hyresrätt
+Skolallén 13 lgh 1402 - hyresrätt
+Thulegatan 4 lgh 1201 - hyresrätt
+Ekelundsgatan 6 lgh 1201 - hyresrätt
+Östra Bergsgatan 15 lgh 1204 - hyresrätt
+Vallvägen 4B lgh 1002 - hyresrätt
+Styrmansgatan 1A lgh 1001 - hyresrätt
+Lyckselevägen 50 lgh 1001 - hyresrätt
+Spinnrocksvägen 31 lgh 1101 - hyresrätt
+Ullmansgatan 1A lgh 1001 - hyresrätt
+Universitetsgatan 18A lgh 1008 - hyresrätt
+Skidbacken 50 lgh 1403 - hyresrätt
+Stendösvägen 2 lgh 1301 - bostadsrätt
+Parkgatan 12 lgh 1304 - bostadsrätt
+Rotgränd 3 lgh 1316 - hyresrätt
+Strandvägen 4A lgh 1403 - hyresrätt
+Vattugatan 24B lgh 1302 - hyresrätt
+Kämnärsvägen 41F lgh 1201 - hyresrätt
+Lugnet 7B lgh 1102 - hyresrätt
+Bangatan 40 lgh 1105 - hyresrätt
+Atlasvägen 39 lgh 1202 - bostadsrätt
+Jupitervägen 41 lgh 1302 - hyresrätt
+Sicksackvägen 4 lgh 1404 - hyresrätt
+Djäknegatan 7 lgh 1402 - hyresrätt
+Kilian Zollsgatan 8B lgh 1303 - hyresrätt
+Hjalmar Brantingsgatan 23C lgh 1101 - bostadsrätt
+Hamngatan 21A lgh 1101 - hyresrätt
+Periskopvägen 3 lgh 1501 - hyresrätt
+Kolsvedjavägen 10 lgh 1201 - hyresrätt
+Södra Stenbocksgatan 130 lgh 1302 - hyresrätt
+S:t Kristoffers Väg 4 lgh 1302 - hyresrätt
+Årbygatan 1A lgh 1504 - hyresrätt
+Rullstensgatan 13 lgh 1405 - hyresrätt
+Nathorstvägen 21 lgh 1201 - bostadsrätt
+Drottninggatan 4C lgh 1001 - hyresrätt
+Gälbovägen 56 lgh 1102 - hyresrätt
+Rinkebysvängen 99 lgh 1201 - hyresrätt
+Klockartorget 1C lgh 1201 - hyresrätt
+Norrtäljegatan 26 lgh 1103 - bostadsrätt
+Knäppingsborgsgatan 20 lgh 1206 - hyresrätt
+Pepparvägen 13 lgh 1103 - hyresrätt
+Lottgatan 14A lgh 1102 - bostadsrätt
+Ågatan 10D lgh 1102 - hyresrätt
+Kungsgatan 30 lgh 1102 - bostadsrätt
+Sagovägen 9 lgh 1005 - bostadsrätt
+Vasagatan 5 lgh 1101 - hyresrätt
+Mjölnerbacken 63 lgh 1201 - bostadsrätt
+Bennets Väg 6C lgh 1803 - hyresrätt
+Eriksbergsvägen 5 lgh 1002 - hyresrätt
+Västra Allén 10C lgh 1002 - bostadsrätt
+Rosengatan 3B lgh 1302 - bostadsrätt
+Åvägen 6B lgh 1428 - hyresrätt
+Brantingsgatan 25 lgh 1001 - bostadsrätt
+Öregrundsgatan 11 lgh 1702 - hyresrätt
+Jupitervägen 17 lgh 1202 - bostadsrätt
+Mörsilsgatan 20 lgh 1102 - bostadsrätt
+Hagforsgatan 33 lgh 1201 - hyresrätt
+Axel Wennergrens Väg 22 lgh 1305 - bostadsrätt
+Badstrandsvägen 3 lgh 1002 - hyresrätt
+Virginsgatan 5C lgh 1102 - hyresrätt
+Varvsgatan 69A lgh 1203 - hyresrätt
+Thulegatan 41 lgh 1101 - hyresrätt
+Tegelmästargatan 22B lgh 1001 - bostadsrätt
+Vetevägen 12 lgh 1402 - bostadsrätt
+Kaplansgatan 15 lgh 1102 - hyresrätt
+Sköntorpsvägen 115 lgh 1408 - bostadsrätt
+Nolbygatan 7 lgh 1101 - bostadsrätt
+Segelflyget 5 lgh 1402 - hyresrätt
+Odengatan 18A lgh 1102 - bostadsrätt
+Eriksbergsgatan 34 lgh 1003 - bostadsrätt
+Källgatan 10 lgh 0901 - hyresrätt
+Flogstavägen 63F lgh 1001 - hyresrätt
+Parkgatan 9 lgh 1203 - hyresrätt
+Möllevångsvägen 10B lgh 1201 - bostadsrätt
+Astronomgatan 29 lgh 1201 - hyresrätt
+Stagneliusgatan 49B lgh 1101 - hyresrätt
+Lars Kaggsgatan 28D lgh 1101 - bostadsrätt
+Söderberga Allé 8 lgh 1301 - bostadsrätt
+Södra Vägen 4A lgh 1003 - bostadsrätt
+Skepparegatan 5A lgh 1102 - hyresrätt
+Infanterigatan 19 lgh 1002 - bostadsrätt
+Solvarvsgatan 22 lgh 1202 - hyresrätt
+Kämnärsvägen 37F lgh 1103 - hyresrätt
+Skandiavägen 1A lgh 1802 - bostadsrätt
+Humlegårdsvägen 16 lgh 1101 - bostadsrätt
+Frejgatan 53 lgh 1103 - bostadsrätt
+Bruksgatan 10A lgh 1101 - hyresrätt
+Luxgatan 19 lgh 1001 - bostadsrätt
+Tegelvägen 4A lgh 1102 - hyresrätt
+Hästskobacken 3 lgh 1602 - hyresrätt
+Nygårdsvägen 10 lgh 1207 - hyresrätt
+Stationsgatan 17D lgh 1201 - hyresrätt
+Lindögatan 3C lgh 1203 - bostadsrätt
+Engelbrektsgatan 16C lgh 1101 - bostadsrätt
+Studentvägen 36 lgh 1303 - hyresrätt
+Sundsesplanaden 6 lgh 1202 - hyresrätt
+Prosten Linders Väg 51 lgh 1201 - hyresrätt
+Frösängsvägen 58 lgh 1202 - bostadsrätt
+Hästhagsterrassen 7 lgh 1001 - hyresrätt
+Toppstigen 15A lgh 1101 - hyresrätt
+Noachsgatan 12C lgh 1202 - hyresrätt
+Van Dürens Väg 43F lgh 1306 - hyresrätt
+Strindbergs Väg 3C lgh 1101 - bostadsrätt
+Mejerigatan 12B lgh 1002 - bostadsrätt
+Järnvägsgatan 22A lgh 0901 - bostadsrätt
+Ringvägen 9E lgh 1202 - bostadsrätt
+Storgatan 9 lgh 1201 - hyresrätt
+Krikongränd 3 lgh 1702 - hyresrätt
+Räntmästaregatan 10B lgh 1001 - hyresrätt
+Fyrvaktarkroken 22 lgh 1202 - bostadsrätt
+Fridtunagatan 7B lgh 1202 - hyresrätt
+Langelandsgatan 6 lgh 1101 - bostadsrätt
+Formgatan 5 lgh 1102 - hyresrätt
+Maltgatan 4 lgh 1510 - hyresrätt
+Norra Trängallén 9C lgh 1203 - hyresrätt
+Skebokvarnsvägen 217 lgh 1201 - hyresrätt
+Malmtorgsgatan 9 lgh 1201 - bostadsrätt
+Oxtorgsgatan 14 lgh 1401 - hyresrätt
+Sulvägen 50 lgh 1102 - hyresrätt
+Renstiernas Gata 29 lgh 1402 - hyresrätt
+Hemstigen 4B lgh 1006 - hyresrätt
+Borgmästaregatan 4 lgh 1103 - bostadsrätt
+Svedjegatan 30 lgh 1102 - bostadsrätt
+Lyckostigen 5A lgh 1202 - hyresrätt
+Båtholmsbacken 7 lgh 1001 - bostadsrätt
+Nils Forsbergsgatan 7B lgh 1102 - bostadsrätt
+Grundläggargränd 14 lgh 1101 - hyresrätt
+Finningevägen 70A lgh 1202 - hyresrätt
+Växthusvägen 9 lgh 1005 - bostadsrätt
+Blomdahls Väg 11 lgh 1703 - hyresrätt
+Stationsgatan 4 lgh 1201 - hyresrätt
+Vintergatan 15B lgh 1201 - bostadsrätt
+Tvistevägen 5A lgh 1104 - hyresrätt
+Högsätravägen 33 lgh 1102 - bostadsrätt
+Vasagatan 4A lgh 1002 - hyresrätt
+Götgatan 8E lgh 1202 - bostadsrätt
+Solvarvsgatan 133 lgh 1002 - hyresrätt
+Oxhagsvägen 28 lgh 1102 - bostadsrätt
+Torsplan 6A lgh 1101 - hyresrätt
+Bangatan 24E lgh 1003 - hyresrätt
+Rindögatan 26 lgh 1103 - hyresrätt
+Kyrkbacken 48C lgh 1001 - bostadsrätt
+Högarensgatan 7 lgh 1301 - hyresrätt
+Hampvägen 5 lgh 1202 - bostadsrätt
+Vetevägen 4 lgh 1701 - bostadsrätt
+Föreningsgatan 17 lgh 1102 - bostadsrätt
+Vallhornsvägen 5 lgh 1504 - hyresrätt
+Huvudstagatan 30 lgh 1303 - bostadsrätt
+Linnévägen 12A lgh 1103 - bostadsrätt
+Vallhornsvägen 4 lgh 1106 - hyresrätt
+Östervägen 1 lgh 1204 - hyresrätt
+Nygatan 38 lgh 1102 - hyresrätt
+Storgatan 54A lgh 1102 - hyresrätt
+Prästgårdsgatan 19R lgh 1201 - hyresrätt
+Söderberga Gårdsväg 11 lgh 1202 - hyresrätt
+Nybrogatan 77 lgh 1101 - bostadsrätt
+Hamlingsgatan 1 lgh 1201 - hyresrätt
+Klintegatan 9 lgh 1102 - hyresrätt
+Ulvsbygatan 11B lgh 1103 - bostadsrätt
+Strombergs Väg 116 lgh 1106 - hyresrätt
+Källbogatan 5 lgh 1203 - bostadsrätt
+Sockerbruksgatan 13A lgh 1204 - hyresrätt
+Grevegårdsvägen 232 lgh 1301 - hyresrätt
+Traktörsgatan 4C lgh 1101 - hyresrätt
+Stuartsgatan 2 lgh 1102 - hyresrätt
+Gåsahalsvägen 2 lgh 1302 - hyresrätt
+Strandvägen 21 lgh 0901 - hyresrätt
+Västra Vägen 58D lgh 1201 - bostadsrätt
+Trollesundsvägen 141 lgh 1303 - bostadsrätt
+Norra Nissastigen 4C lgh 1101 - hyresrätt
+Dalagatan 3A lgh 1202 - hyresrätt
+Eklandagatan 33 lgh 1104 - bostadsrätt
+Sockengatan 2B lgh 1102 - bostadsrätt
+Södra Bangårdsgatan 12B lgh 1001 - hyresrätt
+Eskilsvägen 1 lgh 1002 - hyresrätt
+John Ericssonsgatan 15 lgh 1604 - bostadsrätt
+Marknadsgatan 7B lgh 1102 - hyresrätt
+Odengatan 37A lgh 1302 - bostadsrätt
+Bäckvägen 102 lgh 1101 - hyresrätt
+Industrigatan 6 lgh 1303 - bostadsrätt
+Norra Vägen 10 lgh 1201 - hyresrätt
+Oxenstiernas Allé 25 lgh 1102 - hyresrätt
+Alhagsvägen 32 lgh 1401 - hyresrätt
+Repslagargatan 13 lgh 1001 - hyresrätt
+Albyvägen 9 lgh 1801 - bostadsrätt
+Måsvägen 13B lgh 1104 - hyresrätt
+Lagrådsgatan 24B lgh 1201 - hyresrätt
+Åslidsgatan 5B lgh 1302 - hyresrätt
+Skönviksvägen 325 lgh 1001 - bostadsrätt
+Möllegatan 9A lgh 1102 - bostadsrätt
+Murarevägen 2A lgh 1002 - hyresrätt
+Askersundsgatan 4 lgh 1301 - hyresrätt
+Brårudsvägen 31B lgh 1002 - hyresrätt
+Fritjof Nansens Väg 9 lgh 1205 - bostadsrätt
+Bastuvägen 2 lgh 1201 - hyresrätt
+Völundsgatan 4B lgh 1101 - bostadsrätt
+Herrgårdsvägen 87 lgh 0902 - bostadsrätt
+Köpmansgatan 17A lgh 1001 - hyresrätt
+Vällarevägen 8C lgh 1303 - bostadsrätt
+Björngatan 18C lgh 1001 - bostadsrätt
+Solbågen 5C lgh 1202 - hyresrätt
+Mjölkvägen 20 lgh 1402 - hyresrätt
+Terrängvägen 5 lgh 1201 - hyresrätt
+Studiegången 15 lgh 1302 - hyresrätt
+Hillmanskroken 3B lgh 1103 - bostadsrätt
+Eldaregatan 3C lgh 1201 - hyresrätt
+Torphagsvägen 10 lgh 1001 - bostadsrätt
+Äsperödsvägen 6A lgh 1202 - bostadsrätt
+Johan Printz Väg 42 lgh 1102 - hyresrätt
+Porsögården 30 lgh 1007 - hyresrätt
+Karlsviksgatan 13 lgh 1403 - hyresrätt
+Murgrönsgatan 25 lgh 1001 - hyresrätt
+Fridhemsgatan 38 lgh 1302 - hyresrätt
+Göingegatan 4A lgh 1201 - hyresrätt
+Kulladalsgatan 10C lgh 1301 - bostadsrätt
+Västanågatan 18 lgh 1017 - hyresrätt
+Alphyddevägen 8 lgh 1304 - bostadsrätt
+Peterson-Bergers Väg 88 lgh 1201 - hyresrätt
+Fredhällsgatan 9 lgh 1303 - bostadsrätt
+Östra Nygatan 113 lgh 1204 - bostadsrätt
+Gävlevägen 42C lgh 1215 - bostadsrätt
+Centrumvägen 32A lgh 1001 - hyresrätt
+Magistratsvägen 55B lgh 1006 - hyresrätt
+Munkebergsgatan 34 lgh 1203 - bostadsrätt
+Västra Nygatan 37C lgh 1101 - bostadsrätt
+Äsperödsvägen 14C lgh 1202 - bostadsrätt
+Karlagatan 1E lgh 1403 - hyresrätt
+Kungsgårdsvägen 18A lgh 1302 - bostadsrätt
+Tunavägen 39D lgh 1212 - hyresrätt
+Kungsvägen 3A lgh 1102 - bostadsrätt
+Tallhedsvägen 19A lgh 1102 - hyresrätt
+Kustvägen 7B lgh 0901 - hyresrätt
+Wittstocksgatan 4 lgh 1203 - hyresrätt
+Ahlbergers Väg 5 lgh 1004 - hyresrätt
+Högliden 3A lgh 1203 - hyresrätt
+Engelbrektsgatan 46 lgh 1201 - bostadsrätt
+Batterigatan 13 lgh 1001 - bostadsrätt
+Kamomillgatan 20 lgh 1103 - bostadsrätt
+Skebokvarnsvägen 324 lgh 1201 - hyresrätt
+Östra Storgatan 153 lgh 1205 - hyresrätt
+Mariagatan 37A lgh 1201 - hyresrätt
+Falsterbogatan 29 lgh 1101 - hyresrätt
+Köpenhamnsvägen 18A lgh 1303 - bostadsrätt
+Strålgatan 12 lgh 1202 - bostadsrätt
+Sveaborgsgatan 30C lgh 1003 - hyresrätt
+Kyrkvärdsplan 10 lgh 1203 - bostadsrätt
+Luthagsesplanaden 89 lgh 1309 - hyresrätt
+Ernst Ahlgrens Väg 5 lgh 1106 - bostadsrätt
+Salagatan 30A lgh 1001 - hyresrätt
+Magasinsgatan 3B lgh 1201 - hyresrätt
+Sveagatan 21 lgh 1202 - hyresrätt
+Östra Bergsgatan 4B lgh 1103 - bostadsrätt
+Hamngatan 19A lgh 1302 - hyresrätt
+Suddagummans Gata 5 lgh 1102 - hyresrätt
+Fabriksgatan 58 lgh 1102 - hyresrätt
+Bergavägen 15B lgh 1202 - hyresrätt
+Årbygatan 23 lgh 1207 - hyresrätt
+Kyrkvägen 6C lgh 1002 - hyresrätt
+Läckövägen 25 lgh 1102 - bostadsrätt
+Holmögaddsvägen 36 lgh 1002 - hyresrätt
+Fysikgränd 25D lgh 1206 - hyresrätt
+Säterbacken 12 lgh 1505 - bostadsrätt
+Tingvallagatan 5C lgh 1202 - bostadsrätt
+Loftvägen 16 lgh 1503 - bostadsrätt
+Essinge Brogata 2 lgh 1505 - hyresrätt
+Åkerbyvägen 300 lgh 1301 - bostadsrätt
+Flintvägen 6B lgh 1003 - hyresrätt
+Björkebogatan 6A lgh 1001 - bostadsrätt
+Armégatan 32A lgh 1614 - hyresrätt
+Krakel Spektakels Gata 3 lgh 1101 - bostadsrätt
+Dammtorps Allé 19 lgh 1202 - bostadsrätt
+Nya Tanneforsvägen 42 lgh 1202 - hyresrätt
+Baldersplan 8C lgh 1002 - hyresrätt
+Torggatan 11 lgh 1201 - hyresrätt
+Värdshusvägen 16 lgh 1801 - hyresrätt
+Kapplandsgatan 26 lgh 0902 - hyresrätt
+Fyrverkaregatan 4B lgh 1002 - hyresrätt
+Kolmilavägen 13 lgh 1103 - hyresrätt
+Årgångsgatan 6 lgh 1201 - bostadsrätt
+Värtavägen 13 lgh 1205 - bostadsrätt
+Slåttergatan 6A lgh 1002 - bostadsrätt
+Virvelvindsgatan 18A lgh 1303 - hyresrätt
+Tingshusgatan 4E lgh 1202 - hyresrätt
+Affärsgatan 9C lgh 1003 - hyresrätt
+Rönnplan 1E lgh 1001 - hyresrätt
+Älgstigen 2F lgh 1302 - hyresrätt
+Rudsvägen 7D lgh 1102 - bostadsrätt
+Havsörnsgatan 6B lgh 1001 - bostadsrätt
+Tingvallavägen 4A lgh 1101 - bostadsrätt
+Pinnmogatan 30 lgh 1101 - bostadsrätt
+Nyckelbergsvägen 63B lgh 1103 - bostadsrätt
+Östra Norrlandsgatan 64 lgh 0902 - hyresrätt
+Pedagoggränd 1B lgh 1002 - hyresrätt
+Bergsgatan 14A lgh 1101 - bostadsrätt
+Maskinförarevägen 52 lgh 1104 - hyresrätt
+Bergsgatan 66 lgh 1203 - hyresrätt
+Baskemöllegatan 6A lgh 1302 - bostadsrätt
+Baldersgatan 8B lgh 1201 - bostadsrätt
+Östra Vallgatan 51 lgh 1511 - hyresrätt
+Roslagstullsbacken 5 lgh 1312 - hyresrätt
+Bergsgatan 27C lgh 0901 - hyresrätt
+Lingonstigen 7 lgh 1201 - bostadsrätt
+Gasverksgatan 52 lgh 1204 - bostadsrätt
+Södra Vägen 15 lgh 1903 - bostadsrätt
+Backgatan 23E lgh 1102 - bostadsrätt
+Storgatan 85C lgh 1104 - hyresrätt
+Sunnanväg 6C lgh 1002 - bostadsrätt
+Abel Beckers Gata 7 lgh 1101 - hyresrätt
+Dalstigen 10 lgh 1002 - hyresrätt
+Vattenverksvägen 5 lgh 1004 - hyresrätt
+Anders Knapes Väg 4B lgh 1201 - hyresrätt
+Harvvägen 2A lgh 1002 - hyresrätt
+Gråstensgatan 4 lgh 1202 - hyresrätt
+Hälsingborgsvägen 28B lgh 1301 - hyresrätt
+Norra Stiftelsevägen 23 lgh 1002 - hyresrätt
+Repslagaregatan 7B lgh 1301 - hyresrätt
+Palmstedtsgatan 3C lgh 1102 - bostadsrätt
+Plankgatan 12 lgh 1103 - bostadsrätt
+Lilla Varvsgatan 6 lgh 1213 - hyresrätt
+Ploggatan 6 lgh 1204 - hyresrätt
+Ekskogenvägen 21 lgh 1001 - hyresrätt
+Skebokvarnsvägen 376 lgh 1309 - bostadsrätt
+Råsundavägen 7 lgh 1401 - bostadsrätt
+Nygatan 10 lgh 1401 - bostadsrätt
+Grindtorpsvägen 45 lgh 1502 - bostadsrätt
+Sankt Hans Gränd 9B lgh 1102 - hyresrätt
+Kristallvägen 9 lgh 1005 - bostadsrätt
+Olivedalsgatan 13 lgh 1201 - hyresrätt
+Hasselgatan 33 lgh 1202 - hyresrätt
+Nynäsvägen 309 lgh 1201 - bostadsrätt
+Järvstigen 6B lgh 1101 - hyresrätt
+Ällingavägen 7J lgh 1219 - hyresrätt
+Älvans Väg 135 lgh 1001 - hyresrätt
+Verkmästaregatan 1 lgh 1101 - bostadsrätt
+Tullgatan 5A lgh 1303 - hyresrätt
+Margretelundsgatan 7A lgh 1203 - hyresrätt
+Telegatan 15 lgh 1103 - bostadsrätt
+Söderlingsgatan 15A lgh 1202 - hyresrätt
+Stationsgatan 44G lgh 1101 - bostadsrätt
+Såggatan 21E lgh 1001 - hyresrätt
+Rullstensgatan 25A lgh 1002 - hyresrätt
+Västra Allén 16 lgh 1203 - bostadsrätt
+Albatrossvägen 34 lgh 1202 - bostadsrätt
+Kvarnvägen 1 lgh 1302 - bostadsrätt
+Läktarplatsen 3 lgh 1404 - hyresrätt
+Badvädersgatan 15 lgh 1603 - bostadsrätt
+Professorsslingan 10 lgh 1308 - hyresrätt
+Floravägen 16A lgh 1203 - bostadsrätt
+Vistvägen 1 lgh 1009 - hyresrätt
+Havsöringsgränd 1 lgh 1101 - hyresrätt
+Sjögatan 2A lgh 1201 - bostadsrätt
+Vendelsfridsgatan 5A lgh 1803 - hyresrätt
+Prytzgatan 39 lgh 1201 - bostadsrätt
+Strandvägen 14 lgh 1302 - bostadsrätt
+Chapmans Torg 10 lgh 1102 - hyresrätt
+Örbäcksvägen 13D lgh 1103 - hyresrätt
+Storskogsvägen 41 lgh 1101 - hyresrätt
+Norra Storgatan 10A lgh 1101 - hyresrätt
+Affärsgatan 16H lgh 1203 - hyresrätt
+Swedenborgsgatan 4B lgh 1305 - bostadsrätt
+O G Svenssons Väg 13A lgh 1001 - hyresrätt
+Västra Andersgårdsgatan 12 lgh 1307 - hyresrätt
+Solgatan 28H lgh 1102 - bostadsrätt
+Sandfjärdsgatan 46 lgh 1104 - hyresrätt
+Hantverkaregatan 24 lgh 1302 - hyresrätt
+Östbygatan 13D lgh 1001 - bostadsrätt
+Krokslätts Parkgata 61C lgh 1102 - hyresrätt
+Norra Skolgatan 29B lgh 1804 - hyresrätt
+Vaksalagatan 55 lgh 1204 - bostadsrätt
+Nelinsgatan 14 lgh 1202 - hyresrätt
+Gräsandsvägen 23 lgh 1101 - bostadsrätt
+Skolgatan 1B lgh 1202 - bostadsrätt
+Götgatan 78 lgh 1204 - hyresrätt
+Brunflovägen 15A lgh 1101 - hyresrätt
+Redskapsvägen 18 lgh 1104 - hyresrätt
+Skepparegatan 47C lgh 1302 - hyresrätt
+Ågatan 6 lgh 1102 - hyresrätt
+Årevägen 72A lgh 1101 - hyresrätt
+Köpmangatan 10A lgh 1103 - hyresrätt
+Sturegatan 6 lgh 1302 - hyresrätt
+Flintlåsvägen 1 lgh 1502 - bostadsrätt
+Skansgatan 3A lgh 1102 - hyresrätt
+Sjögatan 16A lgh 1302 - hyresrätt
+Timmervägen 28C lgh 1103 - hyresrätt
+Borggatan 17A lgh 1001 - bostadsrätt
+Söderberga Allé 19 lgh 1401 - bostadsrätt
+Blockstensvägen 94 lgh 1002 - hyresrätt
+Allmogeplatsen 22 lgh 1101 - hyresrätt
+Valldammsgatan 4 lgh 1201 - bostadsrätt
+Syster Jennys Väg 8A lgh 1101 - hyresrätt
+Gamla Gatan 51A lgh 1103 - hyresrätt
+Östergatan 12 lgh 1201 - hyresrätt
+Sälstensgränd 4A lgh 1002 - hyresrätt
+Ernst Ahlgrens Väg 8 lgh 1105 - bostadsrätt
+Torsvikssvängen 9 lgh 1201 - bostadsrätt
+Östra Torggatan 4 lgh 1102 - hyresrätt
+Brogatan 6 lgh 1201 - hyresrätt
+John Ericssonsgatan 12C lgh 1001 - bostadsrätt
+Västerlånggatan 31 lgh 1204 - hyresrätt
+Storvretsvägen 86 lgh 1102 - bostadsrätt
+Järnvägsgatan 6E lgh 1701 - bostadsrätt
+Önskevädersgatan 39 lgh 1603 - bostadsrätt
+Drabantgatan 1 lgh 1102 - bostadsrätt
+Elsa Brändströms Gata 4 lgh 1104 - hyresrätt
+Dalaresan 38A lgh 1202 - bostadsrätt
+Torgny Segerstedtsgatan 60B lgh 0901 - hyresrätt
+Love Almqvists Väg 10 lgh 1203 - bostadsrätt
+Stadsbudsvägen 36 lgh 1202 - hyresrätt
+Västeränggatan 9A lgh 1002 - bostadsrätt
+Stensövägen 5 lgh 1504 - bostadsrätt
+Gruvlyckevägen 48 lgh 1102 - hyresrätt
+Pedagoggränd 7B lgh 1205 - hyresrätt
+Blidvädersgatan 35D lgh 1301 - hyresrätt
+Torggatan 26 lgh 1101 - hyresrätt
+Stationsgatan 12 lgh 1101 - hyresrätt
+Tvistevägen 11C lgh 1003 - hyresrätt
+Majorsgatan 11B lgh 1001 - hyresrätt
+Kvarnbergsgatan 32 lgh 1302 - bostadsrätt
+Smedjegatan 24 lgh 1202 - bostadsrätt
+Erik Dahlbergs Väg 29 lgh 1204 - hyresrätt
+Lignellsgatan 13B lgh 1101 - bostadsrätt
+Storgatan 27A lgh 1101 - bostadsrätt
+Vallvägen 8B lgh 1002 - bostadsrätt
+Skvadronsbacken 41A lgh 1402 - hyresrätt
+Södergatan 15A lgh 1201 - bostadsrätt
+Hovbygatan 66B lgh 1201 - hyresrätt
+Guldpokalsgatan 2D lgh 1202 - bostadsrätt
+Parkvägen 5 lgh 1401 - bostadsrätt
+Rådmansbacken 13 lgh 1702 - hyresrätt
+Döbelnsgatan 93 lgh 1304 - bostadsrätt
+Storgatan 37 lgh 1202 - hyresrätt
+Sportvägen 1 lgh 1002 - hyresrätt
+Krongårdsringen 6C lgh 1201 - bostadsrätt
+Vistvägen 30A lgh 1203 - hyresrätt
+Norra Gubberogatan 3 lgh 1304 - hyresrätt
+Våmmedalsvägen 4 lgh 1002 - hyresrätt
+Bergsgatan 44A lgh 1303 - hyresrätt
+Pärlstickaregatan 6 lgh 1303 - bostadsrätt
+Storgatan 22 lgh 1002 - bostadsrätt
+Spinnrocksvägen 5 lgh 1002 - hyresrätt
+Kristinehamnsgatan 78 lgh 1103 - hyresrätt
+Residensgatan 6B lgh 1603 - bostadsrätt
+Gransikagatan 1A lgh 1201 - bostadsrätt
+Mossgatan 127 lgh 1102 - hyresrätt
+Stiglötsgatan 94 lgh 1001 - hyresrätt
+Gibraltargatan 84 lgh 1008 - hyresrätt
+Dalhemsvägen 126B lgh 1101 - hyresrätt
+Beckombergavägen 9 lgh 1402 - hyresrätt
+Russinvägen 27 lgh 1201 - hyresrätt
+Klostergatan 43B lgh 1103 - hyresrätt
+Dalgården 8 lgh 1103 - hyresrätt
+Askebykroken 18 lgh 1102 - hyresrätt
+Herrhagsvägen 33 lgh 1203 - hyresrätt
+Bergslagsvägen 23 lgh 1202 - bostadsrätt
+Skolgatan 23 lgh 1004 - hyresrätt
+Sandbäcksgatan 6 lgh 1001 - hyresrätt
+Bokvägen 4A lgh 1201 - bostadsrätt
+Herrhagsvägen 43 lgh 1006 - hyresrätt
+Bergmästaregatan 11 lgh 1302 - hyresrätt
+Ällingavägen 1J lgh 1212 - hyresrätt
+Bruno Liljeforsgatan 1 lgh 1102 - hyresrätt
+Hamngatan 5 lgh 1001 - hyresrätt
+Stora Håjumsgatan 5B lgh 1101 - bostadsrätt
+Måsvägen 8B lgh 1002 - bostadsrätt
+Frejavägen 5B lgh 1002 - hyresrätt
+Sicksackvägen 13 lgh 1403 - hyresrätt
+Styrmansgatan 25 lgh 1201 - hyresrätt
+Kullerstensvägen 48 lgh 1203 - hyresrätt
+Åkersviksgatan 7C lgh 1101 - bostadsrätt
+Stockholmsvägen 27 lgh 1301 - hyresrätt
+Stråvägen 1 lgh 1501 - bostadsrätt
+Bennets Väg 49 lgh 1504 - hyresrätt
+Kapellgatan 16B lgh 1002 - bostadsrätt
+Majorsgatan 12B lgh 1201 - hyresrätt
+Trädgårdsgatan 23A lgh 1002 - hyresrätt
+Ingebjörnsgatan 2B lgh 1002 - hyresrätt
+Kubbegatan 10 lgh 1101 - bostadsrätt
+Skogslyckegatan 22 lgh 1005 - hyresrätt
+Vigelsjöhöjden 1B lgh 0702 - bostadsrätt
+Tullgatan 25 lgh 1201 - bostadsrätt
+Solhagagatan 56 lgh 1001 - bostadsrätt
+Moragatan 7B lgh 1001 - hyresrätt
+Ramels Väg 139 lgh 1401 - hyresrätt
+Prinsgatan 8B lgh 1201 - hyresrätt
+Björneborgsgatan 1E lgh 1101 - hyresrätt
+Nygatan 1C lgh 1301 - hyresrätt
+Bennets Väg 45 lgh 1703 - hyresrätt
+Västra Varvsgatan 8 lgh 1202 - bostadsrätt
+Fridhemsgatan 58 lgh 1118 - hyresrätt
+Dalagatan 76A lgh 1004 - bostadsrätt
+Sandspåret 9 lgh 1001 - hyresrätt
+Bangatan 27 lgh 1204 - bostadsrätt
+Solskiftesgatan 5E lgh 1302 - hyresrätt
+Corneliusgatan 30A lgh 1103 - bostadsrätt
+Klostergatan 7C lgh 1201 - hyresrätt
+Sädesbingen 60 lgh 1201 - hyresrätt
+Krankajen 4 lgh 1102 - bostadsrätt
+Parkgatan 17 lgh 1401 - hyresrätt
+Mellangården 6 lgh 1201 - hyresrätt
+Forsstenagatan 2D lgh 1201 - hyresrätt
+Hagebygatan 165 lgh 0902 - hyresrätt
+Skomakargatan 10 lgh 1207 - hyresrätt
+Engelbrektsgatan 97B lgh 1205 - hyresrätt
+Östra Storgatan 83 lgh 1303 - hyresrätt
+Uppfartsvägen 3 lgh 1203 - hyresrätt
+Betesgatan 8G lgh 1202 - hyresrätt
+Jägaregatan 3B lgh 1101 - bostadsrätt
+Södra Långgatan 36 lgh 1103 - bostadsrätt
+Falsterbogatan 23 lgh 1301 - hyresrätt
+Jyllandsgatan 305 lgh 1003 - hyresrätt
+Tegnérsgatan 5A lgh 1201 - hyresrätt
+Bomplansvägen 6 lgh 1101 - hyresrätt
+Stenbrohultsvägen 18 lgh 1204 - hyresrätt
+Näsbychaussén 23A lgh 1102 - bostadsrätt
+Södra Bulltoftavägen 18B lgh 1201 - hyresrätt
+Hårds Väg 59 lgh 1003 - hyresrätt
+Ängsholmsgränd 11 lgh 1202 - hyresrätt
+Tjädervägen 2F lgh 0802 - bostadsrätt
+Rosmaringatan 44 lgh 1001 - hyresrätt
+Prästgatan 56 lgh 1203 - hyresrätt
+Järnvägsgatan 13 lgh 1103 - bostadsrätt
+Åsgatan 29B lgh 1102 - hyresrätt
+Adolf Hedinsvägen 34A lgh 1301 - hyresrätt
+Torggatan 3B lgh 1301 - hyresrätt
+Bröderna Berwalds Väg 30 lgh 1001 - hyresrätt
+Östra Förstadsgatan 17C lgh 1103 - bostadsrätt
+Örbäcksvägen 15B lgh 1202 - hyresrätt
+Kungshamra 3 lgh 1004 - hyresrätt
+Sjöbrings Väg 7 lgh 1203 - bostadsrätt
+Glimmervägen 5 lgh 1303 - hyresrätt
+Cirkusvägen 11 lgh 1102 - bostadsrätt
+Vasagatan 16B lgh 1102 - bostadsrätt
+Vilbergsgatan 97 lgh 1001 - hyresrätt
+Triogatan 1 lgh 1110 - hyresrätt
+Sankt Pauligatan 9 lgh 1101 - hyresrätt
+Kemivägen 7A lgh 1808 - hyresrätt
+Munkhagsgatan 112B lgh 1102 - bostadsrätt
+Sturegatan 20 lgh 1002 - bostadsrätt
+Bällstavägen 240 lgh 1104 - hyresrätt
+Järnåkravägen 11C lgh 1201 - bostadsrätt
+Torgvägen 4 lgh 1002 - hyresrätt
+Surbrunnsvägen 3A lgh 1001 - bostadsrätt
+Vikingavägen 19 lgh 1403 - bostadsrätt
+Södra Hospitalsgatan 13A lgh 1102 - hyresrätt
+Rehnsgatan 24 lgh 1206 - bostadsrätt
+Finalgatan 13C lgh 1305 - bostadsrätt
+Riktargatan 65D lgh 1301 - hyresrätt
+Oxelvägen 27 lgh 1803 - hyresrätt
+Steinholtzgatan 25 lgh 1201 - bostadsrätt
+Balsamingatan 5C lgh 1102 - hyresrätt
+Godvädersgatan 44 lgh 1002 - hyresrätt
+Magistratsgatan 5 lgh 1001 - hyresrätt
+Grindvägen 10C lgh 1001 - bostadsrätt
+Ringgatan 22B lgh 1203 - bostadsrätt
+Frejgatan 22 lgh 1402 - bostadsrätt
+Erik Dahlbergs Gata 6B lgh 1202 - hyresrätt
+Arkens Väg 28 lgh 1202 - hyresrätt
+Parkvägen 10 lgh 1101 - hyresrätt
+Karlskronaplan 7 lgh 1202 - hyresrätt
+Bruksgatan 33D lgh 1201 - bostadsrätt
+Götalandsvägen 230 lgh 1402 - hyresrätt
+Nygatan 17B lgh 1101 - hyresrätt
+Poseidons Gränd 17 lgh 1303 - hyresrätt
+Valutavägen 30 lgh 1202 - bostadsrätt
+Fjällgatan 9R lgh 1001 - bostadsrätt
+Storgatan 44 lgh 1408 - hyresrätt
+Pilåkersvägen 5C lgh 1203 - bostadsrätt
+Fredrikshovsgatan 2 lgh 1202 - bostadsrätt
+Radiovägen 15 lgh 1702 - bostadsrätt
+Vattugatan 13 lgh 1303 - bostadsrätt
+Kungsgatan 119B lgh 1101 - hyresrätt
+Per Albin Hanssons Väg 52B lgh 1401 - bostadsrätt
+Norumshöjd 64 lgh 1302 - hyresrätt
+Brännerigatan 5 lgh 1206 - bostadsrätt
+Västergatan 21F lgh 1103 - hyresrätt
+Gamla Tanneforsvägen 80A lgh 1103 - hyresrätt
+Engelbrektsgatan 55 lgh 1001 - hyresrätt
+Lyckselevägen 72 lgh 1202 - hyresrätt
+Karlsrogatan 1 lgh 1003 - hyresrätt
+Prytzgatan 10B lgh 1102 - hyresrätt
+Strömkarlsvägen 60 lgh 1003 - hyresrätt
+Hantverksgatan 28 lgh 1201 - hyresrätt
+Pumpmakargränd 2 lgh 1105 - bostadsrätt
+Ekebyvägen 11 lgh 1102 - bostadsrätt
+Skolgatan 17A lgh 1103 - bostadsrätt
+Konstgjutarvägen 55 lgh 1104 - hyresrätt
+Kastanjegatan 23B lgh 1402 - hyresrätt
+Stora Södergatan 57C lgh 1101 - bostadsrätt
+Kärrhöksgatan 100 lgh 1704 - hyresrätt
+Östra Järnvägsgatan 11 lgh 1202 - hyresrätt
+Östergatan 37 lgh 1502 - hyresrätt
+Sjåaregatan 1 lgh 1002 - hyresrätt
+Rydsvägen 104C lgh 1002 - hyresrätt
+Granitvägen 28B lgh 1301 - bostadsrätt
+Kanalgatan 40A lgh 1202 - hyresrätt
+Skogsvägen 7 lgh 1101 - hyresrätt
+Falköpingsvägen 5 lgh 1002 - bostadsrätt
+Rullstensgatan 180 lgh 1604 - hyresrätt
+Villavägen 8 lgh 1101 - hyresrätt
+Braxengatan 8 lgh 1102 - hyresrätt
+Nilssonsberg 24 lgh 1202 - bostadsrätt
+Korstavägen 5 lgh 1205 - bostadsrätt
+Serenadgatan 30 lgh 2204 - bostadsrätt
+Oxelögatan 17B lgh 1201 - hyresrätt
+Skalgränd 3A lgh 1002 - hyresrätt
+Wendela Hebbes Gata 6C lgh 1501 - hyresrätt
+Brännbergsvägen 10C lgh 1101 - hyresrätt
+Södra Långgatan 19 lgh 1203 - hyresrätt
+Röntgenvägen 5 lgh 1210 - hyresrätt
+Sickla Kanalgata 81 lgh 1302 - bostadsrätt
+Styrbjörnsvägen 32 lgh 1001 - bostadsrätt
+Norumshöjd 10 lgh 1301 - hyresrätt
+Bagaregatan 4 lgh 1301 - hyresrätt
+Pionjärgatan 44 lgh 1202 - hyresrätt
+Sockengatan 12B lgh 1203 - bostadsrätt
+Sigfridsvägen 1 lgh 1201 - bostadsrätt
+Kvillegatan 19 lgh 1302 - bostadsrätt
+Gällerstagränd 1 lgh 1202 - bostadsrätt
+Hantverksgatan 32 lgh 1301 - hyresrätt
+Hörngatan 25 lgh 1202 - bostadsrätt
+Konstruktörsgatan 46 lgh 1303 - hyresrätt
+Styrmansgatan 46 lgh 1105 - hyresrätt
+Sandbäcksvägen 72 lgh 1002 - hyresrätt
+Lästmakargatan 14 lgh 1604 - hyresrätt
+Tegeluddsvägen 32 lgh 1102 - hyresrätt
+Seminariegatan 6 lgh 1301 - hyresrätt
+Valhallavägen 174 lgh 1303 - bostadsrätt
+Spannmålsgatan 9 lgh 1208 - hyresrätt
+Sulvägen 31 lgh 1002 - hyresrätt
+Larsbergsvägen 48 lgh 1202 - hyresrätt
+Brunnegatan 8 lgh 1001 - hyresrätt
+Vintergatan 8 lgh 1203 - hyresrätt
+Spånehusvägen 63C lgh 1004 - bostadsrätt
+Stora Trädgårdsgatan 5B lgh 1101 - hyresrätt
+Grönegatan 34 lgh 1107 - hyresrätt
+Bronsåldersgatan 11 lgh 1201 - bostadsrätt
+Hasselquistvägen 11 lgh 1002 - bostadsrätt
+Duvkullavägen 36B lgh 1202 - bostadsrätt
+Råstensgatan 5 lgh 1005 - hyresrätt
+Pontus Wiknersgatan 3 lgh 1201 - bostadsrätt
+Flöjtgatan 27 lgh 1301 - bostadsrätt
+Elledalsgatan 7A lgh 1202 - bostadsrätt
+Smedjegatan 11A lgh 1103 - hyresrätt
+Södra Förstadsgatan 121B lgh 1302 - bostadsrätt
+Bruksgatan 26B lgh 1002 - bostadsrätt
+Landshammarsgatan 4A lgh 1202 - hyresrätt
+Tröskaregatan 12 lgh 1506 - hyresrätt
+Östra Kanalgatan 20 lgh 1002 - bostadsrätt
+Björknäsvägen 14 lgh 0902 - hyresrätt
+Havsöringsgränd 13 lgh 1003 - hyresrätt
+Nilsbrogatan 1A lgh 1002 - hyresrätt
+Västerdalsgatan 6B lgh 1001 - hyresrätt
+Kilbacksvägen 11C lgh 1101 - hyresrätt
+Oxledsvägen 25 lgh 1201 - hyresrätt
+Ramstorpsgatan 62 lgh 1102 - hyresrätt
+Södra Järnvägsgatan 38A lgh 1202 - hyresrätt
+Slipgatan 4 lgh 1206 - hyresrätt
+Loddbygatan 8 lgh 1102 - hyresrätt
+Enspännargatan 11 lgh 1102 - hyresrätt
+Roddaregatan 10B lgh 1301 - hyresrätt
+Rydsvägen 10B lgh 1101 - hyresrätt
+Galateagatan 6 lgh 1002 - hyresrätt
+Läroverksgatan 45A lgh 1001 - bostadsrätt
+Stationsvägen 2 lgh 1101 - hyresrätt
+Skogvaktarvägen 2 lgh 1707 - hyresrätt
+Västanväg 59A lgh 1203 - bostadsrätt
+Idrottsvägen 10B lgh 1303 - hyresrätt
+Olskroksgatan 28A lgh 1302 - hyresrätt
+Briljantgatan 10 lgh 1102 - hyresrätt
+Lidnersgatan 10B lgh 1102 - bostadsrätt
+Alhagsvägen 82 lgh 1202 - hyresrätt
+Vintrosagatan 5 lgh 1803 - bostadsrätt
+Norrbackagatan 56 lgh 1304 - hyresrätt
+Kapellvägen 24D lgh 1101 - bostadsrätt
+Humlegatan 9 lgh 1706 - hyresrätt
+Hantverkaregatan 12 lgh 1101 - bostadsrätt
+Verkstadsgatan 1A lgh 1201 - bostadsrätt
+Östermalmsgatan 61 lgh 1103 - bostadsrätt
+Brännbergsvägen 20A lgh 1102 - hyresrätt
+Apelgatan 5B lgh 1002 - bostadsrätt
+Nybrogatan 22A lgh 1401 - hyresrätt
+Larsbergstorget 5 lgh 1505 - bostadsrätt
+Skattegårdsgatan 3D lgh 1202 - hyresrätt
+Kransen 3 lgh 1003 - hyresrätt
+Vapengatan 9 lgh 1202 - bostadsrätt
+Lövgatan 49 lgh 1202 - bostadsrätt
+Östra Storgatan 12 lgh 1102 - hyresrätt
+Hammarbacken 14 lgh 1202 - bostadsrätt
+Generatorgatan 2 lgh 1308 - hyresrätt
+Djäknegatan 47 lgh 1101 - hyresrätt
+Isgränd 17 lgh 1203 - bostadsrätt
+Syster Estrids Gata 6 lgh 1103 - hyresrätt
+Trädgårdsgatan 7A lgh 1103 - bostadsrätt
+Hoppets Gränd 24B lgh 1201 - hyresrätt
+Reykjaviksgatan 122 lgh 1102 - bostadsrätt
+Parternas Gränd 51 lgh 1201 - bostadsrätt
+Kaptensgatan 2 lgh 1104 - hyresrätt
+Salviavägen 9 lgh 1104 - hyresrätt
+Kungsvägen 137 lgh 1401 - bostadsrätt
+Kanalgränd 2 lgh 1201 - bostadsrätt
+Fredentorpsgatan 8B lgh 1202 - hyresrätt
+Ankarskatavägen 77B lgh 1002 - hyresrätt
+Gästrikegatan 9B lgh 1102 - bostadsrätt
+Magistratsvägen 9B lgh 1201 - hyresrätt
+Fältjägarvägen 36B lgh 1101 - bostadsrätt
+Raketgatan 12 lgh 1201 - bostadsrätt
+Ulrikedalsvägen 26C lgh 1301 - hyresrätt
+Smaragdgatan 23 lgh 1102 - hyresrätt
+Gränsvägen 10B lgh 1203 - bostadsrätt
+Norrtullsgatan 51 lgh 1401 - bostadsrätt
+Spelvägen 23 lgh 1502 - hyresrätt
+Skulptörvägen 1 lgh 0902 - hyresrätt
+Tomtbergavägen 48 lgh 1102 - bostadsrätt
+Ynglingagatan 22 lgh 1102 - bostadsrätt
+Karolinervägen 2A lgh 1103 - hyresrätt
+Nordmarksvägen 1 lgh 1104 - hyresrätt
+Hissjövägen 34 lgh 1304 - bostadsrätt
+Störtloppsvägen 30 lgh 1202 - hyresrätt
+Kungsgatan 5 lgh 1102 - bostadsrätt
+Ellen Keys Gata 45 lgh 1002 - bostadsrätt
+Kvarnhagsgatan 136 lgh 1201 - hyresrätt
+Rökullagatan 18B lgh 1201 - hyresrätt
+Dragarbrunnsgatan 15 lgh 1401 - hyresrätt
+Örbäcksvägen 15D lgh 1203 - hyresrätt
+Postiljonsgatan 2B lgh 1106 - hyresrätt
+Studentbacken 25 lgh 1301 - hyresrätt
+Norra Aspövägen 6 lgh 1501 - hyresrätt
+Våmmedalsvägen 20 lgh 1302 - hyresrätt
+Sysslomansgatan 6B lgh 1303 - hyresrätt
+Kalendervägen 47 lgh 1102 - bostadsrätt
+Organistgatan 1D lgh 1003 - bostadsrätt
+Carl Westmans Allé 14 lgh 1103 - hyresrätt
+Hagbacksgatan 20B lgh 1001 - hyresrätt
+Eklandagatan 58E lgh 1201 - hyresrätt
+Eslövsgatan 5 lgh 1303 - bostadsrätt
+Åkerbyvägen 374 lgh 1302 - bostadsrätt
+Kosmosgatan 6 lgh 1401 - hyresrätt
+Centrumvägen 54B lgh 1101 - bostadsrätt
+Södra Moränvägen 6 lgh 1005 - hyresrätt
+Föreningsgatan 4 lgh 1301 - hyresrätt
+Sturegatan 9 lgh 1202 - bostadsrätt
+Bergstigen 8 lgh 1301 - hyresrätt
+Döbelnsgatan 7 lgh 1003 - bostadsrätt
+Storgatan 6A lgh 1201 - bostadsrätt
+Allégatan 108 lgh 1202 - hyresrätt
+Södergatan 10C lgh 1002 - bostadsrätt
+Västeråsvägen 10B lgh 1302 - bostadsrätt
+Riddargatan 55 lgh 1203 - bostadsrätt
+Industrivägen 4 lgh 1204 - bostadsrätt
+Stampgatan 58C lgh 1302 - bostadsrätt
+Karl Johans Gata 26 lgh 1502 - hyresrätt
+Gråbergsgatan 3 lgh 1202 - bostadsrätt
+Örnbacken 14 lgh 1302 - hyresrätt
+Grymängsgatan 5 lgh 1201 - hyresrätt
+Storgatan 18B lgh 1102 - bostadsrätt
+Ryningsbergsvägen 12E lgh 1203 - bostadsrätt
+Köpenhamnsvägen 20A lgh 1301 - bostadsrätt
+Erstagatan 1B lgh 1401 - hyresrätt
+Jägersrovägen 15C lgh 1002 - bostadsrätt
+Risåsgatan 4 lgh 1505 - hyresrätt
+Vigelsjövägen 18B lgh 1301 - bostadsrätt
+Ängsnäsvägen 4 lgh 1002 - bostadsrätt
+Mjölnargränd 9 lgh 1102 - bostadsrätt
+Lillekärr Södra 122 lgh 1305 - bostadsrätt
+Storgatan 72 lgh 1108 - hyresrätt
+Visvägen 6 lgh 1101 - hyresrätt
+S:t Olofsgatan 38 lgh 1103 - bostadsrätt
+Idholmsvägen 152 lgh 1204 - hyresrätt
+Levertinsgatan 14 lgh 1002 - hyresrätt
+Palmbladsvägen 2 lgh 1101 - bostadsrätt
+Norbergsgatan 4A lgh 1402 - bostadsrätt
+Fallängsvägen 15C lgh 1002 - bostadsrätt
+Engelbrektsgatan 22B lgh 1101 - hyresrätt
+Källtorpsvägen 7B lgh 1101 - hyresrätt
+Nygatan 3C lgh 1201 - hyresrätt
+Risåsgatan 4 lgh 1106 - hyresrätt
+Klareborgsgatan 32A lgh 1301 - hyresrätt
+Tullingebergsvägen 1A lgh 1105 - hyresrätt
+Grindtorpsvägen 9 lgh 1802 - bostadsrätt
+Banérgatan 11 lgh 1006 - hyresrätt
+Göklundsvägen 5C lgh 1002 - hyresrätt
+Professorsslingan 43 lgh 1402 - hyresrätt
+Gösta Ekmans Väg 22 lgh 1401 - hyresrätt
+Hallsbergsgatan 22 lgh 1603 - bostadsrätt
+Kornettgatan 23A lgh 1202 - hyresrätt
+Skebokvarnsvägen 245 lgh 1202 - bostadsrätt
+Häradsvägen 17C lgh 1202 - bostadsrätt
+Byle Allé 3 lgh 1001 - bostadsrätt
+Pelargatan 6 lgh 1101 - hyresrätt
+Vegagatan 10 lgh 1104 - hyresrätt
+Vikingavägen 7 lgh 1202 - hyresrätt
+Åsögatan 78 lgh 1102 - hyresrätt
+Värdsholmsgatan 16 lgh 1103 - hyresrätt
+Marknadsvägen 103 lgh 1102 - bostadsrätt
+Kvarnvägen 1A lgh 1002 - hyresrätt
+Torsgatan 5A lgh 1202 - hyresrätt
+Gamla Edsvägen 62B lgh 1102 - hyresrätt
+Eksätravägen 506 lgh 1102 - hyresrätt
+Duvedsvägen 11 lgh 1102 - bostadsrätt
+Elisabetgatan 13 lgh 1001 - bostadsrätt
+Skrinvägen 2 lgh 1201 - bostadsrätt
+Ringen 6A lgh 1202 - bostadsrätt
+Älvsjövägen 100 lgh 1002 - hyresrätt
+Grindsgatan 43 lgh 1201 - hyresrätt
+Hyggestråket 2 lgh 1102 - hyresrätt
+Trangränden 17 lgh 1002 - hyresrätt
+Oxenstiernas Allé 29 lgh 1403 - hyresrätt
+Mimergatan 3D lgh 1201 - hyresrätt
+Kuratorvägen 33 lgh 1001 - hyresrätt
+Hantverksgatan 17 lgh 1101 - bostadsrätt
+Rörgatan 2 lgh 1301 - bostadsrätt
+Bollvägen 4 lgh 1302 - hyresrätt
+Lasarettsgatan 5B lgh 1201 - hyresrätt
+Lilla Regementsvägen 14 lgh 1305 - hyresrätt
+Kämnärsvägen 25F lgh 1108 - hyresrätt
+Sandgatan 12B lgh 1102 - bostadsrätt
+Karlstorpsvägen 89 lgh 1302 - bostadsrätt
+Hästskobacken 6 lgh 1603 - hyresrätt
+Olstorpsgatan 16B lgh 1102 - hyresrätt
+Bandstolsvägen 12 lgh 1102 - hyresrätt
+Grönborgsgatan 18 lgh 1311 - hyresrätt
+Skolgatan 11B lgh 1202 - hyresrätt
+Södergatan 55A lgh 1001 - hyresrätt
+Stipendiegränd 8B lgh 1202 - hyresrätt
+Ramels Väg 7 lgh 1603 - hyresrätt
+Kilbäcksgatan 40B lgh 1001 - hyresrätt
+Husebygatan 5B lgh 1103 - hyresrätt
+Vistvägen 32B lgh 1102 - hyresrätt
+Trädgårdstorget 2C lgh 1201 - hyresrätt
+Minnebergsvägen 18 lgh 1102 - bostadsrätt
+Lugnets Allé 56 lgh 1003 - bostadsrätt
+Turebergs Allé 40 lgh 1302 - hyresrätt
+Flogstavägen 81C lgh 1001 - hyresrätt
+Rindögatan 38 lgh 1103 - bostadsrätt
+Aktergatan 10 lgh 1304 - hyresrätt
+Ormingeringen 70 lgh 1306 - bostadsrätt
+Gruvgången 5 lgh 1202 - hyresrätt
+Kvarnhagsgatan 80 lgh 1203 - hyresrätt
+Stenhammargatan 9 lgh 1102 - bostadsrätt
+Lulevägen 22B lgh 1201 - hyresrätt
+Norra Gröngatan 1 lgh 1002 - hyresrätt
+Västra Åsgatan 17 lgh 1303 - hyresrätt
+Smedjegatan 2 lgh 1002 - hyresrätt
+Hinderbanan 36 lgh 1204 - hyresrätt
+Björkhamregatan 2B lgh 1102 - hyresrätt
+Älgstigen 1B lgh 1003 - bostadsrätt
+Storgatan 43A lgh 1101 - bostadsrätt
+Smörgatan 3 lgh 0902 - hyresrätt
+Danmarksgatan 4C lgh 1101 - hyresrätt
+Nordhemsgatan 43C lgh 1001 - bostadsrätt
+Rottnerosbacken 3 lgh 1001 - bostadsrätt
+Solståndsgatan 34 lgh 1301 - hyresrätt
+Sundsgatan 35 lgh 1502 - hyresrätt
+Kronetorpsgatan 52B lgh 1505 - bostadsrätt
+Infanterigatan 11 lgh 1701 - bostadsrätt
+S:t Kristoffers Väg 4 lgh 1002 - hyresrätt
+Decenniumgatan 12 lgh 1202 - hyresrätt
+Lilla Grevegårdsvägen 37 lgh 1201 - hyresrätt
+Hugingatan 48 lgh 1102 - bostadsrätt
+Midälvavägen 22 lgh 1203 - hyresrätt
+Bröderna Berwalds Väg 21 lgh 1002 - hyresrätt
+Tornavägen 3A lgh 1606 - hyresrätt
+Storgatan 56A lgh 1304 - hyresrätt
+Måsvägen 12A lgh 1002 - bostadsrätt
+Kviingevägen 29H lgh 1102 - hyresrätt
+Margaretagatan 40 lgh 1202 - hyresrätt
+Portalgatan 31 lgh 1001 - bostadsrätt
+Ydrevägen 1A lgh 1001 - hyresrätt
+Västergatan 18 lgh 1001 - hyresrätt
+Kantorsgatan 20 lgh 1210 - hyresrätt
+Flottarvägen 9A lgh 1102 - hyresrätt
+Centrumvägen 4A lgh 1203 - bostadsrätt
+Rödkullastigen 9A lgh 1405 - bostadsrätt
+Bäckgatan 36 lgh 1503 - hyresrätt
+Johan Nybergs Väg 10 lgh 1002 - bostadsrätt
+Timmermansgatan 1A lgh 1102 - bostadsrätt
+Bergendorffsgatan 6E lgh 1104 - hyresrätt
+Fredsgatan 46 lgh 1101 - hyresrätt
+Ärnäsvägen 25B lgh 1303 - hyresrätt
+Tunnbindaregatan 21 lgh 1702 - hyresrätt
+Regementsgatan 27C lgh 1103 - bostadsrätt
+Snapphanevägen 5 lgh 1101 - hyresrätt
+Åkerbyvägen 98 lgh 2604 - bostadsrätt
+Spångatan 33B lgh 1202 - hyresrätt
+Körsbärsvägen 9 lgh 1106 - hyresrätt
+Johannesbäcksgatan 82A lgh 1101 - bostadsrätt
+Kvarnvägen 14 lgh 1202 - bostadsrätt
+Franzéngatan 29 lgh 1201 - hyresrätt
+Norra Klöverstigen 4 lgh 1202 - hyresrätt
+Godvädersgatan 58 lgh 1201 - hyresrätt
+Tröskaregatan 12 lgh 1211 - hyresrätt
+Blommensbergsvägen 194 lgh 1202 - hyresrätt
+Fiskgjusegränd 2 lgh 1402 - hyresrätt
+Södergatan 43A lgh 1202 - hyresrätt
+Ormvråksgatan 9 lgh 1401 - bostadsrätt
+Norrgården 6 lgh 1201 - bostadsrätt
+Ringvägen 158 lgh 1104 - bostadsrätt
+Vickervägen 9 lgh 1001 - bostadsrätt
+Stockenströms Väg 31C lgh 1202 - hyresrätt
+Strandgatan 19B lgh 1301 - bostadsrätt
+Arbetargatan 22 lgh 1404 - bostadsrätt
+Sandhamnsgatan 12 lgh 1608 - hyresrätt
+Ostvägen 151 lgh 1701 - hyresrätt
+Birger Jarlsgatan 22G lgh 1101 - bostadsrätt
+Wallingatan 23A lgh 1101 - hyresrätt
+Mariehemsvägen 17A lgh 1201 - hyresrätt
+Kompanigatan 72 lgh 1202 - bostadsrätt
+Kärrhöksgatan 12 lgh 1101 - hyresrätt
+Viktoriagatan 5 lgh 1001 - bostadsrätt
+Glasmästaregatan 21 lgh 1512 - hyresrätt
+Kornvägen 35 lgh 1701 - hyresrätt
+Kanalgatan 18B lgh 1001 - hyresrätt
+Mörbyhöjden 21 lgh 1801 - bostadsrätt
+Björngatan 11B lgh 1101 - hyresrätt
+Lindängsplan 12 lgh 1217 - hyresrätt
+Storgatan 35 lgh 1303 - hyresrätt
+Våglängdsgatan 141 lgh 1003 - hyresrätt
+Essingestråket 19 lgh 1004 - bostadsrätt
+Herrgårdsvägen 11 lgh 1202 - bostadsrätt
+Torngatan 2 lgh 1103 - bostadsrätt
+Sveagatan 23B lgh 1001 - bostadsrätt
+Liedstrandsgatan 2 lgh 1202 - hyresrätt
+Hjalmar Söderbergs Väg 11 lgh 1207 - hyresrätt
+Stentorpsgatan 2C lgh 1201 - hyresrätt
+Herkulesgatan 16 lgh 1502 - hyresrätt
+Föreningsgatan 21 lgh 1102 - hyresrätt
+Lundenvägen 7A lgh 1003 - bostadsrätt
+Vasavägen 8 lgh 1401 - hyresrätt
+Kåserigatan 5 lgh 1304 - hyresrätt
+Karlsborgsvägen 50 lgh 1101 - hyresrätt
+Gunnarsbovägen 2A lgh 1103 - hyresrätt
+Syavägen 7 lgh 1101 - hyresrätt
+Ödmårdsvägen 10 lgh 1302 - hyresrätt
+Stövargatan 49 lgh 0901 - hyresrätt
+Humlevägen 62 lgh 1301 - hyresrätt
+Styrmansgatan 30 lgh 1301 - bostadsrätt
+Pyrolavägen 45 lgh 1102 - bostadsrätt
+Roslagstullsbacken 14 lgh 1202 - bostadsrätt
+Arbetaregatan 12A lgh 1101 - hyresrätt
+Sturegatan 35B lgh 1102 - hyresrätt
+Kvarnforsplan 3 lgh 1201 - hyresrätt
+Nyhagsgatan 1B lgh 1301 - bostadsrätt
+Skolvägen 3 lgh 1002 - hyresrätt
+Smedsbacksgatan 22 lgh 1202 - hyresrätt
+Hemvägen 15A lgh 1202 - hyresrätt
+Videvägen 9C lgh 1201 - hyresrätt
+Storgatan 25A lgh 1202 - hyresrätt
+Åkersvägen 10 lgh 1001 - hyresrätt
+Dag Hammarskjölds Väg 1B lgh 1201 - bostadsrätt
+Pettersbergsgatan 32C lgh 1002 - hyresrätt
+Stationsgatan 8C lgh 0902 - bostadsrätt
+Oxledsvägen 17 lgh 1201 - hyresrätt
+Nygatan 10A lgh 1101 - hyresrätt
+Blidvädersvägen 6D lgh 1403 - bostadsrätt
+Burggrevegatan 15 lgh 1207 - hyresrätt
+Kvarngatan 3A lgh 1401 - hyresrätt
+Föreningsgatan 32 lgh 1101 - hyresrätt
+Birger Jarlsgatan 18L lgh 1102 - bostadsrätt
+Kemivägen 7B lgh 1711 - hyresrätt
+Bergengatan 4 lgh 1510 - hyresrätt
+Vänortsvägen 30 lgh 1101 - hyresrätt
+Köpmansgatan 11 lgh 1003 - hyresrätt
+Sofiaparken 6B lgh 1101 - bostadsrätt
+Rosenhällsgatan 5A lgh 1302 - hyresrätt
+Furutorpsgatan 54B lgh 1301 - hyresrätt
+Lillbrogatan 18B lgh 1203 - hyresrätt
+Oxbacksgatan 10 lgh 1105 - hyresrätt
+Barrskogsvägen 3 lgh 1303 - hyresrätt
+Bellevuegatan 5A lgh 1001 - bostadsrätt
+Hoppets Gränd 24A lgh 1604 - hyresrätt
+Landalagången 14 lgh 1303 - hyresrätt
+Hagvägen 21 lgh 1202 - bostadsrätt
+Dalviksringen 89 lgh 1101 - bostadsrätt
+Ulvsbygatan 27B lgh 1003 - bostadsrätt
+Sörbergevägen 25 lgh 1202 - hyresrätt
+Trädgårdsgatan 9C lgh 1102 - bostadsrätt
+Lomvägen 50 lgh 1006 - bostadsrätt
+Neptungatan 19 lgh 1102 - hyresrätt
+Hantverksgatan 11 lgh 1301 - hyresrätt
+Drottningholmsvägen 296 lgh 1002 - hyresrätt
+Hoppets Gränd 26A lgh 1001 - hyresrätt
+Framgången 236 lgh 1202 - hyresrätt
+Högalidsvägen 46B lgh 1102 - bostadsrätt
+Lasarettsvägen 5 lgh 1409 - hyresrätt
+Västra Varvsgatan 42G lgh 1202 - hyresrätt
+Svartmangatan 14 lgh 1206 - hyresrätt
+Knypplerskevägen 8 lgh 1201 - bostadsrätt
+Bollvägen 2 lgh 1102 - hyresrätt
+Affärsgatan 26D lgh 1101 - hyresrätt
+Kakelvägen 2B lgh 1002 - bostadsrätt
+Sturegatan 44C lgh 1101 - bostadsrätt
+Hällebäcksvägen 2 lgh 1203 - hyresrätt
+Grundläggarvägen 12 lgh 1101 - bostadsrätt
+Kungsgatan 14B lgh 1202 - hyresrätt
+Bastugatan 37 lgh 1401 - hyresrätt
+Furirgatan 10 lgh 1111 - hyresrätt
+Borensvägen 32 lgh 1102 - bostadsrätt
+Lundagatan 55 lgh 1604 - hyresrätt
+Klostergatan 43A lgh 1104 - hyresrätt
+Axel Danielssons Väg 69 lgh 1001 - bostadsrätt
+Norrbackagatan 22 lgh 1402 - bostadsrätt
+Tulegatan 27A lgh 1401 - bostadsrätt
+Beckombergavägen 15 lgh 1214 - hyresrätt
+Östermalmsgatan 36A lgh 1402 - bostadsrätt
+Sankt Göransgatan 65 lgh 1504 - hyresrätt
+Östra Esplanaden 14 lgh 1303 - hyresrätt
+Torggatan 6B lgh 1001 - bostadsrätt
+Lötsjövägen 19 lgh 1002 - hyresrätt
+Ringgatan 14A lgh 1001 - bostadsrätt
+Jakobsgatan 44C lgh 1202 - bostadsrätt
+Luthagsesplanaden 3A lgh 1202 - bostadsrätt
+Rydsvägen 266 lgh 1204 - hyresrätt
+Torsgatan 58 lgh 1403 - bostadsrätt
+Lännavägen 6C lgh 1403 - hyresrätt
+Västergatan 32 lgh 1203 - hyresrätt
+Spångatan 1A lgh 1401 - hyresrätt
+Nybrogatan 85 lgh 1303 - bostadsrätt
+Kyrkogatan 8 lgh 1202 - hyresrätt
+Karneolgatan 71 lgh 1202 - hyresrätt
+Visättravägen 13 lgh 1101 - hyresrätt
+Donationsgatan 8B lgh 1303 - hyresrätt
+Allévägen 6A lgh 1103 - hyresrätt
+Svansjögatan 57 lgh 1501 - hyresrätt
+Barometergatan 2 lgh 1102 - hyresrätt
+Hällgumsgatan 43C lgh 1003 - hyresrätt
+Västra Andersgårdsgatan 12 lgh 1304 - hyresrätt
+Västra Skrävlingevägen 175 lgh 1202 - bostadsrätt
+Polhemsgatan 15 lgh 1501 - hyresrätt
+Professorsslingan 19 lgh 1107 - hyresrätt
+Katarina Bangata 71A lgh 1104 - hyresrätt
+Grundläggaregatan 104 lgh 1101 - hyresrätt
+Östra Porten 29 lgh 1101 - bostadsrätt
+Richertsgatan 2D lgh 1308 - hyresrätt
+Rågången 12A lgh 1102 - hyresrätt
+Jämtlandsgatan 107 lgh 1905 - hyresrätt
+Kvarnbergsvägen 4E lgh 1002 - hyresrätt
+Beväringsgatan 15 lgh 1304 - hyresrätt
+Grönviksvägen 12B lgh 1202 - bostadsrätt
+Nygatan 24C lgh 1202 - hyresrätt
+Havsörnsgatan 1C lgh 1202 - hyresrätt
+Råsundavägen 162 lgh 1303 - bostadsrätt
+Brotorpsvägen 4 lgh 1401 - bostadsrätt
+Holmvägen 1 lgh 1802 - bostadsrätt
+Blodstensvägen 3 lgh 1302 - hyresrätt
+Storgatan 2 lgh 1001 - hyresrätt
+Fågelbacksgatan 23A lgh 1101 - hyresrätt
+Albatrossvägen 52 lgh 1102 - bostadsrätt
+Tiskbergsvägen 42D lgh 1102 - hyresrätt
+Bergendorffsgatan 6B lgh 1201 - hyresrätt
+Brahegatan 28A lgh 1001 - hyresrätt
+Brinellgatan 20 lgh 1304 - hyresrätt
+Strombergs Väg 128 lgh 1206 - hyresrätt
+Sliparevägen 12B lgh 1101 - bostadsrätt
+Malmköpingsvägen 45 lgh 1102 - bostadsrätt
+Borgmästaregatan 21B lgh 1101 - hyresrätt
+Blå Vägen 235 lgh 1003 - bostadsrätt
+Flintbacken 8 lgh 1603 - bostadsrätt
+Dalviksringen 14 lgh 1203 - hyresrätt
+Järnvägsallén 16A lgh 1001 - hyresrätt
+Arvesgärde 26 lgh 1103 - bostadsrätt
+Kaserngatan 101A lgh 1001 - hyresrätt
+Salstagatan 21D lgh 1001 - hyresrätt
+Vallgatan 4A lgh 1202 - hyresrätt
+Nya Tanneforsvägen 42 lgh 1101 - hyresrätt
+Hagagatan 1 lgh 1105 - hyresrätt
+Muningatan 19 lgh 1102 - bostadsrätt
+Grevegårdsvägen 60 lgh 1202 - hyresrätt
+Kristinagatan 5 lgh 1001 - bostadsrätt
+Vasavägen 79 lgh 1002 - bostadsrätt
+Brödragatan 6 lgh 1005 - hyresrätt
+Göteborgsvägen 38B lgh 1204 - hyresrätt
+Skolvägen 18 lgh 1102 - hyresrätt
+Mellanbergsvägen 37 lgh 1501 - hyresrätt
+Malmgrensgatan 2A lgh 1001 - bostadsrätt
+Bastugatan 57 lgh 1303 - bostadsrätt
+Brunnshusgatan 23A lgh 1202 - bostadsrätt
+Carl Grimbergsgatan 29 lgh 1006 - hyresrätt
+Kapplandsgatan 28 lgh 1102 - bostadsrätt
+Glanshammarsgatan 46 lgh 1501 - hyresrätt
+Trastvägen 1B lgh 1202 - hyresrätt
+Kristinehovsgatan 11 lgh 1103 - hyresrätt
+Karlagatan 3B lgh 1203 - hyresrätt
+Hertig Carls Väg 33A lgh 1201 - bostadsrätt
+Kyrkogatan 39C lgh 1102 - hyresrätt
+Vasavägen 39 lgh 1202 - hyresrätt
+S:t Johannesgatan 34B lgh 1001 - hyresrätt
+Dalagatan 34 lgh 1701 - hyresrätt
+Södra Långgatan 57 lgh 1203 - hyresrätt
+Vänortsgatan 8 lgh 1204 - hyresrätt
+Brunnshusgatan 29A lgh 1102 - bostadsrätt
+Sjögatan 2 lgh 1201 - bostadsrätt
+Solgårdsgatan 8C lgh 1203 - hyresrätt
+Södermalmsgatan 12 lgh 1002 - hyresrätt
+Mariedalsvägen 7B lgh 1102 - bostadsrätt
+Rindögatan 44 lgh 1403 - hyresrätt
+Lisa Sass Gata 18 lgh 1404 - hyresrätt
+Ekensbergsvägen 91 lgh 1104 - hyresrätt
+Östra Storgatan 16B lgh 1201 - hyresrätt
+Språkgränd 35 lgh 1301 - hyresrätt
+Bergendorffsgatan 6C lgh 1101 - hyresrätt
+Kungsgatan 6 lgh 1303 - hyresrätt
+Ynglingagatan 16B lgh 1201 - bostadsrätt
+Gamla Uppsalagatan 5 lgh 1202 - bostadsrätt
+Metargränd 39 lgh 1101 - hyresrätt
+Centralgatan 32A lgh 1202 - bostadsrätt
+Gruvgången 17 lgh 1301 - hyresrätt
+Gamla Lommavägen 14A lgh 1103 - hyresrätt
+Tellusgatan 22 lgh 1301 - hyresrätt
+Södergatan 11 lgh 1101 - hyresrätt
+Töresjövägen 1A lgh 1009 - hyresrätt
+Grönborgsgatan 13 lgh 1301 - hyresrätt
+Hertevägen 15 lgh 1102 - hyresrätt
+Fredrika Bremersgatan 22 lgh 1102 - bostadsrätt
+Alevägen 7 lgh 1002 - hyresrätt
+Loviselundsvägen 1C lgh 1101 - hyresrätt
+Trastvägen 8C lgh 1201 - hyresrätt
+Stopvägen 87 lgh 1201 - bostadsrätt
+Studentvägen 24 lgh 1001 - hyresrätt
+Ringvägen 17 lgh 1001 - bostadsrätt
+Vitingsgatan 4 lgh 1303 - hyresrätt
+Tvillingarnas Gata 326 lgh 1002 - bostadsrätt
+Visättravägen 32 lgh 1107 - hyresrätt
+Väpnaregatan 2B lgh 1202 - hyresrätt
+Adjunktsgatan 4B lgh 1202 - hyresrätt
+Ladbygränd 4 lgh 1202 - hyresrätt
+Algatan 13 lgh 1304 - bostadsrätt
+Heimdallsvägen 27 lgh 1403 - bostadsrätt
+Kuratorvägen 33 lgh 1307 - hyresrätt
+Lillhemsgatan 6 lgh 1201 - hyresrätt
+Dalhemsvägen 41B lgh 1102 - bostadsrätt
+Norra Skeppargatan 4 lgh 1304 - bostadsrätt
+Burggrevegatan 23A lgh 1501 - hyresrätt
+Sadelmakaregatan 2B lgh 1302 - hyresrätt
+Vändgatan 2C lgh 1102 - bostadsrätt
+Fornhöjdsvägen 49 lgh 1202 - hyresrätt
+Odengatan 1 lgh 1102 - hyresrätt
+Björsgårdsvägen 3A lgh 1002 - bostadsrätt
+Hantverkaregatan 26A lgh 1101 - bostadsrätt
+Bråviksvägen 41 lgh 1101 - hyresrätt
+Drottninggatan 57B lgh 1102 - hyresrätt
+Klockaregatan 2B lgh 1303 - bostadsrätt
+Kvarnbacksvägen 61 lgh 1002 - bostadsrätt
+Himmelstalundsvägen 8B lgh 1001 - hyresrätt
+Kärrtorpsvägen 43 lgh 1001 - hyresrätt
+Portalgatan 87 lgh 1401 - hyresrätt
+Köpmannagatan 17 lgh 1105 - hyresrätt
+Åldermansgatan 1A lgh 1101 - bostadsrätt
+Söderdalsgatan 23 lgh 1003 - hyresrätt
+Apelgatan 20A lgh 1101 - hyresrätt
+Järnvägsgatan 36B lgh 1203 - hyresrätt
+Bofinksvägen 17 lgh 1201 - bostadsrätt
+Pråmvägen 4D lgh 1202 - bostadsrätt
+Såggatan 65C lgh 1101 - hyresrätt
+Kontoristvägen 1 lgh 1202 - hyresrätt
+Sockengatan 32 lgh 1201 - hyresrätt
+Karlbergsvägen 62 lgh 1104 - bostadsrätt
+Trädgårdsgatan 30 lgh 1403 - hyresrätt
+Skogalundsklippan 30 lgh 1104 - bostadsrätt
+Prinsgatan 15A lgh 1103 - hyresrätt
+Fjällgatan 49A lgh 1204 - bostadsrätt
+Rönnebergavägen 24B lgh 1001 - hyresrätt
+Östermalmsvägen 29A lgh 1103 - hyresrätt
+Fricksgatan 2B lgh 1301 - bostadsrätt
+Stora Bergsgatan 9B lgh 1201 - bostadsrätt
+Östra Storgatan 86 lgh 1506 - hyresrätt
+Skarpbrunnavägen 173 lgh 1101 - bostadsrätt
+Eklandagatan 41A lgh 1303 - bostadsrätt
+Kadettgatan 58A lgh 1202 - bostadsrätt
+Ystadsgatan 47A lgh 1001 - bostadsrätt
+Kronetorpsgatan 64A lgh 1102 - bostadsrätt
+Frödingsvägen 14C lgh 1201 - bostadsrätt
+Holmsundsallén 15 lgh 1003 - hyresrätt
+Faktorsgatan 14 lgh 1203 - hyresrätt
+Storgatan 28A lgh 1201 - hyresrätt
+Lotterivägen 35 lgh 1101 - bostadsrätt
+Södergatan 3 lgh 1102 - hyresrätt
+Bråviksvägen 38 lgh 1202 - hyresrätt
+Polhemsgatan 17A lgh 1201 - bostadsrätt
+Adolf Andersohnsgatan 3A lgh 1301 - bostadsrätt
+Stiglötsgatan 43 lgh 1002 - hyresrätt
+Göklundsvägen 9A lgh 1103 - hyresrätt
+Galileis Gata 5 lgh 1403 - hyresrätt
+Örnvägen 92 lgh 1102 - hyresrätt
+Stenbocksgatan 5 lgh 1103 - hyresrätt
+Valstavägen 70 lgh 1602 - hyresrätt
+Vällarevägen 10B lgh 1102 - bostadsrätt
+Södra Gyllegatan 52 lgh 1001 - hyresrätt
+Hornsgatan 90 lgh 1203 - bostadsrätt
+Strågatan 11 lgh 1502 - bostadsrätt
+Norra Skjutbanegatan 16B lgh 1203 - bostadsrätt
+Vågens Gata 438 lgh 1302 - hyresrätt
+Västanvindsgatan 7B lgh 1102 - hyresrätt
+Krysshammarvägen 14 lgh 1702 - bostadsrätt
+Agnes Lagerstedts Gata 10 lgh 1304 - hyresrätt
+Näckrosvägen 22 lgh 1202 - bostadsrätt
+Atlasvägen 39 lgh 1206 - bostadsrätt
+Skepparegatan 47B lgh 1103 - hyresrätt
+Kungsgårdsvägen 23 lgh 1001 - hyresrätt
+Tallåsvägen 6 lgh 0902 - bostadsrätt
+Kunghällsvägen 23A lgh 1201 - hyresrätt
+Igeldammsgatan 20 lgh 1301 - bostadsrätt
+Sjödalsbacken 3B lgh 1003 - bostadsrätt
+Rymdtorget 54 lgh 1101 - hyresrätt
+Luthagsesplanaden 27B lgh 1301 - bostadsrätt
+Tulegatan 46 lgh 1305 - bostadsrätt
+Pressaregatan 45 lgh 1101 - hyresrätt
+Delsjögatan 12 lgh 1001 - hyresrätt
+Hammarkulletorget 59 lgh 1401 - hyresrätt
+Vintrosagatan 7 lgh 1701 - bostadsrätt
+Västra Långgatan 100A lgh 1202 - bostadsrätt
+Flintvägen 4D lgh 1202 - hyresrätt
+Brännkyrkagatan 59B lgh 1402 - hyresrätt
+Luthagsesplanaden 14 lgh 1103 - bostadsrätt
+Gråstensgatan 2 lgh 1203 - hyresrätt
+Kungsgatan 3 lgh 0901 - hyresrätt
+Pålsjögatan 21E lgh 1102 - hyresrätt
+Kungsgårdsvägen 24B lgh 1101 - bostadsrätt
+Ribbings Väg 51 lgh 1202 - hyresrätt
+Säbråvägen 6 lgh 1002 - hyresrätt
+Ängsgatan 3F lgh 1002 - hyresrätt
+Kaserngatan 41 lgh 1201 - hyresrätt
+Korpgatan 4 lgh 1103 - hyresrätt
+Teknikergatan 24 lgh 1201 - hyresrätt
+Biologigränd 23 lgh 1002 - bostadsrätt
+Trollesundsvägen 5 lgh 1102 - hyresrätt
+Fårhagsslingan 33 lgh 1107 - hyresrätt
+Reveljgränd 3 lgh 0901 - bostadsrätt
+Sjögatan 7A lgh 1103 - bostadsrätt
+Storgatan 54B lgh 1202 - hyresrätt
+Banérsgatan 10A lgh 1002 - hyresrätt
+Östra Storgatan 13C lgh 1301 - hyresrätt
+Östra Storgatan 39C lgh 1001 - hyresrätt
+Bruksvägen 25 lgh 1002 - hyresrätt
+Räntmästaregatan 3 lgh 1302 - hyresrätt
+Dalgatan 14 lgh 1412 - hyresrätt
+Mejerigatan 5 lgh 1209 - hyresrätt
+Vänortsvägen 26 lgh 1004 - hyresrätt
+Scheelegatan 35E lgh 1201 - hyresrätt
+Råsundavägen 45 lgh 1206 - bostadsrätt
+Stenhuggargränd 4 lgh 1102 - bostadsrätt
+Bennebolsgatan 24 lgh 1103 - bostadsrätt
+August Södermans Väg 68 lgh 1202 - hyresrätt
+Engelbrektsgatan 105B lgh 1001 - bostadsrätt
+Holbergsgatan 144 lgh 1001 - bostadsrätt
+Sandgatan 4A lgh 1102 - hyresrätt
+Flogstavägen 77F lgh 1002 - hyresrätt
+Södra Bangårdsgatan 28A lgh 1002 - hyresrätt
+Huldregatan 5 lgh 1004 - bostadsrätt
+Blomdahls Väg 1 lgh 1101 - hyresrätt
+Kristinebergsvägen 34 lgh 1201 - bostadsrätt
+Mejerigatan 12C lgh 1101 - bostadsrätt
+Studiegången 3 lgh 1126 - hyresrätt
+Norra Kyrkogatan 39 lgh 1002 - bostadsrätt
+Ryds Allé 22B lgh 1101 - hyresrätt
+Lilla Grevegårdsvägen 47 lgh 1101 - hyresrätt
+Kaptensgatan 13B lgh 1101 - hyresrätt
+Ingebjörnsgatan 5 lgh 1303 - hyresrätt
+Ängsvägen 1C lgh 1203 - hyresrätt
+Vattholmavägen 4D lgh 1303 - bostadsrätt
+Munkhagsgatan 1I lgh 0072 - bostadsrätt
+Teknikvägen 7 lgh 1002 - bostadsrätt
+Stjärngatan 13 lgh 1401 - bostadsrätt
+Östra Storgatan 6 lgh 1303 - bostadsrätt
+Hammarvägen 30 lgh 1001 - bostadsrätt
+Wetterlinsgatan 15C lgh 1102 - hyresrätt
+Lievägen 7 lgh 1102 - hyresrätt
+Döbelnsgatan 43 lgh 1302 - bostadsrätt
+Kolgillaregatan 6B lgh 1102 - bostadsrätt
+Ättehögsgatan 4D lgh 1102 - hyresrätt
+Sätunavägen 17B lgh 1302 - bostadsrätt
+Klosteräng 11 lgh 1103 - hyresrätt
+Barnarpsgatan 29 lgh 1206 - hyresrätt
+Orrögatan 17A lgh 1203 - hyresrätt
+Vallgatan 2 lgh 1102 - hyresrätt
+Gustavstorpsvägen 8 lgh 1201 - bostadsrätt
+Lappgatan 1B lgh 1201 - bostadsrätt
