@@ -121,9 +121,9 @@ use HeadlessChromium\BrowserFactory;
 
         if(is_array($data)){
             if(array_key_exists('data', $data))
-                    return $data['data']['description'];
-                else
-                    return 'not exist';
+                return $data['data']['description'];
+            else
+                return 'bostadsinformation';
         }
         else{
             return 'not exist';
@@ -362,18 +362,18 @@ use HeadlessChromium\BrowserFactory;
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
 
+        $file_addresses = fopen("address-11.txt", "r") or die("Unable to open file!");
 
-        $file_addresses = fopen("address-1.txt", "r") or die("Unable to open file!");
         $addresses = [];
 
-        // while (($line = fgets($file_addresses)) !== false) {
-        //     $addresses[] = $line;
-        // }
+        while (($line = fgets($file_addresses)) !== false) {
+            $addresses[] = $line;
+        }
 
-        // foreach(array_unique($addresses) as $key => $address){
-        //     getData($address,$key,$file_name);
-        // }
 
+        foreach(array_unique($addresses) as $key => $address){
+            getData($address,$key,$file_name);
+        }
 
         // print_r($addresses);
 
@@ -389,14 +389,11 @@ use HeadlessChromium\BrowserFactory;
         createLog(0004, 'loop 4', 'New 1M loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0005, 'loop 5', 'New 1M loop started', true);
+        createLog(0005, 'loop 5', 'New loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0006, 'loop 6', 'New 1M loop started', true);
-        runFailedNumbers($file_name);
-
-
-        
+        createLog(0006, 'loop 6', 'New loop started', true);
+        runFailedNumbers($file_name);        
 
         // echo 'Finsihed';
     }
