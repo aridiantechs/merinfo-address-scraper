@@ -1,0 +1,4481 @@
+Dotorpsgatan 56C lgh 1001
+Skiffervägen 3B lgh 1101
+Hantverkaregatan 4B lgh 1203
+Snickerigatan 12 lgh 1201
+Torggatan 7B lgh 1201
+Betsövägen 10 lgh 1109
+Mörbyleden 16 lgh 1402
+Gustaf Adolfs Väg 4 lgh 1001
+Lundenvägen 19A lgh 1201
+Västergatan 1 lgh 1002
+Andersbergsringen 233 lgh 1203
+Vallinvägen 3 lgh 1101
+Önevägen 148 lgh 1102
+Färgfabriksgatan 8 lgh 1302
+Långströmsgatan 4D lgh 1503
+Smaragdgränd 7 lgh 1001
+Sköldungagatan 27 lgh 1002
+Älvgatan 10A lgh 1002
+Bobergsgatan 59B lgh 1304
+Bastutjärn 28 lgh 1101
+Västgötagatan 10A lgh 1001
+Berättelsegatan 11 lgh 1203
+Norra Stenbocksgatan 5 lgh 1002
+Västgötegatan 14A lgh 1203
+Vänortsstråket 49C lgh 1101
+Nilsbrogatan 11A lgh 0901
+Rönnplan 5K lgh 1101
+Klevgränd 8 lgh 1603
+Hugingatan 11 lgh 1201
+Källgatan 19A lgh 1101
+Häggviksvägen 21B lgh 1002
+Havsörnsgatan 45 lgh 1203
+Solhagagatan 102 lgh 1002
+Skidbacken 44 lgh 1401
+Östervägen 38 lgh 1202
+Bandholtzgatan 33C lgh 1103
+Djurgårdsvägen 13 lgh 1101
+Basungatan 22 lgh 1802
+Betesgatan 2D lgh 1301
+Johan Enbergs Väg 9 lgh 1601
+Smala Gatan 5 lgh 1001
+Linnégatan 17A lgh 1505
+Stavhopparegatan 5B lgh 1102
+Vattlång 112 lgh 1002
+Karl Johansgatan 62 lgh 1502
+Björntorpsvägen 115 lgh 1302
+Kungsgatan 67 lgh 1103
+Näsbydalsvägen 14 lgh 1106
+Folkungagatan 83 lgh 1301
+Slåttervägen 3 lgh 1101
+Landerigatan 15C lgh 1204
+Torggatan 11A lgh 1102
+Bjässevägen 1E lgh 1001
+Östra Storgatan 21 lgh 1203
+Linnéplatsen 6 lgh 1303
+Sturegatan 14 lgh 1103
+Väringavägen 16 lgh 1001
+Kulefallsvägen 2 lgh 1002
+Alphyddevägen 13 lgh 1003
+Slötagatan 5A lgh 1103
+Mörsilsgatan 28 lgh 0902
+Grafikvägen 22 lgh 1101
+Hägerstensvägen 161B lgh 1301
+Rymdtorget 2 lgh 1501
+Brunbärsvägen 2 lgh 1002
+Vinodlargatan 4 lgh 1702
+Sparbanksvägen 4 lgh 1605
+Stavlundsvägen 5 lgh 1302
+Spannlandsgatan 16 lgh 1403
+Vilbergsgatan 44 lgh 1201
+Professorsgatan 12A lgh 1001
+Centralgatan 12B lgh 1101
+Fyrmästaregången 2 lgh 1201
+Kyrkogatan 1A lgh 1202
+Skanörvägen 16 lgh 1102
+Grisslehamnsvägen 8E lgh 1104
+Koppargården 19C lgh 1002
+Berguvsgatan 6B lgh 1104
+Jungfrugatan 11 lgh 1001
+Sofielundsvägen 3 lgh 1001
+Södra Gulsparvsgatan 40 lgh 1203
+Hedenhösvägen 16 lgh 1102
+Elinsborgsbacken 23 lgh 1101
+Östgötagatan 56 lgh 1311
+Hjortvägen 22B lgh 1001
+Krönikegatan 21A lgh 1101
+Trosalundsgatan 8 lgh 1403
+Hertig Carls Allé 19 lgh 1101
+Rönnbergagatan 11 lgh 1201
+Regementsgatan 33 lgh 1203
+Monbijougatan 9 lgh 1102
+Hästholmsvägen 29 lgh 1102
+Vanadisvägen 21 lgh 1203
+Radarvägen 14 lgh 1005
+Västra Varvsgatan 2 lgh 1102
+Nyvägen 1 lgh 1004
+Hornsgatan 4 lgh 1001
+Stora Södergatan 33 lgh 1101
+Ekebogatan 4C lgh 1003
+Sveagatan 29 lgh 1703
+Trädgårdsgatan 38B lgh 1101
+Sickla Allé 31 lgh 1103
+Oslovägen 13D lgh 1101
+Söräng 24 lgh 1001
+Trondheimsgatan 12 lgh 1006
+Dieselloksgatan 7 lgh 1601
+Safirgränd 33 lgh 1201
+Duvnäsgatan 16 lgh 1401
+Kommendörsgatan 8P lgh 1201
+Hälleströmsvägen 15 lgh 1001
+Hemmansvägen 10 lgh 1202
+Västmannavägen 15A lgh 1001
+Norrgårdsvägen 9 lgh 1202
+Sockenvägen 419A lgh 1201
+Östra Långgatan 5A lgh 1304
+Vartoftagatan 47A lgh 1603
+Kungsgatan 10 lgh 1106
+Gamla Vägen 11 lgh 1101
+Auroravägen 7B lgh 1202
+Tjureda Hagaborg 1 lgh 1202
+Åsgatan 3A lgh 1101
+Hammarbyvägen 68 lgh 1202
+Norrtornsvägen 21 lgh 1202
+Syster Emmas Gata 15 lgh 1201
+Lövstavägen 74 lgh 1103
+Målarvägen 2 lgh 1001
+Kallenbergsgatan 11C lgh 1002
+Fornbyvägen 21 lgh 1401
+Markmyntsgatan 3 lgh 2501
+Svartensgatan 12A lgh 1402
+Kantatgatan 50 lgh 1303
+Barnarpsgatan 9 lgh 1202
+Svanebäcksgatan 1A lgh 1201
+Karl Gustavsgatan 39 lgh 1302
+Drottninggatan 41 lgh 1201
+Abrahamsbergsvägen 15 lgh 1201
+Storgatan 39 lgh 1001
+Bygärdesvägen 4 lgh 1001
+Österlånggatan 12A lgh 1202
+Levgrensvägen 7A lgh 1001
+Mäster Simons Väg 24 lgh 1302
+Håkan Lundbergs Gata 10 lgh 1302
+Mariedalsgatan 14 lgh 1001
+Runslingan 14A lgh 1001
+Prästgårdsvägen 22A lgh 1001
+Sjötullsgatan 4 lgh 1201
+Dalsvägen 26B lgh 1101
+Borgarfjordsgatan 21A lgh 4003
+Grönkullagatan 11B lgh 1002
+Möllstorpsgatan 1A lgh 1206
+Stengatan 84 lgh 1202
+Sörgårdsvägen 8 lgh 1402
+Trondheimsgatan 36 lgh 1001
+Östra Kasernvägen 3C lgh 1216
+Åsgatan 74B lgh 1103
+Fågelhundsgatan 14 lgh 1202
+Monsungatan 8 lgh 1401
+Bergbacken 72 lgh 1001
+Pensionatsvägen 4 lgh 1001
+Föraregatan 42E lgh 1101
+Parkgatan 10 lgh 1002
+Diagnosvägen 15B lgh 1001
+Båstadsvägen 10 lgh 1102
+Aschebergsgatan 27 lgh 1202
+Vattugatan 13 lgh 1501
+Värmlandsvägen 2 lgh 1102
+Rönnbärsvägen 47 lgh 1101
+Kronvägen 28 lgh 1002
+Thorells Gata 12 lgh 1905
+Centrumvägen 33C lgh 1202
+Nybohovsbacken 81 lgh 1702
+Humlevägen 7 lgh 1001
+Selmedalsringen 15 lgh 1303
+Norra Järvstavägen 26A lgh 1204
+Ormvråksgatan 14 lgh 1001
+Granskogsvägen 4 lgh 1102
+Sågaregränd 9 lgh 1002
+Pingstvägen 64 lgh 1002
+Murbruksgatan 6 lgh 1102
+Vulcanusgatan 2 lgh 1405
+Tegelvägen 2A lgh 1002
+Ankargatan 5 lgh 1201
+Häggstigen 4 lgh 1001
+Sleipnervägen 59 lgh 1201
+Lillhagsvägen 36 lgh 1302
+Storgatan 33 lgh 1003
+Biblioteksgatan 2A lgh 1103
+Piruettvägen 4 lgh 1201
+Nathorstvägen 21B lgh 1002
+Helsingörskajen 4 lgh 1502
+Höglundavägen 9 lgh 1403
+Bohusgatan 25 lgh 1303
+Västra Andersgårdsgatan 6 lgh 1010
+Karlagatan 22B lgh 1101
+Bjurholmsgatan 14 lgh 1203
+Birkagatan 22B lgh 1101
+Grimstagatan 85 lgh 1001
+Lasarettsgatan 45A lgh 1201
+Majorsallén 77B lgh 1001
+Östergatan 5 lgh 1002
+Klockgjutargatan 8A lgh 1201
+Elsebergsgatan 19 lgh 1101
+Fyrislundsgatan 22 lgh 1202
+Gottorpsvägen 19 lgh 1201
+Skogslyckegatan 21 lgh 1201
+Kungsvägen 81A lgh 1401
+Skepparegatan 45B lgh 1302
+Furtenbacksgränd 1 lgh 1101
+Skvadronsbacken 85A lgh 1101
+Prästgatan 6B lgh 1103
+Lotterivägen 23 lgh 1002
+Vallavägen 47 lgh 1302
+Sufflörgatan 11 lgh 1501
+Lillekärr Norra 34 lgh 1201
+Jägersrovägen 10B lgh 1001
+Bockastigen 4A lgh 1001
+Doktor Sternsgatan 6B lgh 1202
+Ågårdsvägen 48 lgh 1101
+Esplanaden 1B lgh 1101
+Åttingsstigen 29 lgh 1103
+Tumba Torg 106 lgh 1103
+Femte Tvärgatan 16 lgh 1307
+Hemmansvägen 18 lgh 1202
+Sutarängsvägen 14A lgh 0901
+Bodalsvägen 20 lgh 2206
+Borgmästaregatan 8B lgh 1001
+Birger Jarlsgatan 93A lgh 1502
+Hagalundsgatan 5 lgh 1101
+Ponnygatan 5B lgh 1103
+Brovägen 31C lgh 0901
+Brämaregatan 20 lgh 1302
+Kamomillgatan 9 lgh 1002
+Tornslingan 25 lgh 1201
+Borgmästarevägen 11B lgh 1201
+Södra Brogatan 12 lgh 1204
+Allévägen 14A lgh 1202
+Kastellholmskajen 2B lgh 1001
+Klingagatan 1 lgh 1603
+Götgatan 30C lgh 1202
+Lindeborgsgatan 69 lgh 1101
+Näsbacken 12 lgh 1101
+Sören Norrbygatan 1B lgh 1002
+Studievägen 35 lgh 1203
+Mackliersgatan 2 lgh 1303
+Kubbovägen 53 lgh 1001
+S:t Nikolaigatan 24 lgh 1001
+Gamla Kortebovägen 60 lgh 1101
+Hedeforsvägen 35B lgh 1101
+Idunvägen 7 lgh 1202
+Helgesta 2 lgh 1002
+Albrektsvägen 122C lgh 1101
+Björkvägen 24B lgh 1103
+Sankt Eriksgatan 81 lgh 1504
+Ulriksgatan 12 lgh 1102
+Nymilsgatan 19 lgh 1102
+Magnus Ladulåsgatan 7 lgh 1501
+Hugingatan 21 lgh 1001
+Olingmarsvägen 6 lgh 1001
+Fågelhundsgatan 14 lgh 1203
+Vasagatan 14A lgh 1604
+Sandgatan 9 lgh 1001
+Ringvägen 62 lgh 1404
+Rudsvägen 9B lgh 1201
+Storgatan 11C lgh 1102
+Ostindiefararen 50 lgh 1101
+Jakobstorpsvägen 13 lgh 1001
+Bråddgatan 14 lgh 1401
+Värmlandsgatan 36 lgh 1201
+Anders Personsgatan 25 lgh 1302
+Sjögatan 1D lgh 1102
+Dalgränd 52 lgh 1203
+Majvägen 6 lgh 1101
+Myrbacksvägen 4B lgh 1003
+Tjärhovsgatan 18B lgh 1002
+Sågvägen 8 lgh 1001
+Liljeholmsgatan 1E lgh 1201
+Kungsgatan 6 lgh 1102
+Hjälmshultsgatan 15 lgh 1501
+Benvägen 55 lgh 1601
+Tensta Allé 31 lgh 1503
+Söndrumsvägen 46 lgh 1001
+Mustanggatan 11 lgh 1106
+Gamla Sjulnäsvägen 15 lgh 1002
+Ostgatan 6 lgh 1602
+Bigarråvägen 11 lgh 1301
+Trödjevägen 44 lgh 1101
+Södra Storängsvägen 62A lgh 1201
+Monsungatan 92A lgh 1701
+Tegelviksgatan 30 lgh 1203
+Lövstavägen 98 lgh 1002
+Ångströmsgatan 9 lgh 1201
+Bagerigatan 9 lgh 1003
+Hälsingegatan 18 lgh 1602
+Kommendörsgatan 11 lgh 1201
+Gamla Värmdövägen 11 lgh 1308
+Annerovägen 27C lgh 1002
+Norrbackagatan 27B lgh 1403
+Horisontvägen 19 lgh 1001
+Bruksgatan 7J lgh 1101
+Lidköpingsvägen 8 lgh 1003
+Södergatan 9A lgh 1101
+Västbacken 725 lgh 1002
+Hjortakroksvägen 3G lgh 1101
+Smedjegatan 3A lgh 1201
+Vasagatan 35B lgh 1101
+Storgatan 26 lgh 1101
+Bergsgatan 32B lgh 1202
+Peder Skrivares Väg 14 lgh 1102
+Gnistens Gränd 2 lgh 1001
+Erik Dahlbergsgatan 26 lgh 1002
+Jacob Trahnsgatan 6 lgh 1103
+Inägogatan 8B lgh 1201
+Regeringsgatan 82 lgh 1101
+Västra Vägen 9D lgh 1903
+Emågatan 112A lgh 1204
+Nackstavägen 22B lgh 1203
+Kungsgatan 7 lgh 1202
+Tågagatan 27B lgh 1303
+Strandvägen 55 lgh 1504
+Åsögatan 102 lgh 1602
+Rindögatan 40 lgh 1403
+Sofielundsvägen 23A lgh 1305
+Wemmenhögsgatan 20 lgh 1004
+Svartågatan 32 lgh 1002
+Flanaden 118 lgh 1101
+Torsvikssvängen 26 lgh 1203
+Torsgatan 8A lgh 1001
+Drottninggatan 4A lgh 1202
+Storgatan 11A lgh 1201
+Gnejsvägen 22 lgh 1202
+Agavägen 32 lgh 1401
+Västra Ringvägen 126 lgh 1202
+Norrbäcksgatan 11 lgh 1101
+Porfyrvägen 15 lgh 1202
+Trädgårdsgatan 2A lgh 1603
+Doktor Allards Gata 12 lgh 1403
+Radarvägen 43 lgh 1001
+Östergatan 18 lgh 1202
+Drottninggatan 190 lgh 1301
+Bergsättravägen 11 lgh 1301
+Södra Dragspelsgatan 22 lgh 1802
+Broddgränd 31 lgh 1101
+Pilagårdsgatan 31 lgh 1002
+Kajgatan 4E lgh 1103
+Fredsgatan 9 lgh 1101
+Vinkelgatan 23 lgh 1201
+Blandsädesgatan 8B lgh 1101
+Storgatan 16A lgh 1105
+Åsögatan 151 lgh 1302
+Merkuriusvägen 17 lgh 1202
+Nygatan 32B lgh 1003
+Norr Mälarstrand 26 lgh 1603
+Nyhemsgatan 9 lgh 1103
+Skulpturplatsen 1D lgh 1202
+Brådstupsvägen 17 lgh 1203
+Linnégatan 72 lgh 1101
+Borgmästaregatan 26 lgh 1001
+Trädgårdsgatan 49 lgh 1402
+Fastlagsgatan 14 lgh 1203
+Halldalen 8A lgh 1101
+Rörgatan 11E lgh 1102
+Stockholmsvägen 47 lgh 1002
+Viktoriagatan 13 lgh 1202
+Gamla Värmdövägen 2A lgh 1101
+Tryffelvägen 1A lgh 1203
+Köpstadsvägen 56 lgh 1301
+Hornsgatan 19 lgh 1101
+Södra Catalinagränd 41 lgh 1302
+Kalkstensvägen 11C lgh 1103
+Fräntorpsgatan 2B lgh 1102
+Vidingsjögatan 5 lgh 1002
+Lillvägen 42 lgh 1101
+Västra Vintergatan 114 lgh 1102
+Malmbergsvägen 1A lgh 1202
+Valkyriavägen 22 lgh 1203
+Tallrisvägen 2 lgh 1303
+Södra Gröngatan 29A lgh 1202
+Ringduvegatan 95 lgh 1102
+Skogsgatan 16 lgh 1001
+Göteborgsvägen 21C lgh 1202
+Tegelviksgatan 51 lgh 1101
+Nockeby Backe 6 lgh 1301
+Lillkyrka-Viggeby 11 lgh 1002
+Västra Holmgatan 20 lgh 1301
+Aspängsgränd 3 lgh 1103
+Källmogatan 17 lgh 1303
+Kronetorpsgatan 29D lgh 1001
+Trollhättevägen 5C lgh 1101
+Åsögatan 60 lgh 1202
+Bomullsgången 11 lgh 1103
+Nygatan 24 lgh 1101
+Skarpnäcks Allé 7 lgh 1101
+Lappfogdegatan 2A lgh 1002
+Södra Vägen 50 lgh 1301
+Tegelslagaregatan 42B lgh 1102
+Majorsgatan 1 lgh 1203
+Vikingavägen 19 lgh 1202
+Norrbölegatan 20 lgh 1101
+Wivalliusgatan 15 lgh 1403
+Kristinebergsvägen 46 lgh 1202
+Stödjegränd 19 lgh 1002
+Huvudstagatan 16 lgh 1203
+Kvarnvägen 9 lgh 1503
+Persborgsgatan 11A lgh 1101
+Järnvägsgatan 11 lgh 1101
+Torudsvägen 14 lgh 1101
+S:t Persgatan 92 lgh 1201
+Sundbrogatan 24 lgh 1101
+Alviksvägen 1 lgh 1302
+Skaraborgsgatan 17B lgh 1201
+Fersens Väg 22 lgh 1302
+Bangårdsgatan 37 lgh 1001
+Vretlundsgatan 9 lgh 1101
+Nicoloviusgatan 5A lgh 1705
+Follingbogatan 14 lgh 1101
+Klara Johansons Gata 7 lgh 1303
+Grevbacken 6A lgh 1003
+Parkgatan 18 lgh 1202
+Fatbursgatan 18A lgh 1102
+Sveavägen 4C lgh 1103
+Odensvivägen 6D lgh 1003
+Thulegatan 11 lgh 1001
+Kolvaktargränd 6 lgh 1001
+Gökvägen 7B lgh 1101
+Lektorsvägen 3A lgh 1101
+Nettelbladsgatan 4B lgh 1201
+Turistvägen 21A lgh 1001
+Erikstorpsgatan 8 lgh 1202
+Kardis 204 lgh 1101
+Skansgatan 9 lgh 1202
+Gamla Värmdövägen 13 lgh 1402
+Torggatan 9 lgh 1102
+Hurtigs Gata 31 lgh 1401
+Stora Torget 4D lgh 1301
+Karlbergsvägen 47B lgh 1001
+Victor Balcks Väg 194 lgh 1103
+Fågelbacksgatan 13 lgh 1501
+Västra Allén 16 lgh 1102
+Brunnshusgatan 25B lgh 1001
+Västra Vägen 5 lgh 1202
+Karl Hovbergsgatan 53D lgh 1002
+Signalgatan 9D lgh 1001
+Västergatan 17H lgh 1002
+Rackarbergsgatan 1 lgh 1103
+Tigerstigen 5 lgh 1003
+Fallskärmsgatan 4 lgh 1202
+Björkliden 4 lgh 1101
+Trädlyckevägen 7 lgh 1402
+Bandholtzgatan 31A lgh 1002
+Östra Parkgatan 4 lgh 1001
+Nygatan 55B lgh 1101
+Norra Ågatan 8 lgh 1001
+Guldstigen 38 lgh 1001
+Stenkullavägen 11 lgh 1001
+Konsultgatan 9 lgh 1701
+Lagman Lekares Väg 3 lgh 1201
+Eriksbergsgatan 44 lgh 1102
+Kaptensgatan 12 lgh 1101
+Herrgårdsgatan 4 lgh 1301
+Jenny Linds Väg 64 lgh 1004
+Jungfruvägen 143B lgh 1002
+Centralvägen 4C lgh 1103
+Kyrkvägen 8A lgh 1201
+Stengodsvägen 21 lgh 1102
+Germundsgatan 4B lgh 1003
+Köpmangatan 18 lgh 1503
+Blekingegatan 48 lgh 1303
+Frejgatan 45 lgh 1001
+Jakob Ulfssons Väg 28B lgh 1101
+Violvägen 18C lgh 1102
+Eva Lagerwalls Väg 18 lgh 1301
+Varbergsvägen 3 lgh 1404
+Sickla Strand 67 lgh 1302
+Frisksportarvägen 2 lgh 1203
+Smaragdgatan 9 lgh 1201
+Valla Torg 89 lgh 2203
+Tigerstigen 23 lgh 1103
+Hammartorpsvägen 7 lgh 1202
+Långarödsvägen 84B lgh 1203
+Lumaparksvägen 1 lgh 1501
+Småbåtsgatan 10A lgh 1401
+Nynäsvägen 322 lgh 1201
+Köpmangatan 17A lgh 1202
+Hjalmar Bergmans Väg 106 lgh 1201
+Nydalavägen 20B lgh 1102
+Köpmangatan 35B lgh 1102
+Smedsgatan 1B lgh 1001
+Sturegatan 22B lgh 1202
+Skogsmilsgatan 27 lgh 1202
+Oxhagsvägen 16E lgh 1002
+Kaparegatan 2D lgh 1002
+Mäster Gudmunds Väg 37 lgh 1103
+Krokgatan 8B lgh 1101
+Barytongatan 28 lgh 1301
+Falleniusgatan 6 lgh 1203
+Herserudsvägen 4A lgh 1103
+Kristoffer Huldts Väg 6 lgh 1301
+Långedsgatan 3A lgh 1201
+Banérgatan 19 lgh 1101
+Platsgatan 10 lgh 1001
+Spårfinnargränd 10 lgh 1203
+Bohusgatan 25 lgh 1002
+Slottsgatan 30 lgh 1104
+Timjansgatan 42 lgh 1102
+Björkelundsvägen 4A lgh 1101
+Terrassgatan 9 lgh 1302
+Kronetorps Allé 29 lgh 1004
+Norra Krongatan 6 lgh 1303
+Mårtensgatan 16A lgh 1102
+Markörgatan 40C lgh 1001
+Gamla Värmdövägen 11 lgh 1519
+Emriks Gata 2 lgh 1301
+Åsvägen 96 lgh 1101
+Atlasvägen 51 lgh 1102
+Marklandsgatan 29 lgh 1401
+Femte Tvärgatan 20 lgh 1208
+Kungsholmsgatan 13 lgh 1702
+Årstagatan 37 lgh 1002
+Lilla Nygatan 20 lgh 1301
+Skolmästarevägen 3 lgh 1101
+Stationsgatan 25B lgh 1202
+Västra Utanbygatan 14B lgh 1101
+Tranebergsvägen 120 lgh 1102
+Bergavägen 2E lgh 1401
+Ankdammsgatan 15 lgh 1703
+Einar Hansens Esplanad 25A lgh 1406
+Norrbölegatan 24 lgh 1001
+Hsb-Gatan 1A lgh 1103
+Lännäsvägen 1 lgh 1004
+Nygatan 1 lgh 1101
+Blecktornsstigen 6 lgh 1102
+Centrumvägen 64 lgh 1101
+Viktoriaesplanaden 19F lgh 1201
+Yrkesgatan 5 lgh 1101
+Sandbackavägen 38 lgh 1003
+Vasagatan 26B lgh 1403
+Klyvargatan 10 lgh 1502
+Västra Varvsgatan 24C lgh 1003
+Storängsvägen 16B lgh 1203
+Storgatan 68A lgh 1101
+Stora Strandgatan 2A lgh 1104
+Djäknevägen 7 lgh 1202
+Norrgårdsgatan 11B lgh 1103
+Friggagatan 7B lgh 1402
+Centralvägen 4C lgh 1203
+Bergmansgatan 23 lgh 1206
+Terapivägen 10C lgh 1201
+Herrhagsvägen 21C lgh 1003
+Bildesgatan 2A lgh 1002
+Studievägen 6 lgh 1104
+Organistgatan 1C lgh 1101
+Drottninggatan 54B lgh 1001
+Tärnegatan 4B lgh 1003
+Tegnérlunden 12 lgh 1002
+Tornérvägen 31 lgh 1403
+Norra Infarten 71A lgh 1001
+Babordsgatan 23 lgh 1204
+Birger Jarlsgatan 123 lgh 1401
+Strandvägen 16 lgh 1201
+Södra Krongatan 4 lgh 1101
+Stora Kvinns Väg 58 lgh 1301
+Krankajen 32 lgh 1403
+Ejdervägen 20 lgh 1202
+Vintergatan 3C lgh 1001
+Nanna Svartz Gata 3 lgh 1601
+Symfonigatan 103B lgh 1103
+Maria Winkvists Väg 6A lgh 1303
+Odengatan 10B lgh 1103
+Kattilasaari 20 lgh 1001
+Bergsgatan 2 lgh 1201
+Storgatan 12D lgh 1001
+Ernst Wigforss Gata 21 lgh 1403
+Tunvägen 8 lgh 1002
+Polhemsgatan 15 lgh 1101
+Sveavägen 100 lgh 1404
+Torngatan 6 lgh 1103
+Östervägen 12 lgh 1402
+Tenhults Herrgård 2 lgh 1101
+Fredriksdalsvägen 2A lgh 1101
+Vistakullevägen 15 lgh 1001
+Götgatan 2 lgh 1302
+Årbygatan 9A lgh 1203
+Ytterbyvägen 12B lgh 1102
+Västra Rönneholmsvägen 43B lgh 1201
+Kurirgatan 31 lgh 1004
+Strelowgatan 18 lgh 1001
+Järpgränd 9 lgh 1102
+Kanalgränd 5A lgh 1001
+Lilla Marconigatan 3 lgh 1801
+Döbelnsgatan 2 lgh 1102
+Åkervägen 2 lgh 1201
+Majorsallén 77B lgh 1405
+Sörängetvägen 10A lgh 1002
+Murargatan 7 lgh 1101
+Cervins Väg 17A lgh 1603
+Tallvägen 9B lgh 1501
+Norra Ågatan 2C lgh 1001
+Hospitalsgatan 24A lgh 1201
+Nordmarksvägen 21 lgh 1303
+Staketgatan 31 lgh 1402
+Albäcksgatan 35A lgh 1201
+Sjöviksvägen 4A lgh 1101
+Norumsvägen 4C lgh 1002
+Skjutbanegatan 9C lgh 1202
+Tomtbergavägen 345 lgh 1001
+Härdvägen 3 lgh 1104
+Guldrupe Krasse 607 lgh 1001
+Sandelhielmsgatan 22 lgh 1003
+Lagavägen 16 lgh 1101
+Marknadsvägen 255 lgh 1001
+Lingonstigen 145 lgh 1102
+Östra Skolgatan 6 lgh 1101
+Mattiasgatan 10B lgh 1004
+Slalomvägen 8 lgh 1102
+Hagalundsgatan 42 lgh 1502
+Idholmsvägen 21 lgh 1103
+Svartbäcksgatan 39 lgh 1402
+Gullmarsvägen 9 lgh 1501
+Zinkens Väg 53 lgh 1205
+Brogatan 52A lgh 1401
+Järdalavägen 32B lgh 1201
+Förvaltarvägen 6 lgh 1004
+Skultunavägen 7 lgh 1001
+Slottsgatan 16 lgh 1302
+Hjortvägen 2A lgh 1101
+Fredrikshaldsvägen 24B lgh 0801
+Örnvägen 104 lgh 1002
+Mölndalsvägen 41 lgh 1501
+Nilssonsberg 32 lgh 1004
+Bogesundsgatan 16 lgh 1302
+Mariebergsvägen 45 lgh 1101
+Björnvägen 30 lgh 1301
+Tappvägen 24 lgh 1501
+Gamla Rådstugugatan 46 lgh 1401
+Kiörningsgatan 5 lgh 1101
+Ringvägshamnen 2C lgh 1201
+Lovisagatan 34 lgh 1101
+Uddevallaplatsen 2C lgh 1001
+Industrigatan 8K lgh 1307
+Marietorps Allé 7 lgh 1301
+Mossvägen 3 lgh 1102
+Risslersgatan 21A lgh 1103
+Trädgårdsgatan 3C lgh 1001
+Carl Herslowsgatan 10 lgh 1401
+Winborgs Väg 39 lgh 1203
+Clas Horns Väg 7B lgh 1203
+Hälsingegatan 44 lgh 1001
+Vikingavägen 31 lgh 1001
+Lingonstigen 24 lgh 1201
+Kvarnforsplan 2 lgh 1002
+Rörbecksgatan 14 lgh 1111
+Fredsgränd 15 lgh 1001
+Tullgatan 8B lgh 1001
+Luddögatan 8 lgh 1002
+Lägervägen 31A lgh 1001
+Kungssätravägen 27B lgh 1201
+Södra Klöverstigen 2 lgh 1203
+Mattssonsliden 4 lgh 1002
+Rosenlundsgatan 48A lgh 1302
+Korsebergsvägen 3B lgh 1204
+Olofsgatan 15B lgh 1101
+Bastuhagsvägen 34 lgh 1302
+Tallrisvägen 1 lgh 0901
+Lövingsgatan 4 lgh 1101
+Sibyllegatan 20 lgh 1401
+Röforsvägen 1 lgh 1101
+Aschebergsgatan 27 lgh 1401
+Vigelsjövägen 16C lgh 1202
+Kristinavägen 2 lgh 1202
+Grindsgatan 43 lgh 1304
+Kungsgatan 50A lgh 1202
+Götgatan 105 lgh 1502
+Ståltorpsgatan 17 lgh 1204
+Kungsgatan 7 lgh 1002
+Vinggatan 28 lgh 1203
+Skebokvarnsvägen 307 lgh 1304
+Snapphanevägen 76 lgh 1202
+Bennets Väg 17B lgh 1102
+Bergavägen 8B lgh 1101
+Knektegårdsgatan 59A lgh 1101
+Badvägen 5 lgh 1001
+Villagatan 21B lgh 1002
+Släpharvsgatan 5E lgh 1101
+Västra Rönneholmsvägen 31C lgh 1101
+Lasarettsgatan 8 lgh 1401
+Dörrvägen 36 lgh 1001
+Östra Eriksbergsgatan 100 lgh 1502
+Visättravägen 22 lgh 1403
+Gösta Ekmans Väg 37 lgh 1204
+Gamla Huddingevägen 445 lgh 1203
+Alvägen 15 lgh 1201
+Parkgatan 16 lgh 1001
+Kommendörsgatan 14 lgh 1104
+Säbydalsvägen 7 lgh 1102
+Åsgatan 2 lgh 1002
+Ronnebyvägen 20 lgh 1201
+Södra Förstadsgatan 82 lgh 1101
+Rindögatan 50 lgh 1303
+Brahegatan 31 lgh 1503
+Annelundsgatan 13A lgh 1002
+Centralvägen 92 lgh 1001
+Rörstrandsgatan 44 lgh 1601
+Albinsrogatan 1C lgh 1603
+Folkskolegatan 7 lgh 1401
+Vasavägen 15 lgh 1201
+Lillhallsta 109 lgh 1001
+Siöcronaplatsen 10 lgh 1401
+Oxelgatan 15 lgh 1001
+Bodarnevägen 10A lgh 1101
+Folkungagatan 146A lgh 1302
+Snapphanegatan 12A lgh 1003
+Kyrkogatan 28A lgh 1001
+Norrgårdsvägen 47 lgh 1002
+Hagavägen 5A lgh 1101
+Grönfinksvägen 9 lgh 1001
+Luddögatan 3 lgh 1102
+Karl XII Gatan 20A lgh 1002
+Floragatan 2B lgh 1101
+Moränvägen 9 lgh 1102
+Anna Sandströms Gata 20 lgh 1002
+Sallerupsvägen 26B lgh 1303
+Varvsgatan 5 lgh 1004
+Brunflovägen 43 lgh 1101
+Torögatan 3 lgh 1002
+Kammakargatan 35 lgh 1201
+Loftvägen 8 lgh 1302
+Stora Brännbovägen 15 lgh 1101
+Gränsgatan 33 lgh 1101
+Norra Stiftelsevägen 12 lgh 1103
+Kavallerivägen 2A lgh 1105
+Åsögatan 200A lgh 1402
+Broby Backe 1 lgh 1002
+Karl Martins Väg 20 lgh 1203
+Kvarnbacksvägen 82 lgh 1101
+Algatan 13 lgh 1401
+Härnegatan 114 lgh 1002
+Ringvägen 2 lgh 1004
+Vipgränd 4B lgh 1102
+Ringstorpsvägen 30 lgh 2104
+Larmvägen 2 lgh 1502
+Kättingvägen 61 lgh 1102
+Råckstavägen 31 lgh 1103
+Schaktmästaregatan 7E lgh 1101
+Skillingsgatan 67 lgh 0902
+Trekungagatan 18 lgh 1101
+Holms Väg 17A lgh 1103
+Hjortvägen 24F lgh 1102
+Sibeliusgången 8 lgh 1402
+Publikvägen 21 lgh 1301
+Jarlvägen 10A lgh 1002
+Iskällareliden 12C lgh 1201
+Drevstagatan 49B lgh 1202
+Långedsvägen 8 lgh 1103
+Södra Dragspelsgatan 37 lgh 1701
+Wallingatan 16 lgh 1001
+Ursviksvägen 16 lgh 1501
+Prästbolsvägen 29A lgh 1001
+Myrstuguvägen 43 lgh 1002
+Ringvägen 7A lgh 1201
+Vasaloppsvägen 86 lgh 1202
+Kaptensgatan 11 lgh 1101
+Kungsvägen 3 lgh 1303
+Reenstiernagatan 70 lgh 1301
+Gruvfogdegatan 21 lgh 1001
+Pianogatan 66 lgh 1202
+Norra Gatan 6 lgh 1101
+Bergsgatan 12 lgh 1401
+Skånegatan 71 lgh 1201
+Fredriksstrandsvägen 6 lgh 1201
+Rudavägen 11 lgh 1205
+Järnvägsallén 5A lgh 1104
+Bergagatan 11 lgh 1105
+Bryngelshusgatan 2 lgh 1101
+Övre Hallegatan 52 lgh 1503
+Ellegatan 3 lgh 1202
+Berghemsgatan 10 lgh 1304
+Mörtgatan 8 lgh 1102
+Sjövägen 3 lgh 1003
+Batterigatan 15 lgh 1101
+Enebygatan 27B lgh 1201
+Drottninggatan 3B lgh 1702
+Rönnebergavägen 5C lgh 1002
+Strandvägen 55 lgh 1003
+Prästgatan 3 lgh 1201
+Bokstigen 1 lgh 1303
+Lilla Strandgatan 15 lgh 1201
+Alamedan 7 lgh 1101
+Kärvingeborn Vangsviken 9 lgh 1001
+Söderforsgatan 14A lgh 1025
+Gånglåtsvägen 25 lgh 1101
+Blomgatan 2 lgh 1101
+Hamre 309 lgh 0901
+Nedre Fogelbergsgatan 6B lgh 1203
+Rimfrostgatan 35 lgh 1302
+Blixtgatan 10 lgh 1202
+Paternostergatan 10 lgh 1402
+Davidshallsgatan 27B lgh 0323
+Sörgårdsvägen 12 lgh 1401
+Norr Mälarstrand 100 lgh 1804
+Grenljusbacken 13 lgh 1203
+Folkungagatan 55 lgh 1404
+Rundgatan 10 lgh 1101
+Älvdalsvägen 14 lgh 1101
+Stöttingvägen 19 lgh 1201
+Storgatan 17 lgh 1201
+Bällstavägen 224 lgh 1304
+Godvädersgatan 16A lgh 1003
+Brunnbäcksgatan 12A lgh 1203
+Övägen 62 lgh 1002
+Kopparvägen 31 lgh 1101
+Södervägen 26 lgh 1201
+Armévägen 23 lgh 1003
+Merkuriusgatan 9 lgh 1302
+Gamla Skärgårdsvägen 4 lgh 1002
+Vendelsö Skolväg 21 lgh 1304
+Hasselgatan 23 lgh 1501
+Snapphanevägen 20 lgh 1102
+Skolvägen 4 lgh 1304
+Götgatan 28 lgh 1101
+Bangatan 10B lgh 1102
+Spantgatan 3A lgh 1002
+Norrtullsgatan 48 lgh 1101
+Sörkämstavägen 5 lgh 1101
+Kompassgatan 2A lgh 1101
+Norra Kyrkogatan 9 lgh 1101
+Inteckningsvägen 17D lgh 1303
+Havsörnsgatan 147 lgh 1002
+Järvstigen 5 lgh 1401
+Genuagatan 9 lgh 1702
+Vikingavägen 21C lgh 1103
+Målaregatan 14A lgh 1103
+Storgatan 34 lgh 1104
+Dotorpsgatan 49 lgh 1001
+Mariavägen 9 lgh 1101
+John Engellaus Gata 6 lgh 1001
+Swedenborgsgatan 51 lgh 1001
+Lövlundsvägen 50B lgh 1201
+Kongahällagatan 86A lgh 1503
+Stenkastsgatan 2 lgh 1303
+Ålgrytevägen 107 lgh 1702
+Läraregatan 22 lgh 1101
+Johan Skyttes Väg 21B lgh 1103
+Fjärde Villagatan 28 lgh 1102
+Krondikesvägen 36A lgh 1001
+Askebygatan 3B lgh 1201
+Pålsundsgatan 1 lgh 1002
+Rombergsgatan 20 lgh 1102
+Verkstadsvägen 39 lgh 1001
+Malmskillnadsgatan 45 lgh 1404
+Lugnets Väg 23B lgh 1205
+Fregattvägen 3B lgh 1503
+Landerivägen 36 lgh 1304
+Eldaregatan 14H lgh 1001
+Håknarp 1 lgh 1001
+Åbenråvägen 2 lgh 1102
+Ringstedsgatan 21 lgh 1202
+Marieborgsgatan 67 lgh 1101
+Bredkilsbacken 8 lgh 1601
+Rasmusgatan 14 lgh 1001
+Fredriksbergsvägen 1D lgh 1001
+Karlavägen 1 lgh 1101
+Södra Torlandsgatan 21A lgh 1201
+Banérgatan 31 lgh 1401
+Nobelvägen 147H lgh 1103
+Mårdtorpsgatan 51 lgh 1203
+Rådhusesplanaden 18A lgh 1603
+Persborgsgatan 15A lgh 1002
+Rimfrostgatan 111 lgh 1001
+Hagalundsgatan 34 lgh 1603
+Borganäsvägen 21 lgh 1001
+Brogatan 8 lgh 1301
+Siriusgatan 13A lgh 1102
+Mårtensgatan 6A lgh 1101
+Utåkersgatan 5B lgh 1102
+Långåkern 1 lgh 1101
+Järnvägsgatan 4 lgh 1101
+Övre Hantverksgatan 25B lgh 1101
+Luntmakargatan 36 lgh 1303
+Ringstorpsvägen 30 lgh 1402
+Älghagsgatan 4C lgh 1202
+Gyllenhakes Väg 8 lgh 1101
+Stövargatan 18 lgh 1102
+Gotlandsresan 63 lgh 1101
+Träringen 39 lgh 1102
+Lysviksgatan 41 lgh 1209
+Korsebergsvägen 3B lgh 1105
+Furulundsgatan 22 lgh 1504
+Solröksgatan 11A lgh 1102
+Västra Parkgatan 7 lgh 1002
+Billjergatan 13E lgh 1101
+Öregrundsgatan 17 lgh 1805
+S:t Persgatan 32A lgh 1402
+Skåve 140 lgh 1001
+Engelbrektsvägen 8A lgh 1401
+Västergatan 14C lgh 1108
+Krankajen 34 lgh 1401
+Jenny Linds Gata 14 lgh 1202
+Förläggarevägen 26 lgh 1001
+Guldbrandsgatan 6 lgh 1603
+Dalhemsvägen 65 lgh 1403
+Johannesbergsgatan 9B lgh 1302
+Ringvägen 29 lgh 1102
+Vintervägen 12A lgh 1302
+Von Lingens Väg 10 lgh 1101
+Björkvägen 20 lgh 1001
+Nordanväg 16A lgh 1203
+Guldpokalsgatan 1A lgh 1201
+Hagalundsgatan 27 lgh 1702
+Ingelstadsgatan 14 lgh 1301
+Hårstagatan 8B lgh 1002
+Saltängsgatan 1B lgh 1202
+Balladgatan 2 lgh 1204
+Valhallavägen 57 lgh 1201
+Viktoriagatan 41B lgh 1101
+Ulvsätersvägen 13C lgh 1001
+Kroppstadvägen 2 lgh 1001
+Slottsgatan 4A lgh 1105
+Neptunigatan 12 lgh 1002
+Nybohovsbacken 54 lgh 1402
+Kaptensgatan 3B lgh 1102
+Stationsgatan 1A lgh 1501
+Köpstadsvägen 54 lgh 1201
+Roskildevägen 39C lgh 1102
+Syster Estrids Gata 6 lgh 1203
+Tillbergsgatan 4A lgh 1003
+Saltövägen 17 lgh 1002
+Torggatan 35 lgh 1002
+Hällskriftsgatan 13C lgh 1301
+Gådersta 411 lgh 2131
+Augustendalsvägen 32 lgh 1503
+Orrspelsgatan 71 lgh 1203
+Sandfjärdsgatan 46 lgh 1904
+Tullhusgatan 22 lgh 1202
+Teknikvägen 69 lgh 1102
+Kusbyvägen 23A lgh 1001
+Anderstorpsvägen 6 lgh 1504
+Adlercreutzgatan 11C lgh 1001
+Lötsjövägen 35 lgh 1003
+Sandegårdsgatan 24B lgh 1003
+Solbergavägen 9 lgh 1201
+Lokgatan 2B lgh 1002
+Storforsplan 5 lgh 2002
+Prostgatan 4A lgh 1102
+Snäckgärdsvägen 64 lgh 1303
+Stångåvägen 9 lgh 1102
+Mellanbergsvägen 67 lgh 1001
+Önevägen 150 lgh 1101
+Hemvägen 5 lgh 1101
+Huskvarnavägen 108 lgh 1001
+Yvradsvägen 45A lgh 1001
+Brännbergsvägen 29A lgh 1201
+Nanolfsvägen 19C lgh 1301
+Folkungagatan 20B lgh 1102
+Nedre Kaptensgatan 7 lgh 1110
+Sturegatan 8C lgh 1101
+Hyttlidgatan 58A lgh 1001
+Odalvägen 21 lgh 1203
+Lotta Svärdsgatan 3B lgh 1101
+Rynningsgatan 41 lgh 1405
+Rindögatan 44 lgh 1002
+Eriksbergsgränd 5C lgh 1101
+Sankt Sigfridsgatan 38 lgh 1001
+Bergfotsvägen 4 lgh 1102
+Östra Vallgatan 18 lgh 1002
+Thulegatan 26 lgh 1103
+Rödkullastigen 7B lgh 1602
+Bremergränd 4 lgh 1001
+Idungatan 1B lgh 1103
+Hillmansgatan 16B lgh 1001
+Gränsvägen 8B lgh 1205
+Berggatan 12A lgh 1303
+Ludvikagatan 45 lgh 1501
+Havsvägen 15B lgh 1001
+Brännagatan 7B lgh 1003
+Brämhultsvägen 4 lgh 1102
+Elisetorpsvägen 15D lgh 1603
+Salabacksgatan 24A lgh 1104
+Hedgatan 19A lgh 1203
+Erik Dahlbergsgatan 10A lgh 1301
+Ursviksgatan 130A lgh 1110
+Himmelstalundsvägen 52 lgh 1003
+Museigatan 13 lgh 1003
+Murargatan 29 lgh 1304
+Norra Kronans Gata 432 lgh 1701
+Kristinavägen 14 lgh 1101
+Iglavägen 32 lgh 1020
+Marknadsvägen 6B lgh 1302
+Ringstedsgatan 4 lgh 1204
+Hollandsresan 1 lgh 1202
+Kilströmskajen 7A lgh 1001
+Tjustgatan 2A lgh 1001
+Holländargatan 26A lgh 1402
+Eldaregatan 12 lgh 1102
+Stallgatan 5A lgh 1102
+Norra Nyvallsvägen 43C lgh 1002
+Baldersvägen 14A lgh 1403
+Bygatan 18 lgh 1303
+Furutorpsgatan 88 lgh 1204
+Bivägen 10 lgh 1002
+Storskogsvägen 55 lgh 1002
+Vaikijaurvägen 5 lgh 1001
+Pettersbergsgatan 20 lgh 1506
+Lilla Vägen 16 lgh 1202
+Västgötagatan 8A lgh 1002
+Frontgatan 5C lgh 1702
+Djupegatan 43A lgh 1102
+Torsplan 10 lgh 2503
+Eklandagatan 13 lgh 1301
+Dalgatan 21B lgh 1102
+Smörgatan 106 lgh 1404
+Doktor Lindhs Gata 4 lgh 1701
+Backgränd 3E lgh 1001
+Öster Mälarstrands Allé 144 lgh 2304
+Skaragatan 34 lgh 1001
+Sibyllegatan 7 lgh 1601
+Storgatan 33A lgh 1201
+Floragatan 21 lgh 1302
+Bangårdsgatan 11 lgh 1302
+Storängsgatan 27 lgh 1001
+Harmonigatan 11C lgh 1201
+Mohedsvägen 5 lgh 1001
+Thulegatan 11 lgh 1002
+Fullmånegatan 4 lgh 1102
+Södra Fogdelyckegatan 39B lgh 1202
+Ringvägen 82 lgh 1503
+Befälsgatan 4 lgh 2102
+Brinkvägen 70 lgh 1103
+Slottsgatan 91C lgh 1101
+Hägerstensvägen 167 lgh 1201
+Morellstigen 14 lgh 1001
+Sösbacken 48 lgh 1004
+Sollenkrokavägen 32 lgh 1101
+Kalendervägen 17 lgh 1302
+Briljantgatan 90 lgh 1102
+Österled 29D lgh 1201
+Transistorgatan 13 lgh 1103
+Agavägen 38 lgh 1307
+Bandholtzgatan 39B lgh 1001
+Pricktorget 2 lgh 1202
+Bryggaregatan 5 lgh 1507
+Kungsgatan 10 lgh 1402
+Lilla Bangårdsgatan 1 lgh 1104
+Ymsenvägen 14 lgh 1203
+Armévägen 19 lgh 1401
+Björnbärsvägen 5 lgh 1201
+Norra Kapellgatan 16B lgh 1002
+Stallgatan 9A lgh 1601
+Snickaregatan 8 lgh 1101
+Benvägen 60 lgh 1001
+Tunaforsgatan 6B lgh 1102
+Stationsgatan 23A lgh 1103
+Långrevsgatan 37 lgh 1101
+Rektorsgatan 14 lgh 1001
+Döbelnsgatan 40 lgh 1401
+Ärlegatan 9A lgh 1101
+Soldatgatan 18A lgh 1101
+Björknäsgränd 1 lgh 1103
+Östra Dalgatan 14 lgh 1101
+Slottsgatan 10C lgh 1103
+Svenstadsvägen 32 lgh 1002
+Storgatan 31 lgh 1101
+Liljebergsgatan 11 lgh 0902
+Gemlavägen 1 lgh 1031
+Frösövägen 11 lgh 1001
+Lagmansvägen 29 lgh 1406
+Prästvägen 10 lgh 1101
+Lingonstigen 18 lgh 1001
+Granitvägen 21 lgh 1301
+Byggmästargatan 12 lgh 1303
+Östermalmsvägen 24A lgh 1001
+Hallebergsvägen 23 lgh 1202
+Steken 3C lgh 1101
+Fridhemsgatan 69 lgh 1007
+Rissneleden 39 lgh 1104
+Hönedalsvägen 6 lgh 1202
+Lasarettsgatan 13 lgh 1904
+Farstavägen 108A lgh 1101
+Kulfångsgatan 4 lgh 1001
+Rörgatan 13 lgh 1401
+Ervalla 255 lgh 1002
+Idrottsvägen 16 lgh 1201
+Risingevägen 16B lgh 1201
+Sturegatan 99A lgh 1101
+Höganäsgatan 6A lgh 1201
+Spannlandsgatan 8 lgh 1202
+Gärdebyplan 7 lgh 1203
+Framstugatan 11 lgh 1001
+Kungsgatan 13 lgh 1101
+Fabriksgatan 18A lgh 1101
+Öster Mälarstrands Allé 143 lgh 1104
+Granbäcksvägen 9 lgh 1101
+Djurgårdsvägen 10 lgh 1102
+Stavangergatan 76 lgh 1301
+Nygatan 46B lgh 1001
+Smålandsgatan 17A lgh 1001
+Stationsgatan 26F lgh 4347
+Ringvägen 4F lgh 1001
+Tromtögatan 3 lgh 1002
+Limhamnsvägen 138 lgh 1203
+Aratorpsvägen 17 lgh 1002
+Hornsgatan 114 lgh 1202
+Kyrkgatan 16 lgh 1201
+Storforsplan 3 lgh 1203
+Karlstorpsvägen 111 lgh 1202
+Björnstigen 36 lgh 1201
+Kyrkogatan 20B lgh 1202
+Doktor Forselius Gata 36 lgh 1102
+Oslogatan 17 lgh 1201
+Hagbacksgatan 18 lgh 1004
+Rådhusgatan 13 lgh 1204
+Råsundavägen 19 lgh 1501
+Huvudstagatan 3A lgh 1401
+Eriksfältsgatan 101B lgh 1203
+Brännbergsvägen 6B lgh 1001
+Carl Bondes Väg 8 lgh 1101
+Nydalavägen 28A lgh 1003
+Kongahällagatan 44A lgh 1102
+Granövägen 46 lgh 1401
+Bondebacken 16 lgh 1103
+Riddarstenshöjden 6 lgh 1301
+Karlbergsvägen 9 lgh 1202
+Järnvägsgatan 23F lgh 1002
+Norra Ersmarksgatan 36 lgh 1201
+S:t Kristoffers Väg 3E lgh 1124
+Utsiktsvägen 5A lgh 1301
+Edinsvägen 18 lgh 1101
+Djursdalavägen 2B lgh 1001
+Södervärnsgatan 2B lgh 1101
+Bogsätravägen 54 lgh 1202
+Södra Bangårdsgatan 16 lgh 1204
+Idalagatan 1 lgh 1001
+Korpralsvägen 32B lgh 1505
+Storsjöstråket 34 lgh 1401
+Skogsvägen 1B lgh 1102
+Ervallakroken 27 lgh 1603
+Baggensgatan 20B lgh 1103
+Blekingegatan 15D lgh 1201
+Mellangatan 19A lgh 1002
+Toftagatan 9A lgh 1102
+Högalidsgatan 23 lgh 1001
+Trollhättevägen 12 lgh 1305
+Sturegatan 2B lgh 1102
+Biblioteksgatan 37B lgh 1101
+Klubbgränd 6 lgh 1101
+Biskopsgatan 7 lgh 1504
+Hedvigsgatan 8 lgh 1101
+Skäretvägen 69C lgh 1201
+Björbovägen 36 lgh 1001
+Oxledsvägen 125 lgh 1001
+Gamla Uppsalagatan 117 lgh 1101
+Bandvagnsgränd 6 lgh 1402
+Åsgatan 12 lgh 1101
+Hunnemaravägen 24 lgh 1103
+Skeppargatan 26 lgh 1001
+Kryssarvägen 13 lgh 1002
+Östermalmsgatan 14 lgh 1201
+Rubingatan 23 lgh 1101
+Lillkullegatan 22C lgh 1102
+Våmmedalsvägen 160 lgh 1202
+Vallavägen 14 lgh 1302
+Varbergsvägen 68B lgh 1002
+Jakobsbergsgatan 13C lgh 1101
+Idrottsvägen 32 lgh 1001
+Mariebergsgatan 5C lgh 1301
+Margaretagatan 23 lgh 1203
+Sädebäcksgatan 2D lgh 1102
+Dalbogatan 6 lgh 1603
+Arklimästaregatan 39 lgh 1402
+Brahegatan 33B lgh 1101
+Ängsvägen 1B lgh 1003
+Saxofongatan 18 lgh 1101
+Finlandsgatan 20D lgh 1002
+Skånegatan 31 lgh 1401
+Tycho Brahes Gata 18 lgh 1201
+Krouthéns Gata 8 lgh 1301
+Ringsbergsvägen 3A lgh 1001
+Banvägen 21B lgh 1003
+Stavbygränd 13 lgh 1101
+Kristianstadsgatan 31A lgh 1101
+Löjtnant Granlunds Väg 2B lgh 1201
+Tullgårdsgatan 24 lgh 1401
+Drottninggatan 88B lgh 1302
+Kinnaredsgränd 25 lgh 1304
+Backsippsgatan 21C lgh 1001
+Femte Tvärgatan 34A lgh 1202
+Lönnvägen 2C lgh 1002
+Södra Centralgatan 15 lgh 1304
+Kuddbygränd 8 lgh 1301
+Sleipnergatan 54 lgh 1601
+Swedenborgsgatan 5B lgh 1103
+Brännkyrkagatan 35 lgh 1103
+Erstagatan 5 lgh 1902
+Ehrensvärdsgatan 2 lgh 1301
+Mästaregatan 1C lgh 1202
+Slottsskogsgatan 6A lgh 1301
+Förrådsvägen 18 lgh 1203
+Pjäsgatan 57B lgh 1102
+Höjeågatan 259 lgh 1101
+Himlabacken 7 lgh 1502
+Alvestagatan 22 lgh 1302
+Höglundavägen 23 lgh 1601
+Babordsgatan 20 lgh 1004
+Södervägen 11F lgh 1201
+Viktoriaesplanaden 13B lgh 1101
+Alvägen 26 lgh 1201
+Isgränd 2 lgh 1104
+Vaktmästaregången 7 lgh 1004
+Bergavägen 35 lgh 1202
+Edwin Berlings Gata 8B lgh 1002
+Drottninggatan 100 lgh 1303
+Hälsovägen 11 lgh 1101
+Staveredsgatan 5 lgh 1302
+Kopparvägen 16 lgh 1301
+Nilsbrogatan 3 lgh 1003
+Hallandsgatan 40 lgh 1203
+Kung Karls Väg 5C lgh 1002
+Sibyllegatan 30 lgh 1405
+Vallavägen 171 lgh 1001
+Engelbrektsgatan 34 lgh 1201
+Per Lindeströms Väg 114 lgh 1201
+Färgargårdstorget 24 lgh 1502
+Hagagatan 34C lgh 1101
+Österlånggatan 11A lgh 1102
+Oxtorget 3B lgh 1302
+Malmtorgsgatan 22A lgh 1203
+Kummingatan 36A lgh 1002
+Mörbyvägen 30 lgh 1103
+Chalmersgatan 18 lgh 1503
+Jönköpingsgatan 44B lgh 1103
+Norra Krokslättsgatan 6 lgh 1203
+Tage Wikströms Gata 14C lgh 1105
+Mosebacke Torg 14 lgh 1003
+Smedjegatan 1B lgh 1103
+Smedsbacksgatan 11 lgh 1602
+Norrbäcksgatan 29 lgh 1402
+Genvägen 30 lgh 1101
+Söderberga Allé 19 lgh 1402
+Linvretsvägen 24 lgh 1001
+Salagatan 3 lgh 1001
+Uddevallagatan 37B lgh 1102
+Skogsgatan 4A lgh 1403
+Persikogatan 74 lgh 1003
+Svanebäcksgatan 45A lgh 1101
+Vinkelgatan 3A lgh 1102
+Sjöhagavägen 6 lgh 1001
+Klövervägen 21A lgh 1001
+Slöjdgatan 8 lgh 1101
+Trekantsgatan 5 lgh 1105
+Södra Allén 3 lgh 1002
+Hamngatan 9 lgh 1103
+Nissastigen 24 lgh 1302
+Fasanvägen 4B lgh 1201
+Eriksdalsgatan 17 lgh 1101
+Ståthållaregatan 54A lgh 1302
+Majorsallén 10 lgh 1003
+Tingsgatan 2B lgh 1003
+Hagvägen 26 lgh 1101
+Grangatan 14B lgh 1101
+Ektorpsgatan 38 lgh 1002
+Idholmsvägen 128 lgh 1105
+Strömstadsvägen 34C lgh 1203
+Torsplan 8 lgh 1506
+Karlstadsvägen 3C lgh 1103
+Hovdingegatan 38C lgh 1102
+Kyrkogårdsvägen 137 lgh 1212
+Solbringsvägen 7 lgh 1001
+Pilängsvägen 10 lgh 1101
+Skomakaregatan 10 lgh 1203
+Kolhusvägen 1 lgh 1001
+Liedbergsgatan 53 lgh 1603
+Nedre Norrtullsgatan 1A lgh 1003
+Kantatvägen 10 lgh 1202
+Stationsgatan 7C lgh 1102
+Lilla Brogatan 31 lgh 1108
+Gustav Adolfsgatan 20 lgh 1103
+Torsgatan 34 lgh 1001
+Torsbygatan 3 lgh 1201
+Dübengatan 37 lgh 1201
+Stensjögatan 42 lgh 1404
+Hantverkaregatan 7 lgh 1303
+Stafettgatan 3 lgh 1206
+Ågatan 20 lgh 1504
+Bäckgårdsvägen 26 lgh 1106
+Sjöbo Torggata 13 lgh 1003
+Linnégatan 55 lgh 1302
+Västra Storgatan 12A lgh 1102
+Hanekindsgatan 5 lgh 1402
+Lövgatan 2B lgh 1101
+Storgatan 45 lgh 1001
+Herrhagsvägen 7A lgh 1205
+Nedre Långvinkelsgatan 72 lgh 1002
+Brunnbäcksgatan 21C lgh 1002
+Postgången 30 lgh 1301
+Konsttorpsvägen 6 lgh 1001
+Stenkumlaväg 3E lgh 1001
+Munkhättevägen 25B lgh 1002
+Vasagatan 17A lgh 1201
+Klippgatan 16 lgh 1505
+Andra Avenyen 2 lgh 1301
+Hantverkaregatan 19B lgh 1202
+Vikingagatan 22 lgh 1001
+Storgatan 14 lgh 1101
+Dalgårdsgatan 8B lgh 1202
+Södra Promenaden 3 lgh 1502
+Övre Majorsgatan 8 lgh 1303
+Linnévägen 10C lgh 1101
+Distansgatan 77 lgh 1002
+Alsnögatan 46 lgh 1704
+Kvarnvägen 7 lgh 1304
+Ribbings Väg 12B lgh 1202
+Lugna Gatan 14 lgh 1001
+Scholandersgatan 6 lgh 1002
+Lodvägen 8 lgh 1001
+Nackagatan 18 lgh 1201
+Lugna Gatan 41 lgh 1403
+Mölle Hamnallé 1 lgh 1001
+Farstavägen 110B lgh 1002
+Vasavägen 22 lgh 1103
+Sjöbjörnsvägen 8 lgh 1003
+Valhallavägen 39 lgh 1002
+Lugna Gatan 31 lgh 1101
+Emågatan 27 lgh 1001
+Karl Dahlins Väg 26B lgh 1202
+Linnégatan 55 lgh 1202
+Lövboåsvägen 10 lgh 1003
+Mamsell Ullas Väg 3 lgh 1501
+Redargatan 7 lgh 1403
+Tegnérgatan 28 lgh 1001
+Tegnérgatan 45B lgh 1701
+Linnégatan 67 lgh 1401
+Stagneliigatan 6 lgh 1001
+Tegnérgatan 55A lgh 1403
+Nynäsvägen 84 lgh 1606
+Backenvägen 97 lgh 1001
+Narvavägen 61 lgh 1101
+Sickla Kanalgata 81 lgh 1501
+Prästnibbla Gård 4 lgh 1101
+Torsgränd 34 lgh 1204
+Husingeplan 8 lgh 1201
+Biskopsvrak 534 lgh 1001
+Söderberga Gårdsväg 77 lgh 1102
+Skeppargatan 7A lgh 1202
+Bolltorpshöjdsvägen 101 lgh 1101
+Tredalagatan 15A lgh 1001
+S:t Persgatan 18B lgh 1201
+Järnvägsgatan 17 lgh 1101
+Krikonvägen 6 lgh 1001
+Garnisonsvägen 23 lgh 1003
+Gyllenstjärnas Väg 15 lgh 1104
+Kyrkvägen 24 lgh 1101
+Doktor Saléns Gata 7 lgh 1604
+Högbergsgatan 23 lgh 1104
+Bäckvägen 54 lgh 1102
+Kustvägen 52 lgh 1201
+Herserudsvägen 9E lgh 1001
+Östra Rögårdsgatan 9 lgh 1001
+Optimusvägen 2C lgh 1402
+Maria Bangata 17 lgh 1205
+Härbrevägen 19 lgh 1205
+Skolgatan 29B lgh 1102
+Södra Trängallén 6C lgh 1203
+Gröna Gatan 10 lgh 1503
+Grenandervägen 1D lgh 0902
+Dalgränd 4 lgh 1204
+Hagebygatan 159 lgh 1102
+Ope 116 lgh 1002
+Södra Förstadsgatan 80A lgh 1202
+Kronetorps Allé 16 lgh 1130
+Wachtmeistergatan 28C lgh 1001
+Kämpingebacken 10 lgh 1305
+Sjöfartsgatan 3 lgh 1403
+Skolgatan 30 lgh 1302
+Kristinebergs Strand 3 lgh 1205
+Brattgatan 3E lgh 1304
+Herrhagsvägen 31 lgh 1301
+Ekholmsvägen 8C lgh 1101
+Laestadiusvägen 2A lgh 1002
+Nygatan 11B lgh 1201
+Kungsgatan 66G lgh 1102
+Hälsingeslätt 10 lgh 1002
+Hauptvägen 52 lgh 1101
+Karlsgatan 3 lgh 1103
+Östra Stallmästaregatan 10 lgh 1103
+Ödmansgatan 17 lgh 1101
+Furutorpsgatan 56B lgh 1304
+Hamngatan 4 lgh 1202
+Fjällgatan 28 lgh 1103
+Åsögatan 165 lgh 1102
+Järnvägstorget 10A lgh 1303
+Ranelidsgatan 21 lgh 1103
+Basungatan 44 lgh 1101
+Emil Sjögrens Väg 3C lgh 1002
+Drakenbergsgatan 14 lgh 1001
+Lövhagsgatan 27 lgh 1202
+Magistratsvägen 23A lgh 1101
+Bredgatan 7 lgh 1104
+Spelmansgatan 40 lgh 1603
+Grev Turegatan 75 lgh 1301
+Celsings Väg 41 lgh 1001
+Hälletorpsvägen 24 lgh 1102
+Nils Ferlins Väg 25B lgh 1005
+Kulladalsgatan 3 lgh 1102
+Segeparksgatan 19 lgh 1505
+Nylösegatan 7C lgh 1202
+Gasverksgatan 32A lgh 1301
+Kapellgatan 4 lgh 1102
+Eksjögatan 13 lgh 1001
+Vanadisvägen 23 lgh 1201
+Sjöbogatan 25 lgh 1002
+Dockgatan 23 lgh 1002
+Åkergränd 6 lgh 1203
+Gymnasistgatan 10B lgh 1102
+Fabriksgatan 10B lgh 1102
+Ryttaregatan 3B lgh 1001
+Karl Dahlgrensgatan 35 lgh 1301
+Sundholmsgatan 20 lgh 1001
+Stränggatan 3 lgh 1001
+Österleden 54C lgh 1302
+Vistvägen 43B lgh 1002
+Landåvägen 75 lgh 1103
+Skogsvägen 20 lgh 1101
+Solarvsplan 12 lgh 1202
+Klarabergsvägen 13A lgh 1202
+Tunnbindaregatan 41 lgh 1503
+Lomvägen 34 lgh 1105
+Kyrkogatan 5D lgh 1102
+Bryggerigatan 8 lgh 1001
+Stålbogavägen 66 lgh 1102
+Källgatan 17 lgh 1104
+Torggatan 13 lgh 1102
+Klockstapelvägen 20B lgh 0902
+Lyckostigen 12C lgh 1201
+Västerviksgatan 11 lgh 1802
+Drakenbergsgatan 11 lgh 1101
+Vasallgatan 14A lgh 1402
+Tallvägen 12 lgh 1503
+Sandfjärdsgatan 120 lgh 1602
+Kolsvedsvägen 21 lgh 1001
+Masmästarvägen 8 lgh 1103
+Sävstaholmsvägen 34A lgh 1101
+Hägerstensvägen 139 lgh 1001
+Sjötullstorget 14 lgh 1301
+Tomtebogatan 9 lgh 1101
+Billdalsgatan 5 lgh 1403
+Lindängsvägen 41A lgh 0901
+Munkplan 6A lgh 1301
+Sicksackvägen 17 lgh 1004
+Vänernsgatan 6 lgh 1101
+Solbrinken 12 lgh 1022
+Christer Boijes Väg 32 lgh 1402
+Björndammsterrassen 52 lgh 1001
+Bjurholmsplan 24 lgh 1302
+Västgötagatan 13 lgh 1002
+Postgatan 4C lgh 1201
+Waldenströmsplan 4B lgh 1001
+Flintlåsvägen 44 lgh 1202
+Västergatan 26 lgh 1202
+Kungsporten 5 lgh 1503
+Hasselbacken 11B lgh 1101
+Kungsgatan 7B lgh 1201
+Timmermansgatan 96 lgh 1101
+Bodastigen 3 lgh 1504
+Störtloppsvägen 32 lgh 1201
+Kyrkogatan 49 lgh 1101
+Hästskovägen 16C lgh 1002
+Evelundsvägen 25A lgh 1102
+Folkskolegatan 24 lgh 1107
+Jenny Linds Väg 67 lgh 1003
+Industrigatan 11A lgh 1301
+Energigränd 4A lgh 1302
+Parkgatan 6 lgh 1001
+Österängsgatan 32 lgh 1101
+Rapsvägen 123 lgh 1601
+Övre Långvinkelsgatan 146B lgh 1402
+Storgatan 10A lgh 1003
+Sjöviksvägen 34 lgh 1501
+Dora Lamms Gata 4 lgh 1302
+Storgatan 32 lgh 1001
+Glasbygatan 3D lgh 1004
+Björnstigen 115 lgh 1001
+Henriksdalsringen 89 lgh 1701
+Västra Vintergatan 47 lgh 1102
+Hornsgatan 89 lgh 1101
+Studievägen 19 lgh 1102
+Öja Botarve 724 lgh 1001
+Margretelundsgatan 1B lgh 1103
+Fiskarnas Gata 174 lgh 1701
+Astrakangatan 68C lgh 1104
+Veronikagränd 5 lgh 1003
+Litsvägen 25 lgh 1102
+Säterbacken 6 lgh 1202
+Burevägen 14 lgh 1001
+Öster Mälarstrands Allé 144 lgh 1704
+Stormgatan 10 lgh 1103
+Ärlegatan 5D lgh 1204
+Gunneryd 1 lgh 1001
+Elersvägen 50 lgh 1801
+Scheelegatan 38 lgh 1003
+Inteckningsvägen 17D lgh 1204
+Fröstengatan 4 lgh 1001
+Toppvägen 14 lgh 1301
+Murargatan 10A lgh 1203
+Gamla Brogatan 3A lgh 1001
+Betonggatan 8 lgh 1104
+Konstapelsgatan 8C lgh 1002
+Malmövägen 12 lgh 1102
+När Smiss 610 lgh 1002
+Sagovägen 24B lgh 1201
+Poseidons Gränd 17 lgh 1401
+Storängen 214 lgh 1002
+Birkagatan 20C lgh 1202
+Älvgatan 14 lgh 1102
+Pilotgatan 30 lgh 1202
+Tingshusgatan 4 lgh 1302
+Gammelgårdsvägen 22 lgh 1104
+Emågatan 1 lgh 1002
+Skogsslingan 6 lgh 1003
+Tingvallastrand 2 lgh 1301
+Södra Skeppsbron 6A lgh 1101
+Gamla Värmdövägen 11 lgh 1317
+Västra Långgatan 139B lgh 1203
+Djupdalen 120 lgh 1002
+Annebodavägen 56 lgh 1201
+Västra Spöland 114 lgh 1001
+Norra Kyrkogatan 1D lgh 1401
+Linnégatan 25A lgh 1301
+Målskog 8 lgh 1001
+Södra Vägen 16 lgh 1101
+Villagatan 36B lgh 1302
+Gisslerödsbacken 9 lgh 1102
+Handskerydsvägen 18A lgh 1101
+Sturegatan 37 lgh 1101
+Solvägen 13 lgh 1001
+Kanalgatan 28A lgh 1101
+Östra Bergsgatan 24F lgh 1003
+Lyckebyvägen 18C lgh 1201
+Tvärgatan 27 lgh 1003
+Östra Mårtensgatan 6 lgh 1104
+Regattagatan 4 lgh 1103
+Götarp 5 lgh 1201
+Häradshövdingegatan 30A lgh 1001
+Trastvägen 12B lgh 1208
+Skolgatan 12B lgh 1101
+Återvändsgränd 10 lgh 1001
+Rådhusesplanaden 8 lgh 1403
+Agavägen 80 lgh 1403
+Surbrunnsgatan 48 lgh 1402
+Fridhemsgatan 2A lgh 1002
+Verkstadsskolevägen 26B lgh 1002
+Söderdalsgatan 18 lgh 1002
+Harpsundsvägen 103 lgh 1103
+Årgångsgatan 1 lgh 2003
+Granitvägen 5C lgh 1002
+Folkungagatan 21A lgh 1102
+Stora Torget 2 lgh 1601
+Allbotorget 3A lgh 1101
+Virdavägen 1A lgh 1102
+Majorsallén 42E lgh 1001
+Korstavägen 13 lgh 1201
+Rådsvägen 5E lgh 1101
+Pennygången 13 lgh 1102
+Krukmakargatan 35E lgh 1301
+Vänortsvägen 3B lgh 1001
+Breda Vägen 12 lgh 1302
+Falkgatan 16F lgh 1001
+Tredje Tvärgatan 11C lgh 1601
+Blomgatan 3 lgh 1101
+Agnesfridsvägen 63 lgh 1201
+Fleminggatan 27B lgh 1203
+Tiundagatan 48B lgh 1101
+Carl Krooks Gata 50 lgh 1201
+Kristinelundsgatan 9A lgh 1202
+Spjutvägen 8 lgh 1302
+Lidnersgatan 37 lgh 1403
+Sveavägen 70 lgh 1102
+Nygårdsvägen 2 lgh 1207
+Hallandsgatan 24 lgh 1001
+Hauptvägen 76 lgh 1102
+Kjellbergsgatan 6A lgh 1002
+Fjällveronikan 3 lgh 1503
+Olof Den Heliges Väg 36 lgh 1002
+Eddagatan 8 lgh 1303
+Prästallén 4B lgh 1301
+Skogsvägen 18 lgh 1505
+Dalvägen 3D lgh 1204
+Kungsgatan 15 lgh 1304
+Varbergagatan 195 lgh 1002
+Jacobs Gränd 16C lgh 1303
+Nystadsgatan 7 lgh 1301
+Eriksbo Östergärde 11 lgh 1201
+Läkarvägen 5F lgh 1303
+Allégatan 53 lgh 1201
+Östra Parkgatan 4 lgh 1003
+Adelsö Ringväg 272 lgh 1001
+Mårdtorpsgatan 7 lgh 1001
+Hornsgatan 41 lgh 1302
+Strandgatan 4A lgh 1401
+Föreningsgatan 167B lgh 1301
+Karolingatan 30 lgh 1101
+Anneforsvägen 52 lgh 1001
+Safirgatan 13 lgh 1002
+Bergsgränd 11B lgh 1203
+Johan Enbergs Väg 48A lgh 1602
+1:a Villagatan 5 lgh 1101
+Kobjersvägen 7 lgh 1101
+Osarps Hall 104 lgh 1001
+Hållsätrabacken 10 lgh 1202
+Hamngatan 4 lgh 1303
+Wollmar Yxkullsgatan 40 lgh 1103
+Wollmar Yxkullsgatan 7 lgh 1401
+Hasselbacken 43 lgh 1001
+Larsbergsvägen 40 lgh 1301
+Skeppar Karls Gränd 4 lgh 1204
+Törnrosvägen 32 lgh 1101
+Wendela Hebbes Gata 14 lgh 1301
+Blasius Königsgatan 30F lgh 0902
+Stavangergatan 48 lgh 1101
+Idrottsvägen 6 lgh 1001
+Hagelvägen 8 lgh 1302
+Doktor Enwalls Väg 25A lgh 1103
+Östra Ansgarigatan 96 lgh 1102
+Källvägen 18B lgh 1003
+Upplandsgatan 59 lgh 1401
+Humlestigen 31 lgh 1202
+Drottninggatan 58A lgh 1402
+Ekgatan 2A lgh 1101
+Pontonjärgatan 1 lgh 1008
+Lundagatan 42A lgh 1005
+Tunhemsvägen 54 lgh 1002
+Drottning Kristinas Väg 62B lgh 1302
+Resebro Gård 5 lgh 1001
+Vänortsringen 25 lgh 1104
+Nålsnäcksgränd 10 lgh 1302
+Skivsjö 48 lgh 1001
+Inglatorps Gård 1 lgh 1001
+Skäggetorps Centrum 10 lgh 1210
+Törnrosgatan 71 lgh 1202
+Vinjegatan 17 lgh 1001
+Gösta Berlings Väg 10 lgh 1102
+Floragatan 2 lgh 1502
+Gamla Värmdövägen 11 lgh 1203
+Paradisgatan 19 lgh 1301
+Gransbo Gård 1 lgh 1001
+Vanadisplan 5 lgh 1101
+Nygatan 10 lgh 1001
+Lillövägen 4 lgh 1103
+Torsgränd 32 lgh 1301
+Storgatan 11C lgh 1202
+Frödingsvägen 8 lgh 1305
+Varmblodsgatan 3B lgh 1002
+Jarlvägen 2A lgh 1201
+Lappfogdegatan 1B lgh 1401
+Bergsgatan 21A lgh 1402
+Vilbergsgatan 123 lgh 1001
+Katarina Bangata 48 lgh 1601
+Sandhamnsgatan 79 lgh 1202
+Maria Prästgårdsgata 12 lgh 1102
+Kornettgatan 13D lgh 1201
+Artillerigatan 8 lgh 1401
+Victoriavägen 32 lgh 1003
+Mellanvångsvägen 9 lgh 1401
+Klockgjutaregatan 4 lgh 1101
+Breda Gatan 12A lgh 1002
+Timmermansgatan 7H lgh 1101
+Einar Olssons Gata 14C lgh 1004
+Söderberga Gårdsväg 29 lgh 1107
+Sickla Kanalgata 93 lgh 1501
+S:t Persgatan 31 lgh 1003
+Tältvägen 27A lgh 1202
+Hårds Väg 2D lgh 1102
+Lötgårdarna 20 lgh 1102
+Hamngatan 2 lgh 1502
+Höglundavägen 19 lgh 1501
+Köpmangatan 17 lgh 1101
+Älvsborgsgatan 15F lgh 1201
+Konsistoriegatan 15 lgh 1101
+Österled 25A lgh 1103
+Rönnebergavägen 47A lgh 1002
+Sandstensbacken 41 lgh 1204
+Tegnérgatan 23 lgh 1101
+Kvarngatan 8A lgh 1101
+Södra Staketgatan 42 lgh 1103
+Kapellgränd 2A lgh 1201
+Ringvägen 9A lgh 1303
+Bennets Väg 26 lgh 1003
+Adolf Andersohnsgatan 5C lgh 1203
+Bergavägen 25F lgh 1001
+Segersjövägen 39 lgh 1202
+Verkmästargatan 2B lgh 1202
+Tussmötevägen 130 lgh 1202
+Fredrik Bööks Väg 12 lgh 1601
+Gamla Värmdövägen 11 lgh 1302
+Däldvägen 20 lgh 1001
+Pionjärgatan 62 lgh 1102
+Skäcklingevägen 99 lgh 1101
+Tunadalsgatan 30B lgh 1102
+Norra Kapellgatan 4A lgh 1003
+Bengt Färjares Väg 32 lgh 0903
+Rabattvägen 36 lgh 1205
+Johan Enbergs Väg 11 lgh 1803
+Bohusgatan 22 lgh 1301
+Järnlundsvägen 1 lgh 1001
+Hov 114 lgh 1001
+Etsarvägen 2 lgh 1501
+Rådhusgatan 124 lgh 1101
+Eskilstunavägen 7 lgh 1102
+Murbergsvägen 28 lgh 1202
+Storgatan 55 lgh 1204
+Fjärde Tvärgatan 60B lgh 1201
+Malmbergsvägen 1A lgh 1103
+Artillerigatan 20 lgh 1103
+Kopparvägen 27 lgh 1303
+Magasinsgatan 3A lgh 1101
+Turistvägen 68 lgh 1001
+Furugatan 7 lgh 1101
+Vinkelvägen 6D lgh 1101
+Risslersgatan 15 lgh 1103
+Arnön Hovlanda 210 lgh 1001
+Larslundavägen 10A lgh 1201
+Poppelvägen 17 lgh 1101
+Götgatan 22B lgh 1201
+Långgårdsgatan 6 lgh 1204
+Räkstigen 46D lgh 1101
+Revingegatan 2A lgh 1204
+Fållnäs 11 lgh 1001
+Prästgårdsängen 16 lgh 1901
+Gärdesgatan 3 lgh 1101
+Råggatan 13 lgh 1301
+Kopparvägen 53B lgh 1001
+Fågelbärsvägen 2C lgh 1005
+Sörgårdsgatan 36 lgh 1002
+Nygatan 2B lgh 1101
+Mariedalsvägen 49B lgh 1203
+Skrinnarvägen 14 lgh 1101
+Arkösundsvägen 531 lgh 1001
+Kabeluddsvägen 4 lgh 1003
+Björkplan 2K lgh 1001
+Hallvägen 2C lgh 0901
+Åvägen 6 lgh 1101
+Landalagången 11 lgh 1303
+Burströmsvägen 84 lgh 1001
+Marknadsvägen 1 lgh 1001
+Guldåkerstorget 2B lgh 1302
+Hjälmsätersgatan 22L lgh 1102
+Norra Strandgatan 11 lgh 1106
+Drillstigen 4A lgh 1202
+Mycklevägen 114 lgh 1001
+Ekkällevägen 2A lgh 1103
+Bergkullevägen 295 lgh 1201
+Rännövägen 26 lgh 1001
+Holbergsgatan 156 lgh 1001
+Bergsgatan 14 lgh 1202
+Örnbacken 14 lgh 1103
+Gustav Clasons Gata 8 lgh 1002
+Tjärhovsgatan 54 lgh 1401
+Dalgårdsgatan 9C lgh 1201
+Dalagatan 25 lgh 1102
+Lundbovägen 21A lgh 1201
+Frejgatan 61A lgh 1213
+Torgvägen 12A lgh 1003
+Berguvsgatan 2B lgh 1301
+Annedalsvägen 41 lgh 1003
+Silverdalsvägen 33 lgh 1301
+Husingeplan 34 lgh 1203
+Älggatan 7 lgh 1104
+Markgatan 21 lgh 1103
+Bo Bergmans Gata 5 lgh 1201
+Vikingagatan 100D lgh 1202
+Algatan 2 lgh 1201
+Bankvägen 3D lgh 1001
+Sveavägen 139 lgh 1501
+Skånegatan 93 lgh 1502
+Östra Ringgatan 26 lgh 1301
+Tylögränd 5 lgh 1002
+Hummelgatan 4 lgh 1001
+Rubinvägen 4 lgh 1001
+Lurendrejaregränd 1 lgh 1009
+Kaskögatan 28 lgh 1101
+Gunnarskogsgatan 10 lgh 1204
+Pumpmakargränd 1 lgh 1106
+Wivalliusgatan 21 lgh 1401
+Karl Johansgatan 47G lgh 1606
+Kung Hans Väg 13 lgh 1212
+Vitmåragatan 8 lgh 1101
+Flarkavägen 8 lgh 1001
+Nilssonsberg 1 lgh 1201
+Gröna Gatan 18 lgh 1105
+Astrid Lindgrens Väg 2A lgh 1401
+Hertig Karls Allé 73A lgh 1001
+Lantmannagatan 10D lgh 1102
+Arbetarvägen 3 lgh 1101
+Karlsgårdsvägen 26 lgh 1001
+Prinsgatan 8B lgh 1001
+Stinsvägen 1 lgh 1101
+Storgatan 19 lgh 1201
+Affärsgatan 14C lgh 1101
+Generalsgatan 6 lgh 1001
+Kyrkogatan 37 lgh 1201
+Bagargatan 18 lgh 1101
+Sävstaholmsvägen 32A lgh 1102
+Mandelstensvägen 91 lgh 1102
+Postvägen 91 lgh 1101
+Melodislingan 10 lgh 1503
+Blåsebergavägen 11 lgh 1101
+Ådalsgatan 8A lgh 1001
+Tuvullsgränd 4B lgh 1001
+Hyttgatan 48A lgh 1303
+Karlavägen 64B lgh 1502
+Götgången 116B lgh 1001
+Selma Lagerlöfsgatan 7 lgh 1001
+Bondegatan 44A lgh 1202
+Gribbylunds Torg 2A lgh 1102
+Delsjögatan 6 lgh 1405
+Vattenverksvägen 5 lgh 1201
+Åmänningevägen 34 lgh 1001
+Ystadsvägen 140 lgh 1202
+Farstavägen 66 lgh 1208
+Maria Skolgata 77B lgh 1503
+Valhallavägen 52 lgh 1101
+Tunnlandsvägen 85 lgh 1304
+Kolsyregatan 20 lgh 1404
+Linnégatan 70 lgh 1202
+Annerovägen 2A lgh 1001
+Vestagatan 11 lgh 1501
+Vintervägen 8 lgh 1001
+Periodgången 7 lgh 1104
+Gördelmakargatan 3 lgh 1201
+Broslättsgatan 21 lgh 1501
+Nytorgsgatan 23B lgh 1303
+Ljuskärrsvägen 21 lgh 1002
+Vänortsstråket 1B lgh 1201
+Bredgränd 7 lgh 1402
+Vanadisvägen 6 lgh 1103
+Glasbruksgatan 36 lgh 1302
+Ålgrytevägen 37 lgh 1101
+Wrangelsgatan 22 lgh 1201
+Nässelvägen 1 lgh 1001
+Kristoffer Huldts Väg 4 lgh 1502
+Beritta Gurrisgatan 1C lgh 1301
+Widellsgatan 2A lgh 1204
+Älvgatan 43 lgh 1101
+Musikantvägen 2A lgh 1002
+Karlavägen 27A lgh 1201
+Tuvgatan 50 lgh 1101
+Örnstigen 27 lgh 1001
+Katrineholmsvägen 4 lgh 1302
+Gustaf Kjellbergs Väg 32 lgh 1102
+De Geersgatan 16 lgh 1402
+Schlytersvägen 63 lgh 1002
+Svartviksvägen 8 lgh 1204
+Ammonitgatan 6C lgh 1201
+Stora Mossens Backe 6 lgh 1202
+Säbygatan 22B lgh 1102
+Tage Erlanders Väg 51 lgh 1003
+Örbäcksvägen 8B lgh 1202
+Sankt Olofsgatan 18 lgh 1102
+Norrbygatan 23 lgh 1001
+Västra Storgatan 59 lgh 1101
+Kungsgårdsvägen 10 lgh 1002
+Skolgatan 8 lgh 1102
+Ekedalsgatan 49C lgh 1202
+Sergeantgatan 24 lgh 1202
+Eliegatan 5 lgh 1403
+Ängevägen 7 lgh 1001
+Årstavägen 95 lgh 1002
+Mjälarydsvägen 5 lgh 1001
+Kindstugatan 7 lgh 1202
+Norra Gubberogatan 8 lgh 1201
+Husbyvägen 21 lgh 1002
+Gustav Clasons Gata 2 lgh 1101
+Ältavägen 202 lgh 1304
+Sturevägen 12A lgh 1003
+Stationsvägen 29 lgh 1203
+Inteckningsvägen 17H lgh 1203
+Kvällsvägen 8 lgh 1702
+Frösövägen 11 lgh 1102
+Bollmoravägen 160 lgh 1101
+Borganäsvägen 7 lgh 1102
+Kengisgatan 14B lgh 1101
+Ryttargatan 12 lgh 1103
+Hälsinggårdsvägen 13B lgh 1101
+Ångaren Indias Gata 6 lgh 1301
+Parkgatan 18 lgh 1401
+Solskenet 3D lgh 1201
+Oppundavägen 9 lgh 1102
+Västra Egnahemsgatan 1 lgh 1102
+Trekungagatan 1 lgh 1101
+Emågatan 28 lgh 1102
+Stallgatan 5A lgh 1101
+Gjuterigatan 9 lgh 1001
+Ynglingagatan 6 lgh 1001
+Stationsgatan 9C lgh 1202
+Ängsvägen 1 lgh 1001
+Göteborgsvägen 14B lgh 1001
+Sankt Eriksgatan 25A lgh 1201
+Tulpanvägen 6C lgh 1201
+Artillerigatan 40 lgh 1001
+Fredrik Bööks Väg 13 lgh 1303
+Södra Grev Rosengatan 56A lgh 1403
+Magnus Ladulåsgatan 37 lgh 1501
+Brånåsvägen 13 lgh 1101
+John Ericssonsgatan 11B lgh 1602
+Långhalsvägen 11 lgh 1003
+Sankt Jörgens Allé 3 lgh 1101
+Kuratorvägen 10 lgh 1903
+Rosenvägen 39 lgh 1002
+Norra Vallgatan 17A lgh 1001
+Södra Allén 28C lgh 1001
+S:t Persgatan 33 lgh 1101
+Hässleholmsvägen 8 lgh 1502
+Kapplandsgatan 44 lgh 1203
+Idrottsgatan 11 lgh 1101
+Järnbärarvägen 16 lgh 1402
+Hejdegatan 46 lgh 1003
+Domaregatan 1C lgh 1101
+Frödingvägen 7 lgh 1003
+Gymnasistgatan 9C lgh 1202
+Södra Jordbrovägen 112 lgh 1001
+Juryvägen 75 lgh 1102
+Kvarnbacken 46 lgh 0604
+Ferkens Gränd 6 lgh 1201
+Södra Fogdelyckegatan 40 lgh 1202
+Hamnvägen 7 lgh 1101
+Stora Nydala Allé 15 lgh 1001
+Mellanvägen 1C lgh 1003
+Regnstigen 14 lgh 1201
+Vretgatan 19 lgh 1001
+Wivalliusgatan 17 lgh 1403
+Kustroddaregatan 40 lgh 1202
+Västmannagatan 41 lgh 1601
+Sankt Albans Väg 2 lgh 1101
+Hillerödsgränd 7 lgh 1001
+Tornhagsvägen 18 lgh 1001
+Garvaregatan 6B lgh 1102
+Långgatan 49 lgh 1001
+Kungsvägen 13 lgh 1502
+Bångvägen 54 lgh 1101
+Hantverkaregatan 28B lgh 1102
+Gråstensvägen 21 lgh 1301
+Verkmästargatan 27C lgh 1101
+Krukmakargatan 12 lgh 1503
+Miraallén 43 lgh 1302
+Brynjegatan 19 lgh 1202
+Sagovägen 1 lgh 0901
+Molnvädersgatan 30 lgh 1402
+Vasagatan 16C lgh 1301
+Elisetorpsvägen 17E lgh 1103
+Hanstavägen 92 lgh 1104
+Sköndalsvägen 116 lgh 1402
+Sibyllegatan 53 lgh 1301
+Norra Knoopgatan 1 lgh 1201
+Otto Myrbergs Väg 14 lgh 1101
+Kopparvägen 49B lgh 0901
+Brahegatan 33A lgh 1104
+Råssnäsvägen 15G lgh 1001
+Oskarsvägen 7B lgh 1001
+Platåvägen 29 lgh 1102
+Alhagsvägen 44 lgh 1201
+Algatan 19 lgh 1202
+Bohusgatan 13 lgh 1203
+Gnistgatan 7B lgh 1204
+Mårbackavägen 11B lgh 1001
+Lasarettsvägen 3 lgh 0902
+Kobbegården 49 lgh 1102
+Filipstadsbacken 42 lgh 1603
+Svärdsjövägen 238 lgh 1001
+Smålandsgatan 8 lgh 1001
+Mariehemsvägen 152 lgh 1101
+Hjortvägen 39 lgh 1001
+Fredsgatan 25B lgh 1002
+Hissjövägen 34 lgh 1203
+Torphyttan 207 lgh 1101
+Slåttervägen 2 lgh 1203
+Ankdammsgatan 27 lgh 1502
+Kyrkbyvägen 9 lgh 1101
+Södra Strandvägen 2A lgh 1102
+Almgatan 1A lgh 1002
+Norra Ersmarksgatan 39 lgh 1001
+Åsgärdevägen 47 lgh 1104
+Björksundsslingan 41 lgh 1102
+Nygatan 5B lgh 1202
+Radarvägen 1 lgh 1801
+Sturehillsvägen 25 lgh 1302
+Södra Vägen 2 lgh 1301
+Hästhagsgatan 27 lgh 1001
+Älgpassgatan 16 lgh 1301
+Kometvägen 57 lgh 1302
+Sandalmakarbacken 21 lgh 1104
+Ångermannagatan 114 lgh 1002
+Gästgivargränd 11 lgh 1203
+Skolgatan 11A lgh 1104
+Jungfrugatan 64 lgh 1505
+Eknäsgatan 1A lgh 1201
+Onkel Adams Väg 16 lgh 1202
+Ringvägen 98 lgh 1303
+Kvarnbergsvägen 22 lgh 1301
+Seminariegatan 6A lgh 1001
+Bergslagsvägen 13 lgh 1002
+Sunne-Svedje 151 lgh 1001
+Jacob Trahnsgatan 9 lgh 1102
+Esplanaden 9A lgh 1101
+Vijvägen 33I lgh 1101
+Mellanvägen 2C lgh 1101
+Centrumvägen 9 lgh 1002
+Seminariegatan 6A lgh 1101
+Odenskogsvägen 82 lgh 1405
+Fågelstavägen 29 lgh 1203
+Getekullsvägen 26 lgh 1001
+Vasagatan 12B lgh 1603
+Fastlagsvägen 4 lgh 1101
+Artillerigatan 97 lgh 1101
+Färgargårdstorget 80 lgh 1101
+Kyrkvägen 11 lgh 1101
+Södra Vägen 46 lgh 0901
+Lanternavägen 8 lgh 1202
+Svarvarvägen 98 lgh 1101
+Ringgatan 29A lgh 1001
+Finnboda Parkväg 14B lgh 1403
+Ringvägen 26 lgh 1102
+Sandbackavägen 32E lgh 1001
+Valörvägen 56 lgh 1103
+Kaserngatan 83 lgh 1201
+Genvägen 9A lgh 1101
+Porsnäsvägen 27 lgh 1001
+Slånbärsvägen 5 lgh 1604
+Kopparvägen 23 lgh 1601
+Stavre 413 lgh 1001
+Trädgårdsgatan 11B lgh 1003
+Engelbrektsgatan 20 lgh 1001
+Albinsrogatan 43 lgh 1002
+Norrgatan 24 lgh 1213
+Diagnosvägen 5D lgh 1601
+Liljeörnsgränd 3 lgh 1001
+Katarina Bangata 73 lgh 1403
+Askängsbacken 56 lgh 1305
+Vilhelmsgatan 33D lgh 1001
+Öster Mälarstrands Allé 119 lgh 1101
+Smedjegatan 26 lgh 1502
+Vinkelgränd 3 lgh 1405
+Slättadammsgatan 7D lgh 1201
+Kamrergatan 2B lgh 1101
+Stationsgatan 25B lgh 1101
+Bryggartorpsgatan 8 lgh 1202
+Broängsvägen 2 lgh 1001
+Sibeliusgången 14 lgh 1305
+Redargatan 8 lgh 1203
+Husarvägen 15 lgh 1302
+Västra Torggatan 1 lgh 1103
+Alftavägen 8A lgh 1103
+Smedsgatan 13B lgh 1003
+Ångloksgatan 8A lgh 1202
+Södra Storgatan 24 lgh 1001
+Storgatan 91 lgh 1101
+Odengatan 4 lgh 1202
+Jungfrudansen 11 lgh 1305
+Björksätersgatan 9 lgh 1102
+Stigbergsplan 7 lgh 1705
+Harmonigatan 6B lgh 0902
+Sockenplan 376 lgh 1202
+Jungs Väg 18B lgh 1103
+Kocksgatan 32 lgh 1201
+Kungsholmstorg 11 lgh 1301
+Bågevägen 95B lgh 1203
+Gustaf Wickmansgatan 1A lgh 1202
+Sundsvägen 16A lgh 1001
+Brännkyrkagatan 45 lgh 1103
+Polhemsgatan 20 lgh 1201
+Svarvargatan 12 lgh 1103
+Oriongatan 5A lgh 1101
+Schouggatan 10A lgh 1201
+Bjäregatan 35 lgh 1301
+Granlidsvägen 5 lgh 1001
+Kvillgränd 8 lgh 1101
+Jungfruvägen 3B lgh 1001
+Centrumgatan 3 lgh 1001
+Elevatorvägen 2A lgh 1004
+Tornhagsvägen 1 lgh 1101
+Norsälvsvägen 9B lgh 1001
+Dikesvägen 7B lgh 1002
+Bergsgatan 21 lgh 1202
+Sjöfartsgatan 10 lgh 1001
+Tegnérsgatan 11D lgh 1101
+Tellusvägen 12 lgh 1101
+Gotlandsgatan 47 lgh 1202
+Bangatan 4C lgh 1401
+Klockarvägen 99 lgh 1705
+Wivalliusgatan 19 lgh 1103
+Malmvägen 2B lgh 1303
+Dunkehallavägen 37A lgh 1101
+Bryggartorpsgatan 6 lgh 1503
+Vasavägen 86 lgh 1002
+Snickaregatan 5B lgh 1001
+Karl Dahlgrensgatan 37 lgh 1202
+Kristinehamnsgatan 6 lgh 1202
+Soldatgatan 21 lgh 1202
+Norra Hamngatan 10 lgh 1301
+Stockrosgatan 39 lgh 1003
+Klöverstigen 2C lgh 1201
+Trollgatan 4 lgh 1402
+Brogatan 1 lgh 1202
+Östgötagatan 63 lgh 1602
+Ringvägen 143 lgh 1302
+Bokvägen 5A lgh 1102
+Nydalavägen 89 lgh 1101
+Tolvmilavägen 129 lgh 1101
+John Ericssonsgatan 16 lgh 1205
+Gammelvägen 7 lgh 1101
+Kungsgårdsvägen 6B lgh 1001
+Centralvägen 7 lgh 1102
+Skrinnarvägen 2 lgh 1203
+Virebergsvägen 3 lgh 1701
+Gondolgatan 7 lgh 1001
+Kungsgatan 13 lgh 1601
+Diagnosvägen 3D lgh 1102
+Plankgatan 14 lgh 1201
+Östra Raden 7 lgh 1002
+Södergatan 24 lgh 1101
+Domherregränd 12 lgh 1003
+Gamla Faluvägen 15 lgh 1001
+Eriksdalsgatan 26 lgh 1003
+Sergeantsgatan 10E lgh 1101
+Trädgårdsgatan 4B lgh 1101
+Söderdalsgatan 18 lgh 1001
+Ringvägen 57D lgh 0901
+Skansvägen 3B lgh 1002
+Holmsgatan 11 lgh 1001
+Norregatan 21 lgh 1103
+Hospitalsgatan 7 lgh 1103
+Tallbacksvägen 8D lgh 0902
+Dagsbergsvägen 2 lgh 1405
+Köpmansgatan 1A lgh 1302
+Hedgatan 13 lgh 1101
+Ynglingagatan 8 lgh 1103
+Kristinagatan 10 lgh 1001
+Svenljungavägen 1C lgh 1102
+Gnejsvägen 22 lgh 1206
+Senapsgatan 15 lgh 1002
+Lodstigen 2 lgh 1103
+Fästningen 8 lgh 1001
+Långgatan 2E lgh 1203
+Herrhagsvägen 27 lgh 1004
+Hammarvägen 13D lgh 1203
+Planteringsvägen 22 lgh 1203
+Edestavägen 12 lgh 1202
+Skolgatan 15 lgh 1101
+Domängatan 19A lgh 1101
+Bolagsvägen 32B lgh 1102
+Karlsgatan 12A lgh 1101
+Bäckgatan 7C lgh 1001
+Tullingsås 520 lgh 1101
+Bellmansgatan 164 lgh 1302
+Mellangatan 11A lgh 1201
+Järnvägsgatan 32A lgh 1201
+Storgatan 20 lgh 0902
+Signalgatan 12B lgh 1302
+Storgatan 82 lgh 1001
+Vidblicksgatan 9 lgh 1301
+Sjöblads Väg 27 lgh 1703
+Brunnsgatan 1C lgh 1201
+Stensövägen 50 lgh 1102
+Kabingatan 4C lgh 1204
+Liavägen 14 lgh 1101
+Grevegårdsvägen 18 lgh 1202
+Repslagaregatan 39 lgh 1201
+Hjalmar Söderbergs Väg 16D lgh 1201
+Producentgatan 5 lgh 1201
+Stora Sällskapets Väg 52 lgh 1401
+Trondheimsgatan 3 lgh 1813
+Hovslagaregatan 3B lgh 1001
+Loftbodsgatan 18 lgh 1301
+Kung Hans Väg 13 lgh 1112
+Södra Agnegatan 22 lgh 1104
+Verkmästaregatan 9 lgh 1203
+Tegelvägen 3E lgh 1102
+Ålgrytevägen 139 lgh 1401
+Kulladalsgatan 12B lgh 1703
+Frans G Bengtssons Väg 8 lgh 1401
+Sörgårdsgatan 20 lgh 1202
+Alphyddevägen 9 lgh 2001
+Djurgårdsgatan 25A lgh 1103
+Bennets Väg 39 lgh 1403
+Dalagatan 6C lgh 1001
+Nymånegatan 23 lgh 1002
+Karlavägen 4 lgh 1101
+Munkhättegatan 216 lgh 1201
+Bergslagsgatan 28 lgh 1102
+Sveagatan 34 lgh 1001
+Stjärnsundsgatan 29 lgh 1103
+Dalgatan 11 lgh 1201
+Ålgrytevägen 105 lgh 1302
+Bjursätragatan 73 lgh 1202
+Ängsvägen 17A lgh 1302
+Fasanvägen 2B lgh 1203
+Brogatan 9 lgh 1201
+Viveka Trolles Gränd 17 lgh 1101
+Varbergagatan 42 lgh 1301
+Nipuddsvägen 14 lgh 1102
+Ekholmsvägen 102 lgh 1204
+Rävekärrsgatan 5 lgh 1103
+Lillängsvägen 8C lgh 1203
+Väderleksvägen 2A lgh 1304
+Sundsvik 1B lgh 1101
+Gymnasistgatan 1B lgh 1201
+Skaragatan 7 lgh 1303
+Kammakargatan 18 lgh 1103
+Kyrkogatan 20 lgh 1001
+Mörmovägen 14B lgh 1102
+Von Rosens Väg 18 lgh 1102
+Allmänna Vägen 52A lgh 1202
+Lillhagsvägen 36 lgh 1002
+Folkungavägen 26 lgh 1201
+Olshammarsgatan 29 lgh 1602
+Bellmansgatan 122 lgh 1001
+Köpmangatan 28 lgh 1304
+Sockenvägen 6G lgh 1002
+Rullstensvägen 12 lgh 1204
+Wetterlinsgatan 26C lgh 1201
+Engelbrektsgatan 7 lgh 1102
+Axtorpsvägen 3 lgh 1308
+Uttervägen 5B lgh 1101
+Pildammsvägen 12 lgh 1301
+Storgatan 38 lgh 1404
+Boängsvägen 33 lgh 1202
+Klippgatan 14I lgh 1202
+Fänkålsgatan 7 lgh 1004
+Birkagatan 10 lgh 1902
+Forvägen 7 lgh 1404
+Kapellgatan 12 lgh 1102
+Stenbockens Gata 114 lgh 1002
+Observatoriebacken 1 lgh 1001
+Kungsgatan 10 lgh 1101
+Steken 2B lgh 1001
+Kåserigatan 5 lgh 1202
+Vallgatan 18B lgh 1002
+Hasselgatan 17 lgh 1002
+Läkarvägen 10 lgh 1904
+Staffansgatan 3B lgh 1204
+Runby Torg 9 lgh 1110
+Predikantgatan 18 lgh 1006
+Järnvägsgatan 1 lgh 1101
+Badhusgatan 4 lgh 1203
+Hellbergs Väg 18A lgh 1002
+Syavägen 7 lgh 1202
+Heimdalsgatan 7 lgh 1201
+Vasagatan 12B lgh 1001
+Idrottsgatan 5 lgh 1308
+Kallskärsgatan 5 lgh 1203
+Åsgatan 5B lgh 1102
+Dalarövägen 40 lgh 1102
+Fredrik Bööks Väg 13 lgh 1405
+Forsbackavägen 11 lgh 1401
+Götagatan 6 lgh 1001
+Bastugatan 5 lgh 1202
+Dalgatan 37 lgh 1101
+Regementsgatan 31 lgh 1102
+Lövstagatan 16 lgh 1102
+Hyttgatan 11B lgh 1602
+Sägengatan 66 lgh 1202
+Badstrandsvägen 1 lgh 1104
+Brunnsgatan 35B lgh 1101
+Dalslundsgatan 2 lgh 1001
+Spårgatan 9A lgh 1102
+Pepparvägen 64 lgh 1101
+Bildradiogatan 8B lgh 1405
+Arkitektvägen 14 lgh 1102
+Västerled 16A lgh 1103
+Ringvägen 82 lgh 1107
+Kvarnabergsvägen 17B lgh 1101
+Stövelvägen 5 lgh 1201
+Vetlandavägen 31 lgh 1101
+Agensgatan 2B lgh 1202
+Silvergården 1A lgh 1301
+Berguvsgatan 2A lgh 1703
+Vendelsömalmsvägen 247 lgh 1005
+Kungsängsesplanaden 12D lgh 1503
+Skäggetorps Centrum 10 lgh 1306
+Gullmarsvägen 122 lgh 1201
+Mimergatan 2 lgh 1101
+Kungsfågelgatan 60 lgh 1002
+Järnvägsgatan 21 lgh 1806
+Esplanaden 16B lgh 1002
+Fleminggatan 68 lgh 1106
+Vallvägen 2B lgh 1101
+Örtagatan 6 lgh 1402
+Landbotorpsallén 5C lgh 1202
+Nydalavägen 152 lgh 1101
+Olaigatan 1A lgh 1301
+Bunkegatan 14 lgh 1001
+Järnvägsgatan 62A lgh 1101
+Tegelviksgatan 44 lgh 1201
+Lilla Bangårdsgatan 3 lgh 1104
+Hundhamravägen 68 lgh 1101
+Wilhelm Thams Väg 7 lgh 1203
+Österängsgatan 26 lgh 1301
+Östfjällvägen 11 lgh 1004
+Gränsvägen 20 lgh 1103
+Stavangergatan 9 lgh 1205
+Karl Dahlins Väg 18A lgh 1102
+Kyrkgatan 6 lgh 1101
+Brättevägen 18 lgh 1002
+Hyllegatan 4A lgh 1001
+Kamomillgränd 4 lgh 1001
+Älgerumsvägen 14B lgh 1102
+Rådmansgatan 2 lgh 1001
+Brandells Väg 14 lgh 1001
+Hästhovsgatan 5B lgh 1101
+Säbygatan 3 lgh 1105
+Västeråsgatan 8 lgh 1202
+Ringen 4B lgh 1502
+Hisingsgatan 22 lgh 1104
+Årstavägen 109 lgh 1002
+Tegnérsgatan 17 lgh 1701
+Forsbomsgatan 5B lgh 1301
+Lindölundsgatan 1 lgh 1502
+Sunnevägen 5 lgh 1101
+Dolomitvägen 82 lgh 1101
+Prästbolsgatan 13 lgh 1403
+Benvägen 18 lgh 1204
+Strandvägen 102B lgh 1001
+Allégatan 37 lgh 1101
+Norra Torlandsgatan 17C lgh 1003
+Tredje Tvärgatan 24D lgh 1301
+Parkgatan 20C lgh 1203
+Mjölkuddsvägen 143 lgh 1102
+Hårstagatan 8C lgh 1103
+Östra Storgatan 8 lgh 1304
+Övre Långvinkelsgatan 146B lgh 1003
+Förläggarevägen 25A lgh 1101
+Tomtebogatan 6A lgh 1102
+Edla Sofias Gata 14 lgh 1301
+Solhemsvägen 11 lgh 1001
+Orvars Väg 27 lgh 1102
+Peljevägen 11A lgh 1001
+Lasarettsvägen 3 lgh 1001
+Götgatan 8E lgh 1301
+Skolvägen 10H lgh 1002
+Teaterallén 12 lgh 1203
+Trädgårdsgatan 15 lgh 1102
+Ostindiefararen 45 lgh 1702
+Tomtebogatan 27 lgh 1201
+Gabrieljansvägen 2 lgh 1101
+Lumaparksvägen 1 lgh 1104
+Jordgatan 10 lgh 1203
+Storvretsvägen 56B lgh 1401
+Sjögatan 18 lgh 1316
+Torggatan 10 lgh 1001
+Bergsgatan 7 lgh 1102
+Toltorpsgatan 111 lgh 1303
+Gullmarsvägen 48 lgh 1101
+Fornhöjdsvägen 42 lgh 1503
+Tunastigen 91 lgh 1202
+Bjärkegatan 2C lgh 1101
+Andra Villagatan 8 lgh 1101
+Skeppargatan 14C lgh 1103
+Vallhamra Torg 4 lgh 2103
+Löftets Gränd 3 lgh 1304
+Aspsätravägen 16 lgh 1002
+Stockholmsvägen 24B lgh 1002
+Rafaelsgränd 2 lgh 1103
+Annexgatan 7 lgh 1305
+Parkvägen 46C lgh 1101
+Solhagagatan 78 lgh 1002
+Bangårdsgatan 56 lgh 1204
+Kungsängsgatan 19A lgh 1303
+Tornslingan 33 lgh 1206
+Krokvägen 5 lgh 1101
+Grindvägen 26A lgh 1102
+Johannesbergsgatan 8A lgh 1001
+Kungsgatan 29B lgh 1202
+Skogslyckegatan 90 lgh 1101
+Förråd 1 lgh 1101
+Markörgatan 24A lgh 1201
+Flöjtgatan 55 lgh 1003
+Travvägen 11 lgh 1101
+Södergatan 3 lgh 1001
+Fregattvägen 6 lgh 1001
+Dalviksringen 14 lgh 1603
+Sikrenovägen 2 lgh 1202
+Moragatan 18B lgh 1001
+Fjällvägen 28C lgh 1201
+Krouthéns Gata 3 lgh 1205
+Södra Järnvägsgatan 4P lgh 1201
+Sjötullsgatan 6 lgh 1104
+Köpmangatan 52B lgh 1101
+Kaptensvägen 21 lgh 1001
+Borensvägen 66 lgh 1202
+Lottgången 2 lgh 1102
+Rundeln 8B lgh 1201
+Nytorgsgatan 4 lgh 1105
+Dalarövägen 22 lgh 1002
+Ringgatan 41A lgh 1001
+Nygatan 38 lgh 1101
+Anna Koskulls Gata 3U lgh 1602
+Hagagatan 14B lgh 1202
+Skeppargatan 35 lgh 1301
+Åkarhagsgatan 6A lgh 1003
+Rådsvägen 2C lgh 1002
+Svartvägen 12 lgh 1101
+Målargränd 3J lgh 1501
+Tengvallsgatan 54 lgh 1001
+Noachsgatan 5A lgh 1104
+Gärdegatan 2C lgh 1203
+Upplandsgatan 59 lgh 1402
+Wärnsköldsgatan 7 lgh 1101
+Luntgatan 16 lgh 1101
+Knektegårdsgatan 7A lgh 1201
+Parkgatan 43A lgh 1101
+Näske 221 lgh 1001
+Kungsgatan 41A lgh 1101
+Seminariegatan 26 lgh 1001
+Liljeörnsgatan 33 lgh 1101
+Södra Strandvägen 24 lgh 1501
+Residensgatan 31 lgh 1101
+Grankvistgatan 9 lgh 1201
+Segelgatan 10 lgh 1003
+Rosenkällavägen 28F lgh 1003
+Östermalmsgatan 8 lgh 1102
+Karlavägen 38 lgh 1102
+Malmvägen 6B lgh 1101
+Erik Sandbergs Gata 23 lgh 1503
+Juliebögatan 2 lgh 1002
+Fristadstorget 10 lgh 1103
+Dockgatan 15 lgh 1002
+Arnäsvägen 56 lgh 1001
+Stadsnotariegatan 12 lgh 1101
+Hasselbacksgatan 10 lgh 1101
+Västmannagatan 53 lgh 1501
+Trumslagargatan 2B lgh 1103
+Västra Ringvägen 21A lgh 1301
+Vetegatan 9 lgh 1003
+Klövervägen 3A lgh 1002
+Solskensgatan 10 lgh 1103
+Dammgatan 1A lgh 1102
+Seminariegatan 11A lgh 1201
+Järnvägsgatan 7 lgh 1203
+Gamla Tyresövägen 312 lgh 1102
+Styrmansgatan 7A lgh 1102
+Skogsvägen 21B lgh 1002
+Toppsegelsgatan 23 lgh 1201
+Källhagsgatan 1D lgh 1002
+Drottninggatan 3C lgh 1201
+Garmakaregatan 41 lgh 1101
+Klostergatan 5C lgh 1102
+Meteorvägen 58 lgh 1101
+Övre Torekällgatan 21A lgh 1004
+Kolgatan 1 lgh 1001
+Margretelundsvägen 84 lgh 1302
+Agnesfridsvägen 21 lgh 1101
+Långgatan 1F lgh 1004
+Roliasgatan 14 lgh 1001
+Rönnebergavägen 3A lgh 1102
+Gullmarsvägen 9 lgh 1102
+Karlagatan 32C lgh 1003
+Klasrovägen 35A lgh 1201
+Helikoptervägen 6 lgh 1301
+Rissnavägen 3B lgh 1201
+Hökegatan 5 lgh 1101
+Östergatan 1C lgh 1002
+Tingstorget 1 lgh 1704
+Karlslundsgatan 2A lgh 1201
+Siöcronaplatsen 1B lgh 1002
+Lingvägen 193 lgh 1102
+Hertig Carls Allé 31 lgh 1001
+Bältartorpsgatan 8C lgh 1302
+Munkplan 4B lgh 1202
+Slånbärsvägen 2C lgh 1202
+Stora Trädgårdsgatan 20 lgh 1207
+Västra Bernadottesgatan 19 lgh 1001
+Norrbackagatan 43 lgh 1101
+Järnvägsgatan 18A lgh 1002
+Agavägen 27 lgh 1202
+Kummingatan 86 lgh 1002
+Fåborgsvägen 14A lgh 1102
+Trollesundsvägen 15D lgh 1207
+Stipendiegränd 10C lgh 1113
+Täljstensvägen 2B lgh 1101
+Hyacintgatan 27 lgh 1303
+S:t Persgatan 8 lgh 1201
+Bastugatan 1B lgh 1202
+Holmströmsgatan 6B lgh 1103
+Vingåkersvägen 39B lgh 1102
+Lobovägen 1 lgh 1303
+Lantmannagatan 11C lgh 1302
+Fredriksdalsvägen 5A lgh 1002
+Carl Malmstens Väg 8 lgh 1603
+Söndagsvägen 34 lgh 1001
+Norra Strandgatan 78 lgh 1301
+Adolf Mörners Plan 3 lgh 1501
+Hedlundsgatan 1 lgh 1002
+Hillerödsvägen 6A lgh 1201
+Strykerskevägen 1 lgh 1302
+Hornsgatan 2 lgh 1101
+Dalgatan 5A lgh 1101
+Mälltorpsgatan 5 lgh 0902
+Hagarydsgatan 21 lgh 1001
+Ostindiefararen 21 lgh 1301
+Prästgatan 18A lgh 1202
+Jakobsgatan 22A lgh 1203
+Lötsjövägen 6 lgh 1409
+Vintergatan 21C lgh 1201
+Grubbevägen 109 lgh 1001
+Småbåtsgatan 10H lgh 1101
+Viktor Rydbergsgatan 46 lgh 1404
+Ullerudsbacken 54 lgh 1901
+Värslevägen 39 lgh 1201
+Åkargränd 1 lgh 1506
+Vinddraget 7C lgh 1403
+Huskvarnavägen 108 lgh 1101
+Jägarevägen 16A lgh 1102
+Kullagergatan 4A lgh 1101
+Jupitervägen 37 lgh 1001
+Granbacksvägen 2C lgh 1404
+Skyttegatan 8 lgh 1101
+Södra Fogdelyckegatan 20B lgh 1404
+Vasavägen 48 lgh 1003
+Korpralsvägen 48A lgh 1002
+Roslagsgatan 31 lgh 1503
+Spelmansvägen 11 lgh 1101
+Hornsgatan 146B lgh 1501
+Kristinagatan 13 lgh 1301
+Herr Arnes Gata 8 lgh 1104
+Lärkvägen 14 lgh 1202
+Nydalavägen 119 lgh 1001
+Smedbygatan 2A lgh 1301
+Farstavägen 87 lgh 1604
+Sikvägen 9 lgh 1102
+Kiviksgatan 7C lgh 1001
+Fördelningsgatan 42 lgh 1001
+Näktergalsvägen 8C lgh 1401
+Herkulesgatan 26 lgh 1701
+Bergviksgatan 13 lgh 1102
+Norrtullsgatan 4A lgh 1203
+Odinslundsvägen 2A lgh 1102
+Rådmansgatan 4A lgh 1101
+Karlsdalsallén 40 lgh 1002
+Kansligränd 4 lgh 1302
+Fyrisvallsgatan 3B lgh 1102
+Mattssonsliden 20 lgh 1301
+Oktobergatan 11 lgh 1202
+Strandridaregatan 4A lgh 1102
+Skolgatan 22 lgh 1101
+Finn Malmgrens Plan 1 lgh 1201
+Biologigränd 24 lgh 1101
+Plutonsgatan 11 lgh 1301
+Tegelviksgatan 49 lgh 1201
+Kvarngatan 2 lgh 1201
+Lagerbrings Väg 4A lgh 1002
+Astrid Lindgrens Väg 6A lgh 1402
+Postiljonsvägen 22 lgh 1102
+Lysviksgatan 48 lgh 1202
+Rådhusgatan 28B lgh 1101
+Aschebergsgatan 19 lgh 1202
+Augustendalsvägen 24 lgh 1502
+Dragsgatan 1 lgh 1201
+Repslagargränd 2 lgh 1001
+Skiftesgatan 33D lgh 1102
+Sigurd Kochs Gata 22 lgh 1002
+Hallandsgatan 36 lgh 1102
+Klintvägen 39 lgh 1201
+Kungsgatan 79 lgh 1601
+Slottsbrovägen 78 lgh 1103
+Lina Sandells Plan 12 lgh 0902
+Stationsgatan 59B lgh 1102
+Tornérplatsen 30 lgh 1801
+Regementsgatan 20 lgh 1202
+Nygatan 30C lgh 1003
+Sandgatan 48 lgh 1001
+Västra Rävåsgatan 28B lgh 1001
+Gullregnsvägen 1 lgh 0902
+Tulegatan 33 lgh 1202
+Bockholmsvägen 6D lgh 1103
+Ringvägen 6 lgh 1101
+Ringvägen 43 lgh 1201
+Storgatan 7A lgh 1102
+Högalidsgatan 13 lgh 1001
+Linnégatan 18 lgh 1102
+Kortedala Torg 6B lgh 1001
+Ulvsbygatan 4B lgh 1101
+S:t Pauligatan 12 lgh 1001
+Repslagarevägen 6 lgh 1101
+Riksdalersgatan 8B lgh 1304
+Skarpskyttevägen 26D lgh 1001
+Lastagegatan 2A lgh 1001
+Svampskogsvägen 11 lgh 1001
+Lagmansgatan 46F lgh 1001
+Tjärhovsgatan 18 lgh 1401
+Köpmansgränd 5 lgh 1103
+Grangatan 4 lgh 1001
+Sågargatan 4A lgh 1301
+Vrenavägen 20 lgh 1002
+Föllingebacken 21 lgh 1001
+Långströmsgatan 36C lgh 1202
+Centrumgatan 2 lgh 1101
+Viktor Rydbergsgatan 42 lgh 1501
+Alamedan 9C lgh 1101
+Runstenstorget 4 lgh 2109
+Svetsarvägen 25 lgh 1103
+Frejgatan 101 lgh 1402
+Rektorsgatan 36B lgh 1104
+Gässlingavägen 15A lgh 1102
+Huldrastigen 6 lgh 1101
+Ekenäsgatan 2 lgh 1302
+Varbergagatan 45 lgh 1201
+Bryggvägen 7 lgh 1105
+Norrbölegatan 32 lgh 1101
+Hägerstensvägen 100 lgh 1101
+Boregatan 9A lgh 1002
+Blomstergatan 10 lgh 2002
+Snevringevägen 60 lgh 1102
+Stackbovägen 53 lgh 1001
+Gullmarsvägen 2 lgh 1602
+Solbergsgatan 14A lgh 1001
+Brogatan 30 lgh 1101
+Villagatan 8 lgh 1003
+Linnégatan 3 lgh 1103
+Fruängsgatan 29 lgh 1201
+Bangårdsgatan 11B lgh 1003
+Lövliden 24 lgh 1002
+Varbergagatan 215 lgh 1202
+Helleforsgatan 5B lgh 1301
+Storgatan 42E lgh 1202
+Hidingen 108 lgh 1101
+Tomtebogatan 3A lgh 1502
+Statsrådsvägen 11 lgh 1004
+Varbro Gamla Skolan lgh 1001
+Eriksdalsgatan 9B lgh 1403
+Kungsgatan 2B lgh 1102
+Tåhättevägen 8 lgh 1202
+Kopparvägen 51 lgh 1803
+Dalgårdsgatan 2B lgh 1001
+Vårholmsbackarna 52 lgh 1201
+Anna Koskulls Gata 3K lgh 1201
+Jullavägen 6 lgh 1101
+Åsvägen 105 lgh 0901
+Nils Åhlins Väg 1 lgh 1101
+Tideräkningsgatan 36 lgh 1102
+Bangatan 31 lgh 1601
+Sandhamnsgatan 39 lgh 1602
+Sjöviksbacken 5 lgh 2803
+Finnboda Kajväg 13A lgh 1301
+Liljeholmstorget 86 lgh 1401
+Byälvsvägen 36 lgh 1403
+Götgatan 69 lgh 1303
+Kungsholms Strand 163 lgh 1201
+Norra Gubberogatan 15 lgh 1303
+Bohnstedts Väg 3B lgh 1101
+Sandgatan 43 lgh 1009
+Gustavsbergs Allé 34 lgh 1202
+Sturegatan 30C lgh 1001
+Karlslundsvägen 12 lgh 1001
+Pippi Långstrumps Gata 30 lgh 1402
+Granängsringen 33 lgh 1501
+Bennets Väg 17A lgh 1203
+Lilla Kvarngatan 7 lgh 1104
+Norrgårdsvägen 19 lgh 1701
+Stabsvägen 13 lgh 1302
+Broddgränd 4 lgh 1202
+Rehnsvägen 9 lgh 1102
+Ytterbyvägen 57A lgh 1101
+Carl Malmstens Väg 8 lgh 1501
+Hvitfeldtsgatan 19A lgh 1301
+Mästargatan 3A lgh 1302
+Verkstadsvägen 32C lgh 1203
+Södra Förstadsgatan 116 lgh 1305
+Claras Gränd 11A lgh 1203
+Götgatan 75C lgh 1601
+Längbrotorg 10 lgh 1501
+Östra Skansgatan 8A lgh 1101
+Mörbylund 15B lgh 1406
+Havregatan 8 lgh 1204
+Aprikosgatan 46 lgh 1201
+Sankt Eriksgatan 84 lgh 1502
+Emil Sjögrens Väg 10B lgh 1101
+Bergmästaregatan 24B lgh 1202
+Arkivgatan 12 lgh 1202
+Diagnosvägen 7A lgh 1001
+Centralgatan 18B lgh 1101
+Stockholmsvägen 59 lgh 1204
+Järnvägsgatan 15D lgh 1102
+Golfvägen 1 lgh 1002
+Smedstugugatan 37 lgh 1103
+Strandridaregatan 22B lgh 1202
+Kronvägen 32A lgh 1001
+Skogsslingan 4 lgh 1402
+Bergshöjden 50 lgh 1201
+Sollentunavägen 166 lgh 1401
+Åsögatan 165 lgh 1301
+Förvaltarvägen 8 lgh 1402
+Garverigränd 12 lgh 1303
+Norra Agnegatan 34 lgh 1201
+Långgatan 47A lgh 1301
+Nedre Åkargatan 74A lgh 1401
+Eksjögatan 10 lgh 1001
+Larsbergstorget 5 lgh 2106
+Törnerosgatan 4A lgh 1301
+Östra Prinsgatan 9 lgh 1002
+Bällstavägen 154 lgh 1102
+Producentgatan 19 lgh 1002
+Pilgrimsvägen 68 lgh 1102
+Skomakargatan 20F lgh 1103
+Hedvägen 114 lgh 1001
+Vingagatan 7B lgh 1001
+Oxhagsvägen 19 lgh 1304
+Åbylundsgatan 2 lgh 1401
+Per Ludvig Lindgrens Terrass 4 lgh 1403
+Rosenhagavägen 22 lgh 1002
+Fjugestagränd 15 lgh 1102
+Tegelbruksvägen 23 lgh 1102
+Öresundsgatan 25 lgh 1204
+Kobbarnas Väg 11 lgh 1104
+Bagaregatan 3 lgh 1203
+Tåstrupsgatan 10 lgh 1102
+Furusundsgatan 15 lgh 1704
+Karl Johans Gata 18 lgh 1202
+Jönköpingsgatan 37A lgh 1101
+Vågens Gata 467 lgh 1501
+Öregrundsgatan 15 lgh 2002
+Norra Dragspelsgatan 8 lgh 1601
+Mjölnarvägen 18 lgh 1201
+Rävgiljan 2 lgh 1102
+Österbogatan 2 lgh 1001
+Södra Strandvägen 28 lgh 1802
+Ryttargatan 12 lgh 1301
+Topasgatan 79 lgh 0901
+Saltövägen 17 lgh 1001
+Flaggatan 2A lgh 1101
+Johannebergsgatan 20 lgh 1401
+Ernst Torulfsgatan 5E lgh 1402
+Skanörvägen 5 lgh 1001
+Parkgatan 6 lgh 1101
+Lommarvägen 12 lgh 1004
+Råsundavägen 129 lgh 1102
+Bergängsvägen 5B lgh 1101
+Virkesvägen 9C lgh 1204
+Esplanaden 10 lgh 1001
+Krabbes Väg 8A lgh 1102
+Södra Vägen 9E lgh 1101
+Östra Kaserngatan 3D lgh 1001
+Albogatan 18 lgh 1102
+Gnejsvägen 22 lgh 1203
+Övraby 4701 lgh 1002
+Gärdsgatan 14 lgh 1401
+Bäckavägen 23A lgh 1403
+Lagergrensgatan 31 lgh 1002
+Hagebygatan 227 lgh 1003
+Strandliden 4 lgh 1001
+Krankajen 8 lgh 1302
+Vasagatan 9C lgh 1101
+Sörgårdsvägen 12 lgh 1502
+Fogdevägen 53B lgh 1002
+Sånnavägen 8 lgh 1101
+Terrassvägen 8A lgh 1001
+Södra Kyrkogatan 2 lgh 1102
+Hemvärnsvägen 4B lgh 1103
+Husargatan 41 lgh 1202
+Sköntorpsvägen 70 lgh 1302
+Järnvägsgatan 2 lgh 1001
+Granitgatan 9 lgh 1304
+Ardennergatan 5 lgh 1004
+Vittangigatan 9 lgh 1001
+Bryggarevägen 32A lgh 1001
+Sockerbruksgränd 14 lgh 1402
+Längbrotorg 10 lgh 1304
+Edsby Allé 30 lgh 1303
+Borgmästaregatan 29 lgh 1204
+Storgatan 39B lgh 1002
+Norra Industrigatan 25B lgh 1001
+Stenkilsgatan 21A lgh 1102
+Fyrklöversgatan 112 lgh 1202
+Lefflersgatan 4B lgh 1102
+Nordmarksvägen 23 lgh 1003
+Svenljungagatan 1 lgh 1602
+Östra Storgatan 150 lgh 1104
+Vegagatan 56 lgh 1404
+Hallandsgatan 5 lgh 1102
+Redbergsvägen 40 lgh 1401
+Gösta Berlings Väg 37 lgh 1101
+Gustafsborgsgatan 11 lgh 1002
+Diktargatan 7A lgh 1101
+Hasselbacken 7 lgh 1301
+Monsungatan 108 lgh 1101
+Fornhöjdsvägen 35 lgh 1101
+Norrtullsgatan 56 lgh 1101
+Sjöbågen 8B lgh 1601
+Timmermansgränd 3 lgh 1102
+Mellersta Stenbocksgatan 33B lgh 1003
+Övre Hallegatan 12 lgh 1202
+Nya Torget 4B lgh 1101
+Björkhemsgatan 73 lgh 1003
+Stagneliusgatan 15 lgh 1001
+Markörgatan 25B lgh 1002
+Ekholmsvägen 54 lgh 1208
+Sörkämstavägen 5 lgh 1001
+Framnäsvägen 27 lgh 1201
+Kungsgatan 30 lgh 1101
+Odenskogsvägen 86 lgh 1101
+Lars Kaggsgatan 30G lgh 1001
+Kilian Zollsgatan 5B lgh 1002
+Järnvägsgatan 3A lgh 1002
+Tingsmålavägen 3B lgh 1002
+Göteborgsvägen 16 lgh 1202
+Repslagaregatan 20A lgh 1301
+Sven Eriksons Väg 1F lgh 1001
+Drottninggatan 1E lgh 1406
+Doktor Heymans Gata 3 lgh 1404
+Västergårdsvägen 11 lgh 1303
+Södra Storängsvägen 54C lgh 0901
+Sidsjövägen 13 lgh 1101
+Fredrikshaldsvägen 24B lgh 0701
+Trädgårdsgatan 13B lgh 1101
+Russinvägen 79 lgh 1202
+Vitmåragatan 4 lgh 1503
+Farstavägen 89 lgh 1001
+Domherregränd 2 lgh 1102
+Viggens Väg 7A lgh 1101
+Hallonstigen 18 lgh 1101
+Munkhagsgatan 128G lgh 1301
+Brunnsbergsvägen 10A lgh 1202
+Riksvägen 52B lgh 1001
+Fredsgatan 20 lgh 1101
+Snevringevägen 64 lgh 1101
+Djupdalsvägen 4E lgh 1201
+Torsgatan 19D lgh 1201
+Trossgränd 20 lgh 1103
+Målgatan 1 lgh 1003
+Agneshögsgatan 75B lgh 1101
+Ekebladsvägen 4 lgh 1105
+Storgatan 21 lgh 1101
+Långgatan 47 lgh 1001
+Järnvägsgatan 13 lgh 1105
+Brahegatan 48 lgh 1201
+Odengatan 40 lgh 1501
+Vetterstorpsgatan 34 lgh 1202
+Hemskogsvägen 9D lgh 1002
+Kristinebergsvägen 48 lgh 1201
+Kaptensvägen 19B lgh 1202
+Rådmansbacken 7 lgh 1202
+Oxtorgsgatan 14C lgh 1103
+Pennygången 55 lgh 1102
+Kaflegatan 12A lgh 1103
+Östra Kungsladugårdsvägen 11 lgh 1304
+Folkungavägen 30 lgh 1201
+Regnbågsgatan 1A lgh 1102
+Västerlånggatan 30 lgh 1402
+Norrgårdsvägen 73 lgh 1702
+Villatomtsvägen 6 lgh 1701
+Sturegatan 19 lgh 1001
+Kurirgatan 22C lgh 1203
+Sandavägen 1E lgh 1001
+Näsbychaussén 15A lgh 1101
+Sjöfartsgatan 17 lgh 1404
+Samsetgatan 35 lgh 1303
+Storgatan 82B lgh 1504
+Släggbacken 4 lgh 1001
+Bergsgatan 42 lgh 1602
+Narvavägen 24A lgh 1301
+Hasselvägen 19 lgh 1202
+Östbygatan 22A lgh 1201
+Järnvägsgatan 6 lgh 1001
+Kollegiegatan 3A lgh 1004
+Mariagatan 19C lgh 1201
+Urbergsgatan 27 lgh 1201
+Stenkvistavägen 33B lgh 1102
+Carl Alberts Gränd 5 lgh 1502
+Götgatan 78 lgh 1213
+Gränsgatan 4C lgh 1201
+Golfbanevägen 17A lgh 1102
+Rådhusgatan 20 lgh 1101
+Fleminggatan 40A lgh 1605
+Krukmakargatan 35B lgh 1301
+Peljevägen 11B lgh 1101
+Storegårdsvägen 9C lgh 1103
+Götgatan 116 lgh 1302
+Rådmansbacken 4A lgh 1003
+Topasgatan 89 lgh 1302
+Hemvägen 15C lgh 1101
+Karl Johans Gata 2C lgh 1201
+Grännavägen 52 lgh 1101
+Alamedan 4 lgh 1501
+Västanväg 61C lgh 1201
+Friluftsvägen 10 lgh 1101
+Söderleden 7 lgh 1206
+Tranebergsvägen 53 lgh 1301
+Svanebäcksgatan 10A lgh 1001
+Fredåsgatan 7A lgh 1101
+Tullportsgatan 31A lgh 1202
+Kyrkogatan 37 lgh 1001
+Axel Danielssons Väg 117 lgh 1003
+Rösgången 32 lgh 1602
+Finstavägen 34 lgh 1405
+Ringvägen 10 lgh 1001
+Korsbyvägen 28 lgh 1002
+Strandridaregatan 4C lgh 1002
+Flarkavägen 18 lgh 1101
+Sveagatan 19 lgh 1501
+Bodekullsgatan 37B lgh 1202
+Rosenborgsgatan 26C lgh 1002
+Styrfarten 8 lgh 1201
+Edward Lindahlsgatan 18B lgh 1002
+Valhallavägen 174 lgh 1701
+Östra Trädgårdsvägen 5B lgh 1101
+Gröndalsvägen 37 lgh 1205
+Björkholmsvägen 14B lgh 1102
+Björkallén 2 lgh 1003
+Åvägen 22 lgh 1001
+Turebergs Allé 19 lgh 1501
+Norrgårdsvägen 67 lgh 1102
+Berga Backe 14 lgh 1102
+Kvarngatan 64 lgh 1102
+Kungsörnsgatan 2 lgh 1002
+Södergatan 46 lgh 1001
+Sofiagatan 6 lgh 1303
+Solventilsgatan 14 lgh 1101
+Kristinehamnsgatan 2 lgh 1201
+Folkungagatan 9 lgh 1301
+Hertig Carls Väg 27C lgh 1201
+Getfotsvägen 51 lgh 1102
+Tunavägen 11 lgh 1201
+Sporregatan 8 lgh 1001
+Hamngatan 5B lgh 1002
+Volontärsgatan 1B lgh 1202
+Lasarettsgatan 63A lgh 1101
+Terrängvägen 99 lgh 1501
+Ljungbyplan 12 lgh 1101
+Bykvarnsgatan 15 lgh 1001
+Smedsbacksgatan 24 lgh 1203
+Värdshusgatan 10 lgh 1001
+Kronogatan 48E lgh 1102
+Sommaren 6B lgh 1002
+Drottninggatan 85 lgh 1001
+Kaflegatan 4B lgh 1103
+Kullsvedsvägen 100 lgh 1103
+Husabygatan 4A lgh 1002
+Salstagatan 11A lgh 1203
+Bieåsen 64 lgh 1102
+Läckögatan 21A lgh 1101
+Skönsmogatan 11 lgh 1002
+Drottning Kristinas Väg 47 lgh 1201
+Simpbylevägen 18A lgh 1102
+Jönköpingsvägen 1F lgh 1001
+Engelbrektsgatan 45 lgh 1301
+Tybblegatan 6 lgh 1101
+Hagebygatan 162 lgh 1001
+Fessingsgatan 5 lgh 1101
+Hyttgatan 58 lgh 1002
+Sannagatan 36 lgh 1001
+Oxledsvägen 131 lgh 1002
+Vallhornsgatan 22 lgh 0903
+Östra Kyrkogatan 6 lgh 1102
+Norra Agnegatan 40 lgh 1202
+Falckens Väg 32 lgh 1001
+Ekdalsvägen 38 lgh 1201
+Eriksgatan 17 lgh 1003
+Snevringevägen 49A lgh 1002
+Björndammsterrassen 41 lgh 1001
+Kyrkogårdsgatan 38 lgh 1202
+Trädgårdsgatan 4A lgh 1108
+Tursagatan 28 lgh 1101
+Borgmästargatan 6 lgh 1401
+Rosenborgsgatan 29A lgh 1301
+Scheelegatan 28 lgh 1203
+Styrmansgatan 12 lgh 1004
+Rasmusgatan 3A lgh 1102
+Harpsundsvägen 76 lgh 1802
+Bondegatan 2 lgh 1001
+Kaponjärgatan 3A lgh 1201
+Sveavägen 2B lgh 1001
+Lindevägen 40 lgh 1403
+Diagnosvägen 9A lgh 1301
+Doktorsgatan 13 lgh 1001
+Valla Torg 51 lgh 1802
+Doktor Billqvists Gata 3 lgh 1301
+Slättbergsvägen 17A lgh 1102
+Ringvägen 39C lgh 1203
+Sperlingsgatan 25 lgh 1001
+Solgatan 4 lgh 1001
+Odengatan 90 lgh 1303
+Vänortsstråket 51A lgh 1103
+Gimogatan 2D lgh 1501
+Norra Esplanaden 5B lgh 1202
+Förstadsvägen 1A lgh 1002
+Styrmansgatan 55 lgh 1402
+Muskötgränd 21 lgh 1001
+Österleden 68C lgh 1301
+Åbackegatan 5A lgh 1302
+Källmogatan 13 lgh 1105
+Ormvråksgatan 40 lgh 1201
+Fallvindsgatan 2 lgh 1202
+Gruvgången 75 lgh 1202
+Stinsgränd 6 lgh 1101
+Tärnavägen 2A lgh 1103
+Himmelstalundsvägen 46 lgh 1601
+Malmskillnadsgatan 41 lgh 1104
+Lidåkersgatan 10E lgh 1001
+Skyttelgatan 16 lgh 1504
+Södra Hamngatan 18A lgh 1001
+Kungstensgatan 57 lgh 1601
+Tvetgatan 273 lgh 1203
+Köpmangatan 15A lgh 1101
+Ågärdevägen 14B lgh 1001
+Okstigen 4 lgh 1001
+Tegelvägen 18A lgh 1004
+Gustavsgatan 17 lgh 1003
+Terapivägen 18D lgh 1201
+Jakobsbergsgatan 10B lgh 1102
+Åsbogatan 38F lgh 1301
+Godhemsgatan 23B lgh 1101
+Syréngatan 18A lgh 1202
+Sofiedalsgatan 14B lgh 1101
+Götgatan 3B lgh 1301
+Johannesbäcksgatan 78F lgh 1002
+Malmvägen 12B lgh 1702
+Skogvaktaregatan 25 lgh 1202
+Piprensarvägen 13 lgh 1102
+Grönkullagatan 19B lgh 1001
+Gråbergsgatan 81 lgh 1605
+Brobyvägen 11C lgh 1203
+Odlargränd 7 lgh 1001
+Skyttens Gata 557 lgh 1101
+Kopparmöllegatan 8A lgh 1101
+Morängatan 12 lgh 1101
+Karlskronagatan 31 lgh 1003
+Badhusgatan 19 lgh 1201
+Liljeholmsgatan 1A lgh 1101
+Trädgårdsgatan 23 lgh 1203
+Kungsgatan 75 lgh 1501
+Valbogatan 24B lgh 1103
+Östra Köpmansgatan 14 lgh 1216
+Karlbergsvägen 63A lgh 1203
+Odalvägen 11 lgh 1302
+Fredrikshaldsvägen 22C lgh 1002
+Tornfalkgatan 149 lgh 1002
+Pennygången 34 lgh 1201
+Snickaregatan 1A lgh 1202
+Mossbrännevägen 23 lgh 1001
+Bergsgatan 5A lgh 1102
+Vegagatan 3 lgh 1001
+Älvgatan 10 lgh 1001
+Södermannagatan 41A lgh 1401
+Valhallavägen 13 lgh 1004
+Västeråsvägen 2C lgh 1101
+Trotzgatan 47 lgh 1109
+Skeppargatan 18 lgh 1101
+Järnvägsgatan 68 lgh 1301
+Tornfalkgatan 36 lgh 1102
+Örbrinken 8 lgh 1701
+Ektorpsvägen 6 lgh 0316
+Carléns Väg 12A lgh 1103
+Vänortsgatan 97 lgh 1102
+Öregrundsgatan 4 lgh 1101
+Serenadvägen 22 lgh 1003
+Körvelgatan 16B lgh 1101
+Kågevägen 38E lgh 1101
+Sätraängsvägen 118 lgh 1001
+S:t Göransgatan 7B lgh 1104
+Reykjaviksgatan 134 lgh 1303
+Tivedsvägen 11 lgh 1203
+Biblioteksgatan 5 lgh 1002
+Angårdsvägen 1J lgh 1102
+Gustav III:s Boulevard 10 lgh 1102
+Tegelvägen 4C lgh 1201
+Auravägen 3 lgh 1001
+Briljantgatan 83 lgh 1102
+Lasarettsboulevarden 11A lgh 1002
+Östanvindsvägen 8 lgh 1304
+Bisittarevägen 34 lgh 1201
+Klockgjutaregatan 11 lgh 1302
+Granövägen 46 lgh 1201
+Norra Nissastigen 5D lgh 1102
+Östanvindsvägen 13B lgh 1002
+Boråsvägen 30 lgh 1001
+Storskogsvägen 47 lgh 1001
+Nygårdsvägen 22 lgh 1306
+Rutens Väg 20C lgh 1202
+Byälvsvägen 211 lgh 1201
+Brobygatan 3 lgh 1303
+Kaparegatan 3B lgh 1201
+Sirapsvägen 16 lgh 1001
+Hammarliden 5 lgh 1003
+Vintergatan 21A lgh 1001
+Länkharvsgatan 23 lgh 1301
+Plogstigen 20A lgh 1103
+Södra Hunnetorpsvägen 70A lgh 1202
+Frimärksvägen 41 lgh 1102
+Gränsgatan 33 lgh 1504
+Västra Vintergatan 51 lgh 1202
+Veragatan 14 lgh 1803
+Repslagargatan 7C lgh 1201
+Kometvägen 21 lgh 2101
+Parbovägen 11B lgh 1002
+Meteorvägen 6 lgh 1102
+Sandspåret 47 lgh 1001
+Jungfruvägen 119C lgh 1101
+Amiralitetstorget 8A lgh 1302
+Fyrspannsgatan 115 lgh 1102
+Östra Farmvägen 38F lgh 1201
+Drottninggatan 210 lgh 1001
+Onkel Adams Väg 20 lgh 1201
+Vattenledningsvägen 4 lgh 1001
+Dybecksgatan 2D lgh 1102
+Fortunagatan 46 lgh 1003
+Jungfrudansen 76 lgh 1203
+Svartbäcksgatan 108C lgh 1301
+Börringegatan 4A lgh 1301
+Lindblomsvägen 3E lgh 1203
+Trasthagsvägen 24 lgh 1302
+Knektgatan 6 lgh 1001
+Drottning Margaretas Väg 44 lgh 1102
+Gamla Bangatan 38A lgh 1001
+Dalalyckan 6C lgh 1201
+Österlånggatan 6A lgh 1201
+Brunnehagen 25 lgh 1001
+Lagman Lekares Väg 36 lgh 1301
+Norrhagagatan 12 lgh 1001
+Jakobsdalsvägen 25 lgh 1003
+Stationsvägen 9 lgh 1102
+Ektorpsgatan 140 lgh 1102
+Strandvägen 53 lgh 1201
+Bergkantsgatan 8B lgh 1002
+Keplers Gata 56 lgh 1201
+Torggatan 3 lgh 1301
+Ödmanssonsgatan 36A lgh 1203
+Karlbergsgatan 7A lgh 1102
+Turebergs Allé 47 lgh 1203
+Gymnasistgatan 17A lgh 1001
+Edward Lindahlsgatan 19C lgh 1104
+Valla Torg 89 lgh 1904
+Berguvsgatan 3A lgh 1102
+Björkvägen 3B lgh 1201
+Henry Wemans Väg 2 lgh 1305
+Sockerbruksgatan 12F lgh 1203
+Hagalundsgatan 8 lgh 1603
+Pyrolavägen 28 lgh 1404
+Fiskegränd 3 lgh 1101
+Marklandsgatan 5 lgh 1201
+Ottilia Adelborgs Gata 7 lgh 1101
+Engholmsgatan 10 lgh 1203
+Smålandsgatan 1B lgh 1002
+Kyrkgatan 55 lgh 1101
+Vattugatan 16 lgh 1304
+Häradsvägen 140 lgh 1001
+Harpegatan 4B lgh 1101
+Östergatan 98C lgh 1201
+Storgatan 60B lgh 1203
+Lasarettsgatan 1A lgh 1402
+Duvgatan 4A lgh 1105
+Ugglevägen 29B lgh 1202
+Strandvägen 13D lgh 1301
+Grevegårdsvägen 240 lgh 1101
+Skomakargatan 30 lgh 1302
+Thams Väg 6 lgh 1201
+Lextorpsvägen 7 lgh 1401
+Hjalmar Söderbergs Väg 16A lgh 1101
+Pippi Långstrumps Gata 40 lgh 1401
+Stjärnbildsgatan 92 lgh 1003
+Slottsbacken 3 lgh 1504
+Björknäsvägen 36 lgh 1101
+Bangatan 10 lgh 1603
+Långhalsvägen 24 lgh 1205
+Storgatan 33 lgh 0902
+Tursagatan 44 lgh 1301
+Parkgatan 3 lgh 1101
+Fjällvägen 28F lgh 1002
+Öbackavägen 44 lgh 1002
+Fogdegatan 82 lgh 1003
+Torggatan 14H lgh 1004
+Lagercrantz Plats 7A lgh 1204
+Erstadsvägen 3 lgh 1001
+Tunastigen 55 lgh 1203
+Musikvägen 28 lgh 1101
+Ölmegatan 3C lgh 1102
+Kvarnvägen 3A lgh 1102
+Lakegatan 7 lgh 1401
+Österängsgatan 14D lgh 1303
+Nytorpsvägen 2 lgh 1303
+Boställsvägen 9 lgh 1606
+Västeråsvägen 13 lgh 1502
+Stallängsvägen 18 lgh 1001
+Rosenbergsgatan 18B lgh 1603
+Bergsgatan 2B lgh 1202
+Fäbodvägen 2B lgh 1101
+Sofielundsvägen 14 lgh 1201
+Vingårdsgatan 5 lgh 1103
+Friggavägen 4 lgh 1201
+Fågelsångsvägen 4 lgh 1101
+Koopmansgatan 1A lgh 1202
+Adolfsfors 22 lgh 1001
+Sågargatan 9A lgh 1602
+Linblomsgränd 2 lgh 1004
+Rehnsgatan 16 lgh 1109
+Pelle Molins Väg 3 lgh 1102
+Nordostpassagen 11 lgh 1304
+Mariagatan 6B lgh 1201
+Lidåkersgatan 4A lgh 1103
+Västgötagatan 16 lgh 1102
+Södra Kungsgatan 7B lgh 1301
+Kyrkogatan 47B lgh 1001
+Husabyvägen 37 lgh 1002
+Nässätter 195 lgh 1101
+Svedjevägen 12A lgh 1202
+Ängsstigen 8 lgh 1101
+Södra Vägen 92 lgh 1002
+Granmodalsgatan 9A lgh 1001
+Kungsgatan 90 lgh 1602
+Spannlandsgatan 12 lgh 1802
+Orvar Odds Väg 51 lgh 1405
+Byvägen 11 lgh 1104
+Snödroppsgatan 41 lgh 1001
+Sveavägen 22D lgh 1201
+Tegvägen 1 lgh 1502
+Heliosgatan 43 lgh 1401
+Brahegatan 32A lgh 1101
+Pennygången 66 lgh 1001
+Bågskyttegatan 3C lgh 1102
+Södra Vägen 30 lgh 1404
+Färgargränd 20 lgh 1101
+Folkungagatan 72A lgh 1102
+Järnvägsgatan 23C lgh 1102
+Gustav III:s Boulevard 67 lgh 1601
+Luddögatan 3 lgh 1101
+Ritargatan 1A lgh 1008
+Klostergatan 7 lgh 1001
+Farstavägen 110B lgh 1001
+Tunadalsgatan 10A lgh 1304
+Stora Norregatan 25 lgh 1102
+Brahegatan 56B lgh 1203
+Vendelsö Skolväg 10 lgh 1003
+Repslagaregatan 32A lgh 1103
+Storgatan 13B lgh 1003
+Örnstigen 27 lgh 1101
+Salviavägen 3 lgh 1202
+Vasagatan 40 lgh 1302
+Köpmangatan 20A lgh 1204
+Kavelbrogatan 5 lgh 1001
+Bryggerigatan 5A lgh 1301
+Sågvägen 4 lgh 1101
+Östergatan 15A lgh 1101
+Sturegatan 16A lgh 1104
+Pilotgatan 27 lgh 1303
+Trådgränd 2 lgh 1103
+Eriksdalsgatan 34 lgh 1102
+Sunnanväg 6J lgh 1202
+Russinvägen 18 lgh 1301
+Ängsgatan 11C lgh 1101
+Borgmästaregatan 19B lgh 1202
+Östra Prinsgatan 1C lgh 1301
+Skogsvägen 1A lgh 1101
+Marknadsvägen 45 lgh 1001
+Stenbacken 2G lgh 1201
+Odlingsvägen 3 lgh 1104
+Frans G Wibergs Väg 5 lgh 1401
+Fyrskeppsvägen 108 lgh 1201
+Järnvägsgatan 6B lgh 1001
+Holbergsgatan 37 lgh 1001
+Åkaregatan 15C lgh 1001
+Västermovägen 66 lgh 1001
+Terrängvägen 81 lgh 1102
+Lövstavägen 63 lgh 1001
+Alströmergatan 45B lgh 1201
+Parkvägen 21 lgh 1201
+Erik Dahlbergsgatan 20 lgh 1301
+Brommagatan 36 lgh 1201
+Markgatan 5 lgh 1201
+Västergatan 3A lgh 1203
+Tegelviksgatan 71 lgh 1503
+Brånerydsvägen 26 lgh 1001
+Sveavägen 22C lgh 1001
+Parkvägen 1 lgh 1203
+Västra Stillestorpsgatan 25 lgh 1204
+Gotlandsgatan 73 lgh 1304
+Stationsvägen 7A lgh 1103
+Lagmansgatan 24 lgh 1302
+Vivstavarvsvägen 153 lgh 1201
+Margaretagatan 9 lgh 1204
+Köpstadsvägen 42 lgh 1002
+Styrbordsgatan 15 lgh 1402
+Vigelsjövägen 15A lgh 1202
+Centralgatan 40B lgh 1401
+Gullmarsplan 6 lgh 1101
+Aschebergsgatan 23B lgh 1301
+Hamngatan 55A lgh 1102
+Matematikgränd 23F lgh 1001
+Erik Dahlbergsgatan 29A lgh 1306
+Fredsgatan 20 lgh 1402
+Carl Alberts Gränd 5 lgh 1503
+Bellmansgatan 84 lgh 1302
+Ponsbachs Väg 10B lgh 1102
+Sorögatan 19 lgh 1102
+Glasbruksgatan 3B lgh 1201
+Björkgatan 7 lgh 1001
+Fogdevägen 5A lgh 1401
+Oxhagsvägen 12B lgh 1101
+Ljungbergsgatan 18B lgh 1101
+Östanvindsgatan 15 lgh 1102
+Nockeby Backe 8 lgh 1208
+Strandvägen 11 lgh 1101
+Ånäsvägen 22 lgh 1201
+Kaptensgatan 17B lgh 1202
+Bångvägen 15A lgh 1102
+Sedelvägen 46A lgh 1002
+Väderilsgatan 58 lgh 1304
+De Geersgatan 61 lgh 1202
+Kungsgatan 76 lgh 1102
+Trekanten 4B lgh 1102
+Zinkens Väg 27 lgh 1504
+Selmedalsringen 15 lgh 1501
+Forssa Gränd 3 lgh 1203
+Ystadsvägen 121 lgh 1002
+Hökebovägen 5 lgh 1001
+Södervångsgatan 2A lgh 1001
+Blomstervägen 2E lgh 1207
+Esplanaden 3 lgh 1104
+Hermelinsgatan 80F lgh 1101
+Norrgatan 13 lgh 1002
+Repslagaregatan 6 lgh 1102
+Hantverkaregatan 31 lgh 1102
+Götgatan 108 lgh 1403
+Falkenbergsvägen 67 lgh 1001
+Kölnagatan 10 lgh 1302
+Gärdesvägen 17 lgh 1201
+Kungsgatan 17 lgh 1201
+Drottning Kristinas Väg 25 lgh 1203
+Dotorpsgatan 58B lgh 1002
+Jularpsvägen 5A lgh 1102
+Centralgatan 1 lgh 1201
+Drottninggatan 3A lgh 1002
+Burströmsvägen 96 lgh 1001
+Tvillingarnas Gata 308 lgh 1101
+Västra Varvsgatan 43 lgh 1102
+Kanalgatan 30B lgh 1202
+Uranusvägen 1D lgh 1204
+Erik Dahlbergsgatan 11 lgh 1103
+Kyrkogatan 2D lgh 1002
+Stallgatan 3B lgh 1103
+Olofsfors 25 lgh 1002
+Folkungagatan 35E lgh 1102
+Chapmansgatan 2 lgh 1605
+Gamla Svartens Väg 3 lgh 1101
+Sprängarevägen 11C lgh 1001
+Förråd 1 lgh 1002
+Björkhemsgatan 17 lgh 1501
+Postgången 20 lgh 1205
+Två Systrars Väg 7C lgh 1002
+Packhusallén 6A lgh 1604
+Nygatan 1B lgh 1201
+Gäststuguvägen 1 lgh 1101
+Svengrensgatan 19B lgh 1102
+Lundegatan 5B lgh 1001
+Ljuragatan 8A lgh 1102
+Rissnavägen 16 lgh 1201
+Ervallakroken 11 lgh 0902
+Kennedygatan 18B lgh 1101
+Solgatan 16 lgh 1401
+Korsebergsvägen 3B lgh 1102
+Drevkarlsstigen 1 lgh 1204
+Astrabacken 6B lgh 1702
+Åbylundsgatan 2D lgh 1102
+Badhusvägen 12 lgh 1103
+Salabacksgatan 25 lgh 1102
+Östra Storgatan 3E lgh 1401
+Köpmangatan 33 lgh 1201
+Tybblegatan 66 lgh 1001
+Sjösavägen 14 lgh 1202
+Axvägen 5B lgh 1202
+Gammeltorpsvägen 1D lgh 1004
+Vinodlargatan 6 lgh 1103
+Gärdsgatan 10 lgh 1303
+Österlånggatan 10 lgh 1101
+Tromtögatan 11 lgh 1001
+Furuvägen 11A lgh 1001
+Huvudstalundsvägen 10 lgh 1103
+Sockerbruksgatan 12A lgh 1001
+Krabbes Väg 10B lgh 1101
+Plantagegränd 3 lgh 1101
+Vinstorpsvägen 40 lgh 1101
+Centralvägen 39B lgh 1002
+Vallavägen 157 lgh 1202
+Norra Strömgatan 3B lgh 1102
+Solgatan 2A lgh 1403
+Storkällsvägen 4D lgh 1301
+Majorsgatan 8 lgh 1401
+Engelbrektsgatan 107B lgh 1102
+Svågertorpsvägen 7 lgh 1101
+Hagavägen 74 lgh 1401
+Hantverkaregatan 64B lgh 1202
+Skolgatan 7A lgh 1003
+Norrgårdsvägen 45 lgh 1402
+Marknadsvägen 5 lgh 1002
+Brogränd 29 lgh 1202
+Ladbygränd 4 lgh 1203
+Strandgatan 24A lgh 1402
+Måsvägen 6B lgh 1203
+Madlyckevägen 5 lgh 1101
+Sockenvägen 5 lgh 1003
+Södra Förstadsgatan 95C lgh 1401
+Östra Stationsvägen 7 lgh 1002
+Tegvägen 80 lgh 1201
+Floragatan 1G lgh 1004
+Färjevägen 45 lgh 1103
+Kommendörsgatan 31B lgh 1401
+Östra Farmvägen 32C lgh 1301
+Sysslomansgatan 28 lgh 1301
+Strandgatan 26A lgh 1302
+Kabelgatan 13E lgh 1302
+Sveagatan 32B lgh 1001
+Lördagsvägen 1 lgh 1202
+Linnégatan 32 lgh 1505
+Kopparvägen 57C lgh 1001
+Bielkegatan 1A lgh 1401
+Kronobergsgatan 16 lgh 1102
+Repslagarevägen 20 lgh 1201
+Norrtullsgatan 53 lgh 1001
+Våmmedalsvägen 90 lgh 1102
+Lyckebyvägen 32 lgh 1102
+Siggebovägen 2 lgh 1501
+Väderkvarnsvägen 1 lgh 1201
+Backvägen 9 lgh 1002
+Gräsholmsvägen 46 lgh 1503
+Borgmästarevägen 11B lgh 1101
+Larslundavägen 8C lgh 1101
+Österlånggatan 64 lgh 1402
+Värtavägen 4 lgh 1002
+Gymnasiegatan 4 lgh 1302
+Österängsgatan 2 lgh 1402
+Selma Lagerlöfs Gata 4 lgh 1207
+Carnegiegatan 7B lgh 1202
+Skarpbrunnavägen 35 lgh 1302
+Kärrtorpsvägen 2 lgh 1402
+Alphyddevägen 5 lgh 1805
+Kompanigatan 9 lgh 1001
+Malmgatan 64 lgh 1001
+Ryd 3 lgh 1101
+Skandiavägen 6A lgh 1205
+Skolspåret 35 lgh 1307
+Nygatan 51 lgh 1201
+Vindilsvägen 5A lgh 1001
+Bronsgatan 1A lgh 1304
+Birger Jarlsgatan 21 lgh 1205
+Backgatan 25 lgh 1001
+Vårby Allé 58 lgh 1203
+Kärrhöksgränd 14 lgh 1201
+Torbjörn Klockares Gata 15 lgh 1101
+Gånglåtsvägen 47 lgh 1103
+Kummelgatan 8 lgh 1002
+Drottninggatan 50 lgh 1204
+Kyrkgatan 15 lgh 1002
+Nackstavägen 28C lgh 1001
+Havstenavägen 16C lgh 1301
+Babordsgatan 9 lgh 1304
+Smultronvägen 10 lgh 1203
+Strandvägen 4 lgh 1002
+Bergdalagatan 5C lgh 1301
+Lustigknoppsvägen 5B lgh 1001
+Repslagaregatan 4C lgh 1202
+Södermalmsgatan 5 lgh 1103
+Petersbergsgatan 29B lgh 1001
+Odensalavägen 50C lgh 1001
+Kanalgatan 42 lgh 1401
+Nikolaigatan 10 lgh 1101
+Vegagatan 13 lgh 1001
+Gånglåten 3 lgh 1001
+Pilotgatan 46 lgh 1203
+Sankt Månsgatan 7F lgh 1102
+Byvägen 11 lgh 1401
+Hamrevägen 15 lgh 1101
+Kasinogatan 3 lgh 1302
+Rådstugugatan 3 lgh 1101
+Träslövsvägen 142D lgh 1201
+Edeforsgatan 86 lgh 1103
+Kyrkmalmsvägen 42 lgh 1101
+Norrgårdsgatan 9A lgh 1301
+Domaregatan 10B lgh 1002
+Västergatan 26B lgh 1001
+Vilbergsgatan 34 lgh 1304
+Granitvägen 4A lgh 1301
+Gråbergsgatan 51 lgh 1608
+Glasmästaregatan 20 lgh 1202
+Bollvägen 4F lgh 1101
+Lantmannagatan 66C lgh 1001
+Helgagatan 36D lgh 1301
+Vegagatan 38 lgh 1202
+Tåstrupsgatan 6 lgh 1402
+Åstigen 31 lgh 1001
+Svedjegatan 25 lgh 1101
+Danska Vägen 84D lgh 1103
+Serenadgatan 33 lgh 1101
+Lövskogsvägen 3 lgh 1202
+Floragatan 11 lgh 1103
+Gustavsbergsgatan 4A lgh 1103
+Linnégatan 57 lgh 1102
+Malmvägen 14B lgh 1703
+Oxhagsvägen 21 lgh 1301
+Midgårdsgatan 1D lgh 1104
+Sigårdsgatan 38C lgh 1001
+Sköldgatan 6 lgh 1305
+Förmansvägen 17 lgh 1302
+Grymängsgatan 1 lgh 1102
+Juryvägen 35 lgh 1003
+Järdalavägen 58C lgh 1301
+Kapellplatsen 1C lgh 1202
+Tulpangatan 25 lgh 1201
+Götaverksgatan 20 lgh 1503
+Tiundagatan 41 lgh 1602
+Sanatoriegatan 4A lgh 1102
+Knäppingsborgsgatan 11 lgh 1201
+Fiskare Karlssons Gård 1B lgh 1001
+Nygatan 56 lgh 1201
+Sofielundsvägen 4 lgh 1303
+Fyrverkarbacken 36 lgh 1803
+Sjömansgatan 20C lgh 1101
+Södra Allén 41A lgh 1001
+Tyskbagargatan 4 lgh 1301
+Bangatan 39C lgh 1203
+Ängsstigen 3B lgh 1103
+Hantverkaregatan 35 lgh 1203
+Ugglevägen 7 lgh 1205
+Oppeby Gård 105 lgh 1102
+Repslagaregatan 13A lgh 1001
+Kabyssgatan 6D lgh 1101
+Pär Lagerkvists Gata 24 lgh 1602
+Vaktgatan 1D lgh 1404
+Wageniushagen 7 lgh 1001
+Bäckagårdsvägen 52 lgh 1401
+Finnåkersgatan 7 lgh 1103
+Ringvägen 158 lgh 1201
+Solgårdsterrassen 20 lgh 1302
+Södra Järngatan 15E lgh 1103
+Hagvägen 4A lgh 1103
+Önafors 246 lgh 1001
+Studentbacken 32 lgh 1704
+Stuvaregatan 40 lgh 1004
+Eriksgatan 14 lgh 1403
+Duvhöksgatan 3D lgh 1101
+Södra Vägen 6A lgh 1101
+Vasaplatsen 5A lgh 1302
+Södra Smedjegatan 3 lgh 1001
+Stallbacksgränd 18 lgh 1001
+Dimvädersgatan 49 lgh 1301
+Atterbomsvägen 30 lgh 1101
+Drevkarlsstigen 4 lgh 2107
+Hallmansvägen 25A lgh 1101
+Frejgatan 12B lgh 1101
+Gränsgatan 29 lgh 1202
+Bäckvägen 115 lgh 1202
+Ekebergsvägen 59 lgh 1201
+Borgmästaregatan 2A lgh 1002
+Solstrålegatan 14 lgh 1602
+Ingenjörsvägen 34 lgh 1503
+Ribbings Väg 7A lgh 1402
+Prästgårdsvägen 13D lgh 1106
+Karlavägen 14A lgh 1602
+Timmermansgatan 86 lgh 1201
+Finningevägen 68B lgh 1103
+Trädgårdsgatan 2 lgh 1301
+Svartbäcksgatan 121 lgh 1303
+Miraallén 45 lgh 1201
+Bjälbogatan 12 lgh 1102
+Almvägen 3 lgh 1104
+Banérgatan 55 lgh 1104
+Norr Mälarstrand 56 lgh 1403
+Rotebrovägen 53A lgh 1108
+Bokelundagatan 1A lgh 1001
+Aktergatan 12 lgh 1405
+Smultronvägen 18 lgh 1101
+Björnskogsvägen 56 lgh 1002
+Bergakungsvägen 14 lgh 1303
+Skattegårdsgatan 1G lgh 1303
+Ateljévägen 12 lgh 1101
+Åsgatan 1B lgh 1102
+Stationsgatan 4A lgh 1201
+Hyacintgatan 8 lgh 1702
+Norra Gyllegatan 16A lgh 1201
+Rosenhöjdsvägen 30 lgh 1303
+Skolgatan 2F lgh 1103
+Bruksvägen 8 lgh 1102
+Malmstensgatan 12 lgh 1001
+Södra Långgatan 24 lgh 1001
+Övre Husargatan 35 lgh 1702
+Gröndalsvägen 52 lgh 1002
+Aktergatan 10 lgh 1601
+Sankt Göransgatan 64A lgh 1405
+Solröksgatan 18B lgh 1002
+Badhusberget 7C lgh 1201
+Östra Storgatan 45A lgh 1201
+Vimmerbyplan 11 lgh 1201
+Fyrbåksvägen 16A lgh 1202
+Sofielundsvägen 4 lgh 1302
+Dämmevägen 2B lgh 1101
+Hunnemaravägen 17 lgh 1601
+Odlingsvägen 14 lgh 1602
+Utåkersgatan 4A lgh 1201
+Lohes Väg 18B lgh 1002
+Merkuriusvägen 39A lgh 1202
+Odensvigatan 9 lgh 1106
+Herrhagsvägen 219 lgh 0901
+Söderhöjdsgatan 3 lgh 2104
+Härnevigatan 13A lgh 1203
+Malmgatan 4A lgh 1401
+Essingestråket 9 lgh 1306
+Stallgatan 4D lgh 1001
+Sturegatan 15 lgh 1302
+Ånäsvägen 38 lgh 1204
+Akkas Gata 12 lgh 1001
+Mosebacke Torg 8A lgh 1201
+Fjällnejlikan 1 lgh 1302
+Bodalsvägen 10 lgh 1204
+Gävlevägen 51 lgh 1002
+Björkvägen 23C lgh 1201
+Lillbräckegatan 19 lgh 1101
+Aftonvägen 11 lgh 1101
+Hospitalsgatan 46 lgh 1201
+Ringgatan 37 lgh 1001
+Fredsgatan 2A lgh 1001
+Larsbodavägen 50 lgh 1403
+Trappvägen 8A lgh 1002
+Kylegatan 15 lgh 1203
+Vikingavägen 51C lgh 0901
+Gamla Lasarettsgatan 21 lgh 1102
+Svartviksslingan 29 lgh 1303
+Östbergsvägen 7 lgh 1404
+Österportsgatan 4A lgh 1203
+Järnvägsgatan 8B lgh 1603
+Silversparregatan 20 lgh 1002
+Brearedsvägen 254 lgh 1001
+Strandvägen 34C lgh 1201
+Tensta Allé 43 lgh 1603
+Utridarevägen 1B lgh 1303
+Sätraängsvägen 6 lgh 1202
+Duvnäsgatan 14 lgh 1601
+Tomtegränd 2 lgh 1404
+Köpmangatan 15B lgh 1003
+Bodagatan 25 lgh 1102
+S:ta Annagatan 12 lgh 1103
+Dagsbergsvägen 134 lgh 1201
+Hjalmar Petris Väg 12B lgh 1001
+Högalidsgatan 32C lgh 1303
+Färnebogatan 19D lgh 1101
+Hårstorpsvägen 5D lgh 1002
+Kyrkogatan 11 lgh 1001
+Sergels Väg 2 lgh 1501
+Östermalmsgatan 84 lgh 1101
+Jöns Filsgatan 11 lgh 1002
+Ostgatan 6 lgh 1701
+Drottninggatan 15B lgh 1201
+Sandfjärdsgatan 33 lgh 1805
+Åhusvägen 15 lgh 1201
+Båtgatan 3 lgh 1201
+Övre Torekällgatan 38 lgh 1303
+Tältvägen 21A lgh 1102
+Bryggargatan 50 lgh 1101
+Idrottsgatan 7B lgh 1201
+Biblioteksgatan 14C lgh 1105
+Norra Fjädermolnsgatan 27 lgh 1602
+Trossvägen 9 lgh 1301
+Hornsbruksgatan 11 lgh 1304
+Engelbrektsgatan 18 lgh 1103
+Tryckerigatan 17 lgh 1103
+Karl Johansgatan 33 lgh 1108
+Fritiof Anderssons Gata 17 lgh 1202
+Kommunalhusvägen 22 lgh 1101
+Sjövikstorget 11 lgh 1301
+Borgarplatsen 5 lgh 1001
+Storgatan 40A lgh 1002
+Andersbergsringen 105 lgh 1502
+Allfarvägen 79B lgh 1101
+Tingbergsgatan 12 lgh 1101
+Koltorpsgatan 22 lgh 1101
+Nymilsgatan 43 lgh 1401
+Lilla Marconigatan 1 lgh 1202
+Valthornsvägen 33 lgh 1206
+Rosengatan 11 lgh 1101
+Hallonbergsvägen 43 lgh 1001
+Von Rosens Väg 52 lgh 1201
+Vädursgatan 4B lgh 1201
+Bergsgatan 12 lgh 1402
+Frostaliden 7 lgh 1304
+Vimpelgatan 47 lgh 1202
+Hagtornsvägen 93 lgh 1101
+Ronnebygatan 1 lgh 1906
+Nybrogatan 19 lgh 1401
+Rådhusgatan 23A lgh 1101
+Eleshultsvägen 35B lgh 1101
+Timmermansgatan 13 lgh 1001
+Vemdalsgatan 53 lgh 1409
+Limhamnsvägen 48 lgh 1001
+Orrögatan 19A lgh 1201
+Garagevägen 19 lgh 1201
+Erikslustvägen 42C lgh 1002
+Bredängs Allé 16 lgh 1101
+Kungsklippevägen 15 lgh 1102
+Svennebygränd 9 lgh 1402
+Bredgränd 15 lgh 1301
+Kärrtorpsvägen 59 lgh 1001
+Västgötagränd 7 lgh 1502
+Guldstigen 38 lgh 1002
+Petersbergsgatan 30 lgh 1502
+Sörbygatan 71A lgh 1003
+Drevkarlsstigen 3 lgh 1502
+Hammarby Allé 165 lgh 1403
+Aktrisgatan 14 lgh 1002
+Västra Kumla 8A lgh 1001
+Ulriksbergspromenaden 13 lgh 1102
+Magasinsgatan 28 lgh 1001
+Tältvägen 21B lgh 1101
+Sibeliusgången 24 lgh 1207
+Teatergatan 19 lgh 1404
+Storgatan 4C lgh 1503
+Kvarnhagsgatan 61 lgh 1002
+Rågången 4C lgh 1002
+Lekplatsvägen 2 lgh 1102
+Nygatan 3A lgh 1104
+Onkel Adams Väg 6B lgh 1001
+Karl Dahlins Väg 26A lgh 1101
+Borgargatan 16 lgh 1503
+Infanterigatan 3C lgh 1201
+Matrosgatan 22 lgh 1001
+Varmfrontsgatan 10 lgh 1204
+Varmfrontsgatan 10 lgh 1303
+Herrgårdsvägen 15 lgh 1001
+Södermalmsvägen 5 lgh 1202
+Mejerivägen 32B lgh 1201
+Svanebäcksgatan 49 lgh 1101
+Ringen 33 lgh 1001
+Svenljungagatan 11 lgh 1301
+Södra Vägen 19 lgh 1601
+Plantagegatan 3B lgh 1401
+Stationsvägen 9 lgh 1201
+Norra Dragspelsgatan 24 lgh 1402
+Brynjegatan 6A lgh 1201
+Linehedsvägen 35 lgh 1201
+Fleminggatan 28 lgh 1302
+Arkitektvägen 5 lgh 1001
+Stupvägen 25 lgh 0902
+Åkargränd 1 lgh 1702
+Furubergsvägen 4A lgh 1003
+Järnvägsgatan 24 lgh 1101
+Vinstvägen 3 lgh 1504
+Gustav Adolfs Gata 27 lgh 1206
+Storgatan 57 lgh 1003
+Utövägen 4A lgh 1202
+Centralvägen 16A lgh 1101
+Arkitektgatan 53 lgh 1601
+Färgargårdstorget 34 lgh 1501
+Betaniagatan 3 lgh 1101
+Dalgränd 60 lgh 1105
+Näsbydalsvägen 16 lgh 1902
+Svanebäcksgatan 4C lgh 1101
+Ryttaregatan 7A lgh 1101
+Jonstorpsvägen 28 lgh 1402
+Enebymovägen 9A lgh 1102
+Baskemöllegatan 14A lgh 1203
+Hultsbruk Långholmen 1 lgh 1002
+Strågatan 7 lgh 1102
+Askersgatan 24 lgh 1002
+Trekantsgatan 10 lgh 1101
+Prästgårdsvägen 7A lgh 1101
+Fogdevägen 4A lgh 1203
+Katarina Bangata 67 lgh 1401
+Domarevägen 55 lgh 1101
+Kullaviks Konvaljväg 5 lgh 1001
+Götagatan 1D lgh 1102
+Gårdstigen 15 lgh 1101
+Kungsgatan 8 lgh 1203
+Plantagegatan 7A lgh 1702
+Hammarkulletorget 19 lgh 1401
+Kristinehamnsgatan 38 lgh 1301
+Storgatan 50D lgh 1103
+Erikslustvägen 36B lgh 1002
+Floragången 4A lgh 1102
+Höglundavägen 29 lgh 1202
+Nobelgatan 21 lgh 1301
+Vindelgatan 13A lgh 1202
+Repslagaregatan 36 lgh 1303
+Långströmsgatan 22B lgh 1002
+Mässvägen 23 lgh 1201
+Rådlösavägen 6 lgh 1002
+Storgatan 29D lgh 1202
+Östra Eriksbergsgatan 73 lgh 1104
+Lokandergatan 14B lgh 1001
+Kungsklippan 12 lgh 1910
+Industrivägen 63B lgh 1003
+Köldgatan 4 lgh 1201
+Smultronvägen 34 lgh 1102
+Gångbrogatan 8 lgh 1001
+Plåtverksgatan 187 lgh 1001
+Skanörvägen 12 lgh 1302
+Råsundavägen 123 lgh 1203
+Annastigen 19 lgh 1102
+Hertings Allé 9C lgh 1001
+Sveavägen 77B lgh 1203
+Johan Skyttes Väg 23 lgh 1103
+Tängvägen 13 lgh 1101
+Södermannagatan 12 lgh 1101
+Granvägen 15E lgh 1101
+Hässleholmsvägen 70 lgh 1001
+P D Lundgrensgatan 10 lgh 1206
+Nyckelvägen 6 lgh 1001
+Götabergsgatan 30 lgh 1102
+Tunnlandsvägen 47 lgh 1202
+Brovallavägen 1 lgh 1201
+Hästskovägen 80 lgh 1204
+Spantgatan 3B lgh 1102
+Äppelstigen 2 lgh 1302
+Verkstadsgatan 1A lgh 1201
+Hemstigen 30A lgh 0901
+Järdalavägen 112 lgh 1204
+Ranängsgatan 12 lgh 1301
+Rönnbergagatan 17 lgh 1302
+Albert Hennings Väg 1 lgh 1006
+Tunvägen 26 lgh 1604
+Astrid Lindgrens Väg 2A lgh 1303
+Mossvägen 7C lgh 1103
+Lilla Vallgatan 4B lgh 1101
+Husargatan 18B lgh 1302
+Västermovägen 28E lgh 1102
+Karlslundsvägen 10 lgh 1204
+Jönköpingsvägen 75C lgh 1121
+Kavallerivägen 2C lgh 1405
+Vattenverksvägen 2B lgh 1301
+Birger Jarlsgatan 107 lgh 1502
+Skyttens Gata 559 lgh 1702
+Kungsholmsgatan 24 lgh 1102
+Gävlegatan 5 lgh 1101
+Smedjegränd 9 lgh 0903
+Hagendalsvägen 24 lgh 1301
+Distansgatan 59 lgh 1202
+Lövhagsgatan 81 lgh 1102
+Liljeborgsgatan 28B lgh 1101
+Duvhöksgatan 4A lgh 1303
+Augustenborgsgatan 18B lgh 1301
+Styrmansgatan 23 lgh 1203
+Sankta Ursulas Väg 2 AA lgh 1204
+Gamla Gärdesgatan 20A lgh 1002
+Jägersrovägen 17B lgh 1102
+Drottninggatan 210 lgh 1302
+Brantingsgatan 29 lgh 1301
+Kirunagatan 7 lgh 1001
+Limhamnsvägen 6A lgh 1501
+Stagneliusgatan 45C lgh 1003
+Guldsmedsgatan 18 lgh 1201
+Pellepennans Gata 2 lgh 1304
+Östergatan 11D lgh 1204
+Däldvägen 20 lgh 1005
+Ordensbacken 7 lgh 1204
+Zetterbergsgatan 1A lgh 1302
+Bränningevägen 33 lgh 1002
+Arvid Västgötes Gata 3B lgh 1203
+Krondikesvägen 44A lgh 1302
+Ryttmästaregatan 13B lgh 1401
+Norrbäcksgatan 1 lgh 1701
+Multrågatan 68 lgh 1102
+Mjölkvägen 40 lgh 1001
+Hemmansvägen 92 lgh 1103
+John Ericssonsgatan 14 lgh 1405
+Trattgränd 34 lgh 1001
+Maria Prästgårdsgata 7 lgh 1404
+Herr Stens Väg 13B lgh 1004
+Lilla Järnvägsgatan 13 lgh 1301
+Motalagatan 13B lgh 1101
+Lilla Grevegårdsvägen 15 lgh 1202
+Gustav III:s Boulevard 81 lgh 1302
+Davidshallstorg 7 lgh 1101
+Jämtlandsgatan 16 lgh 1001
+Himlastigen 35 lgh 1203
+Väskinde Lilla Klintegårde 324 lgh 1001
+Grenvägen 7 lgh 1301
+Abel Beckers Gata 5 lgh 1803
+Stilla Gatan 9B lgh 1001
+Norrtullsgatan 20 lgh 1502
+Granitvägen 7B lgh 1303
+Söderberga Gårdsväg 3 lgh 1010
+Kummelgatan 7A lgh 1501
+Golfbanevägen 7 lgh 1103
+Kvarntorget 11 lgh 1301
+Primusgatan 86 lgh 1302
+Artilleribacken 5 lgh 1101
+Hembygdsgatan 20 lgh 1203
+Alströmergatan 11 lgh 1503
+Yrkesgatan 22 lgh 1001
+Stationsgatan 67 lgh 1203
+Varvsgatan 1A lgh 1202
+Bergsunds Strand 37 lgh 1204
+Norra Strandgatan 7 lgh 1103
+Kompanivägen 31 lgh 1302
+Golfbanevägen 7 lgh 1104
+Myggdalsvägen 102 lgh 1201
+Samuel Permans Gata 29A lgh 1203
+Hornsgatan 59B lgh 1601
+Bollmora Gårdsväg 7 lgh 1302
+Lasarettsgatan 43C lgh 1101
+Möregatan 9 lgh 1603
+Nobelvägen 76A lgh 1102
+Allégatan 116 lgh 1102
+Annelundsstigen 7 lgh 1201
+Stationsgatan 20A lgh 1101
+Möllegatan 1C lgh 1103
+Vitbergsvägen 12 lgh 1102
+Olivedalsgatan 23 lgh 1302
+Karl Hovbergsgatan 3C lgh 1002
+Baltzar Von Platens Gata 9 lgh 1403
+Västra Rönneholmsvägen 60B lgh 1403
+Bergmästaregatan 9 lgh 0901
+Skånegatan 10 lgh 1101
+Nabbvägen 5 lgh 1001
+Ludvigsbergsvägen 5 lgh 1001
+Konsultgatan 5 lgh 1504
+Vintergatan 10D lgh 1102
+Backmansvägen 7A lgh 1001
+Tranebergsvägen 76 lgh 1001
+Linnäs 1 lgh 1001
+Hyttgatan 43B lgh 1102
+Majorsgatan 41 lgh 1001
+Skelleftehamnsvägen 110 lgh 1005
+Kristinebergs Strand 31 lgh 1401
+Höglundagatan 55 lgh 1102
+Poppelvägen 4B lgh 1003
+Stora Nygatan 5 lgh 1403
+Krukmakarbacken 4B lgh 1403
+Nedre Långgatan 8 lgh 1003
+Lignells Väg 30 lgh 1001
+Mannagrynstorget 3 lgh 1303
+Mariegården 52 lgh 1102
+Ingsbergsgatan 67 lgh 1001
+Allégatan 46 lgh 1502
+Västerberg 2992 lgh 1001
+Västra Ringvägen 92 lgh 1104
+Alviksvägen 3 lgh 1001
+Maria Taavenikus Gata 2 lgh 1701
+Skarpbrunnavägen 57 lgh 1501
+Fyrisvallsgatan 3B lgh 1502
+Näsbydalsvägen 6 lgh 2002
+Flyttleden 3 lgh 1202
+Storgatan 49A lgh 1201
+Bergavägen 6A lgh 1201
+Vintervägen 20 lgh 1001
+Arendt Byggmästares Gata 16 lgh 1002
+Olof Palmes Gata 20A lgh 1301
+Storgatan 83 lgh 1203
+Herman Ygbergs Väg 12 lgh 1102
+Armborstvägen 10 lgh 1001
+Ölandsresan 3E lgh 1101
+Mariehemsvägen 174 lgh 1702
+Gideonsbergsgatan 7B lgh 1102
+Norrtullsgatan 37B lgh 1002
+Porsnäsvägen 26 lgh 1102
+Eklandagatan 10 lgh 1501
+Södergatan 9B lgh 1101
+Sonya Hedenbratts Gata 7 lgh 1201
+Muraregatan 14 lgh 1001
+Storskiftesgatan 87 lgh 1101
+Äsperödsvägen 10B lgh 1101
+Helsingörskajen 12 lgh 1701
+Andra Långgatan 63 lgh 1301
+Viktoriaesplanaden 19B lgh 1101
+Sidensvansvägen 42 lgh 1003
+Hemvärnsvägen 7 lgh 1003
+Villarydsvägen 18 lgh 1101
+Solvarvsgatan 89 lgh 1201
+Lignells Väg 41 lgh 1001
+Follingegatan 12 lgh 1102
+Bergtallsvägen 22 lgh 1001
+Grönfinksvägen 12 lgh 1201
+Fatburs Brunnsgata 28 lgh 1803
+Stora Trädgårdsgatan 34 lgh 1202
+Malmgatan 29 lgh 1201
+Hejaregatan 6 lgh 1101
+Kapellgatan 10 lgh 1001
+Trollebergsvägen 44 lgh 1002
+Brytaregatan 8 lgh 1001
+Godemansvägen 23 lgh 1002
+Karl Johans Väg 4 lgh 1001
+Västra Esplanaden 17 lgh 1001
+Kolsvedja Backe 19 lgh 1101
+Museigatan 1 lgh 1001
+Berzeliigatan 25 lgh 1101
+Sannagatan 62 lgh 1003
+Folkungavägen 19 lgh 1002
+Örbyhus Slott 109 lgh 1001
+Storgatan 22A lgh 1202
+Lötgatan 1 lgh 1205
+Fogdevägen 40 lgh 1002
+Sankt Paulsgatan 34 lgh 1503
+Ekedalsgatan 42B lgh 1102
+Tre Krokars Gata 20B lgh 1001
+Barnängsgatan 60 lgh 1501
+Torget 6 lgh 1301
+Kyrkvägen 22 lgh 1102
+Krusenhofsvägen 17 lgh 1103
+Nya Tanneforsvägen 28A lgh 1202
+Torstensonsgatan 26 lgh 1001
+Saffransgatan 33 lgh 1101
+Västerbovägen 11B lgh 1201
+Svartviksslingan 55 lgh 1404
+Stambanevägen 28 lgh 1302
+Julianska Gatan 16 lgh 1601
+Karl Hovbergsgatan 25B lgh 1202
+Gamla Värmdövägen 13 lgh 1405
+Orhemsvägen 132 lgh 1001
+Smörbrödsvägen 13 lgh 1202
+Myggdalsvägen 60 lgh 1302
+Hammarkulletorget 19 lgh 1201
+Karl XI Gatan 5B lgh 1302
+Sunnanbyplan 23 lgh 1201
+Blåkullagatan 19B lgh 1201
+Hjortmossegatan 102 lgh 1001
+Solberga Hagväg 13 lgh 1302
+Saffransgatan 20 lgh 1002
+Brunnsparken Villa Desideria 1 lgh 1001
+Norr Amsberg 321 lgh 1001
+Sonya Hedenbratts Gata 7 lgh 1402
+Gropgränd 4 lgh 1202
+Anderstorpsvägen 6 lgh 1203
+Drottninggatan 59 lgh 1003
+Söderåsgatan 9 lgh 1102
+Tångerda Gård 4 lgh 1001
+Strandplatsgatan 18 lgh 1102
+Stövargatan 5 lgh 1202
+Båtsmansgatan 7 lgh 1001
+Sergeantgatan 28 lgh 1002
+Släggkastargatan 11 lgh 1502
+Älvkullsgatan 3A lgh 1101
+Muraregatan 109 lgh 1103
+Järnlundsvägen 22 lgh 1105
+Rödkallens Väg 13 lgh 1503
+Norrlandsgatan 38C lgh 1202
+Palmstedtsgatan 3C lgh 1403
+Hvitfeldtsgatan 24 lgh 1603
+Koopmansgatan 13A lgh 1001
+Skolvägen 4 lgh 1414
+Tussmötevägen 302 lgh 1702
+Småbåtsgatan 10A lgh 1101
+Löt Bäddarö Gård 1 lgh 1001
+Gylleniusgatan 12 lgh 1101
+Österskärsvägen 8 lgh 1204
+Babordsvägen 3A lgh 1105
+Östra Parkgatan 17A lgh 1002
+Brobacksgatan 4B lgh 1101
+Östra Promenaden 18 lgh 1001
+Dalslundsgatan 9 lgh 1002
+Storgatan 21 lgh 1001
+Maria Prästgårdsgata 29 lgh 1305
+Eyragatan 2J lgh 1201
+Gränsgatan 39B lgh 1102
+Hagtornsgatan 2A lgh 1001
+Gullmarsvägen 111 lgh 1001
+Nygatan 6 lgh 1101
+Strömstadsvägen 6A lgh 1101
+Slånbärsvägen 47 lgh 1001
+Västergatan 14A lgh 1102
+Skogsvägen 43 lgh 1002
+Inteckningsvägen 20 lgh 1301
+Herkulesgatan 1H lgh 1102
+Storgatan 86 lgh 1201
+Älgstigen 5 lgh 1102
+Storgatan 43A lgh 0901
+Tegnérgatan 8 lgh 1001
+Ljuragatan 6C lgh 1103
+Andra Långgatan 51 lgh 1202
+Lindsbergsgatan 4A lgh 1201
+Sandgatan 8 lgh 1101
+Matrosbacken 28 lgh 1201
+Furutåvägen 23B lgh 1202
+Norrbackagatan 26A lgh 1202
+Östra Holmgatan 4 lgh 1304
+Villagatan 30 lgh 1101
+Storgatan 54 lgh 1101
+Engelbrektsgatan 25 lgh 1401
+Gotenhofsgatan 4 lgh 1001
+Vågens Gata 440 lgh 1202
+Sandgatan 22A lgh 1201
+Bläsingevägen 2B lgh 1001
+Ahlmarksgatan 4B lgh 1202
+Häradshövdingegatan 30B lgh 1202
+Sjätte Villagatan 9 lgh 0901
+Rydebäcks Stationsgata 34 lgh 1201
+Infanterigatan 4 lgh 1504
+Staketgatan 22A lgh 1101
+Hornsgatan 29G lgh 1001
+Falkvägen 11 lgh 1102
+Ångbåtsgatan 2 lgh 2102
+Jämtlandsgatan 21 lgh 1001
+Solgårdsgatan 9 lgh 1102
+Grevgatan 4 lgh 1001
+Källstorpsvägen 7 lgh 1202
+Engelbrekts Kyrkogata 7 lgh 1101
+Nygatan 11A lgh 1101
+Gärdsgatan 2 lgh 1303
+Vallingatan 3A lgh 1202
+Bangårdsgatan 26 lgh 1105
+Waerngatan 5A lgh 1002
+Ankargatan 9 lgh 1101
+Drottninggatan 10 lgh 1101
+Bergsunds Strand 31 lgh 1101
+Utgårdsvägen 39 lgh 1201
+Viskastigen 40C lgh 1003
+Morellstigen 4 lgh 1001
+Södra Järnvägsgatan 61 lgh 1101
+Enköping Nynäs Gård 1 lgh 1001
+Katarina Kyrkobacke 7A lgh 1201
+Tranbärsvägen 2B lgh 1103
+Haga Kyrkogata 8 lgh 1303
+Erstagatan 1B lgh 1003
+Rådlösavägen 6 lgh 1101
+Strandvallen 6E lgh 1002
+Lillviksgatan 14 lgh 1010
+Sandåkersgatan 12 lgh 1204
+Östra Promenaden 33 lgh 1201
+Silvermyntsgatan 12 lgh 1201
+Östra Hamngatan 2 lgh 1603
+Aldergatan 13 lgh 1301
+Karlsborgsgatan 26 lgh 1101
+Fatburs Kvarngata 4 lgh 1104
+Österportsgatan 3A lgh 1301
+Storgatan 43 lgh 1001
+Vamlingbo Lingsarve 174 lgh 1001
+Ramsta 105 lgh 1101
+Borraregatan 10 lgh 1101
+Värmlandsgatan 3A lgh 1002
+Rindögatan 11 lgh 1101
+Sturegatan 96B lgh 1002
+Hantverkaregatan 15B lgh 1101
+Sänkhagsvägen 1A lgh 1203
+Vänortsringen 52 lgh 1105
+Fabriksgatan 16 lgh 1102
+O D Krooks Gata 74 lgh 1301
+Gamla Anneforsvägen Sunnangården 10I lgh 1004
+Ljunggrensgatan 11B lgh 1101
+Hammarby Kaj 42 lgh 1503
+Hamngatan 3 lgh 1002
+Serenadgatan 24 lgh 2001
+Karlavägen 76 lgh 1503
+Lagastigsgatan 60D lgh 1101
+Bergsgatan 32B lgh 1101
+S:ta Katarinagatan 4 lgh 1201
+Blå Blomvägen 2A lgh 1203
+Gullstensgatan 16 lgh 1001
+Maria Bangata 13 lgh 1101
+Vildgåsvägen 5B lgh 1001
+Olof Palmes Gata 16 lgh 1105
+Almbygatan 10 lgh 1904
+Upplandsgatan 99 lgh 1102
+Brandkärrsvägen 58 lgh 1602
+Nobelvägen 72A lgh 1203
+Tideliusgatan 52 lgh 1202
+Katarina Kyrkobacke 7C lgh 1001
+Johan Tillanders Väg 35 lgh 1003
+Hemmansvägen 50 lgh 1003
+Fornbacken 7 lgh 1202
+Fjärde Långgatan 45 lgh 1503
+Kommendörsgatan 32 lgh 1203
+Maria Prästgårdsgata 31A lgh 1103
+Kungsholms Strand 113 lgh 1301
+Frödingsgatan 7A lgh 1102
+Opalvägen 55 lgh 1001
+Kapellgatan 8 lgh 1501
+Nedre Holländaregatan 26 lgh 1202
+Baltzar Von Platens Gata 11 lgh 1107
+Lidbecksgatan 12 lgh 1201
+Gymnasistgatan 11A lgh 1101
+Fatburs Kvarngata 24 lgh 1503
+Sleipnervägen 25 lgh 1101
+Råcksta Gårdsväg 23 lgh 2004
+Sandstuguvägen 8 lgh 1326
+Killinge Byväg 32 lgh 1001
+Hertig Karls Allé 16B lgh 1101
+Kapellevägen 1D lgh 1002
+Vankivavägen 13B lgh 1101
+Kungsholms Strand 157 lgh 1407
+Vintrosagatan 3 lgh 1507
+Kristallvägen 30 lgh 1001
+Tollare Kaj 6 lgh 1702
+Rigagatan 2 lgh 1303
+Fatburs Brunnsgata 3 lgh 1601
+Bäckalyckevägen 21 lgh 1101
+Tullgårdsgatan 36 lgh 1601
+Gulddragargränd 52 lgh 1205
+Smögengatan 20 lgh 1003
+Skyttevägen 21 lgh 1301
+Rödkullastigen 11A lgh 1404
+Katarina Bangata 43 lgh 1302
+Kastellgatan 13 lgh 1402
+Beväringsgatan 15 lgh 1103
+Kungsholms Strand 137 lgh 1502
+Brunbärsvägen 2 lgh 1304
+Lotsgatan 6 lgh 1001
+Yrkesgatan 22 lgh 1101
+Västerlånggatan 19 lgh 1001
+Järdalavägen 66A lgh 1001
+Västra Skrävlingevägen 175 lgh 1201
+Hasselstigen 2 lgh 1501
+Östra Bergsgatan 22 lgh 1101
+Älvsborgsgatan 35 lgh 1102
+Cv-Gatan 109 lgh 1203
+Vintergatan 29F lgh 1002
+Norra Änggatan 20 lgh 1101
+Hornsgatan 57B lgh 1502
+Arkitektvägen 25 lgh 1102
+Folkets Parksgatan 8 lgh 1401
+Södra Långgatan 37 lgh 1204
+Sandhamnsgatan 42E lgh 1302
+Liedbergsgatan 3A lgh 1002
+Rigagatan 1 lgh 1208
+Lillåkersvägen 28 lgh 1501
+Åsgatan 23 lgh 0901
+Arbetargatan 15 lgh 1102
+Södervägen 50 lgh 1201
+Gustav III:s Boulevard 6 lgh 1103
+Ormängsgatan 10D lgh 1303
+Grubbensgatan 19 lgh 1101
+Tullingebergsvägen 25 lgh 1101
+Sundsbrogatan 6E lgh 1102
+Olstorpsvägen 4 lgh 1001
+Västra Storgatan 9 lgh 1001
+Jacob Smålännings Gata 12A lgh 1201
+Maria Prästgårdsgata 11 lgh 1102
+Vigelsjövägen 5D lgh 1301
+Fornbyvägen 25 lgh 1101
+Beckomberga Ängsväg 4 lgh 1202
+Holmgatan 16A lgh 1001
+Bergaparksvägen 12 lgh 1103
+Skogsgatan 26A lgh 1104
+Biskop Henriks Väg 6 lgh 1004
+Kungsgatan 53B lgh 1102
+Hedströms Väg 6 lgh 0006
+Rektorsgatan 12 lgh 1003
+Skeppargatan 3D lgh 1101
+Hemmansvägen 62 lgh 1003
+Vanadisvägen 17 lgh 1502
+Hengränd 1A lgh 1101
+Högbergsgatan 15 lgh 1302
+J A Linders Väg 39 lgh 1001
+Odens Väg 1 lgh 1701
+Ås 5 lgh 1001
+Eskilsvägen 12 lgh 1001
+Sörhallstorget 31 lgh 1501
+Ekensbergsvägen 87C lgh 1401
+Ragnvallagatan 14C lgh 1002
+Strandliden 48 lgh 1003
+Schéelegatan 1C lgh 1207
+Rotsundagårdsvägen 56 lgh 1301
+Odalgatan 27 lgh 1202
+Domarevägen 29 lgh 1102
+Brännavägen 102 lgh 1102
+Köpmangatan 22G lgh 1201
+Kungsladugårdsgatan 16B lgh 1202
+Strandvägen 29 lgh 1601
+Fröjavägen 2A lgh 1202
+Rydebäcks Stationsgata 53 lgh 1203
+Anderstorg 10C lgh 1008
+Djurgårdsvägen 2A lgh 1202
+Sätunavägen 7 lgh 1101
+Evastigen 10A lgh 1003
+Bäckgårdsvägen 27 lgh 1001
+Marmorvägen 80 lgh 1005
+Skäcklingevägen 203 lgh 1001
+Forvägen 33 lgh 1104
+Västra Storgatan 64B lgh 1101
+Eklångsvägen 21 lgh 1001
+Sadelmakarebyn 6A lgh 1303
+Mörbyhöjden 22 lgh 1501
+Bildhuggarvägen 4 lgh 1201
+Dagsverksvägen 197 lgh 1301
+Blasius Königsgatan 13 lgh 1002
+Kungsvägen 57B lgh 1102
+Håstensgatan 13 lgh 1101
+Mångatan 1 lgh 1103
+Klippgatan 2C lgh 1102
+Gärdebovägen 4B lgh 1103
+Västerlånggatan 5C lgh 1303
+Lönnholmsgatan 7 lgh 1101
+Storgatan 36 lgh 1102
+Rättviksvägen 64B lgh 1004
+Tegnérvägen 24 lgh 1102
+Hallegatan 13 lgh 1705
+Vidkärrsallén 3C lgh 1201
+Holgersgatan 10C lgh 1203
+Karen Blixens Gata 7 lgh 2004
+Topasgatan 7 lgh 1302
+Tegnérgatan 12 lgh 1102
+Styckåsgatan 27 lgh 1201
+Nässja Gård 116 lgh 1101
+Örnsköldsgatan 41 lgh 1001
+Bratteråsgatan 72 lgh 1603
+Silfors 205 lgh 1001
+Hornsgatan 32A lgh 1201
+Södra Förstadsgatan 21 lgh 1401
+Fyrisvallsgatan 3C lgh 1102
+Sävarberg 18 lgh 1002
+Bruksgatan 7 lgh 1001
+Linnévägen 34 lgh 1203
+Kilströmskajen 8 lgh 1001
+Himlastigen 14 lgh 1101
+Österlånggatan 21A lgh 1301
+Tegnérgatan 38C lgh 1201
+Hornsbergs Strand 95 lgh 1801
+Maria Prästgårdsgata 7 lgh 1205
+Stora Gatan 1B lgh 1303
+Serenadgatan 55 lgh 1102
+Djurgårdsvägen 27 lgh 1102
+Myggdalsvägen 90 lgh 1101
+Rostocksgatan 27C lgh 1002
+Timmermansgatan 2B lgh 1001
+Föreningsgatan 8A lgh 1302
+Kilian Zollsgatan 6A lgh 1302
+Bråkmakargatan 1E lgh 1006
+Prebendegatan 15 lgh 1201
+Tegnérgatan 1B lgh 1302
+Angersteinvägen 34B lgh 0901
+Föreningsgatan 24A lgh 1103
+Kungsholms Strand 101 lgh 1403
+Grindögatan 4 lgh 1101
+Kungsholms Strand 155 lgh 1603
+Havregatan 2 lgh 1105
+Sixten Camps Gata 8 lgh 1301
+Lingränd 1A lgh 1002
+Lilla Nygatan 12 lgh 1102
+Grisslevägen 14 lgh 1201
+Nillas Väg 1C lgh 0901
+Sankt Eriksgatan 66 lgh 1401
+Solberga Hagväg 11 lgh 1104
+Per-Eriksgatan 2 lgh 1101
+Långa Raden 5 lgh 1102
+Hallbergsgatan 33B lgh 1201
+Fjärdhundragatan 25 lgh 1001
+Birger Jarlsgatan 125 lgh 1504
+Nordanväg 42A lgh 1103
+Bokvägen 14A lgh 1001
+Silverringen 70 lgh 0902
+Vendelsömalmsvägen 189 lgh 1201
+Sannadalsvägen 4 lgh 1203
+Tunavallsgränden 12 lgh 1205
+Döbelnsgatan 1 lgh 1403
+Gröna Stugans Väg 29 lgh 1801
+Stövargatan 7 lgh 1202
+Högbergsgatan 95A lgh 1203
+Andbergsgatan 14D lgh 1102
+Stallgatan 11A lgh 1401
+Torshammarvägen 11 lgh 1202
+Söderberga Allé 38 lgh 1101
+Östra Banvägen 68 lgh 1402
+Agnes Lagerstedts Gata 25 lgh 1701
+Brinken 4 lgh 1101
+Kommendörsgatan 3 lgh 1203
+Textilvägen 11 lgh 1002
+Hagendalsvägen 9 lgh 1201
+Fyrklöversgatan 26 lgh 1102
+Storgatan 4B lgh 1103
+Grimstagatan 149 lgh 1202
+Odengatan 52B lgh 1001
+Gåsagången 40 lgh 1302
+Kyrkvärdsvägen 45 lgh 1101
+Hammarby Fabriksväg 101 lgh 1302
+Grönegatan 10 lgh 1309
+Sulvägen 58 lgh 1001
+Hornsgatan 141C lgh 1702
+Grindtorps Skolgränd 24 lgh 1203
+Stora Tomegatan 14 lgh 1001
+Lützengatan 14 lgh 1402
+Vita Liljans Väg 74 lgh 1402
+Bråddgatan 42 lgh 1103
+Bankogatan 3 lgh 1403
+Hemmansvägen 88 lgh 1101
+Granitvägen 24 lgh 1001
+Buregatan 10A lgh 1001
+Övre Kvarngatan 43 lgh 1102
+Tunnbindargränd 4 lgh 1401
+Lugna Vägen 2 lgh 1101
+Slöjdgatan 8 lgh 1001
+Mosåsvägen 62 lgh 1102
+Barnhusgatan 30 lgh 1001
+Humlevägen 9B lgh 1103
+Sofiagatan 1A lgh 1105
+Kilallén 2 lgh 1404
+Bohlins Väg 6 lgh 1004
+Sockerbruksgatan 13B lgh 1701
+Tulevägen 12 lgh 1001
+Medborgargatan 13 lgh 1001
+Näsbychaussén 15B lgh 1103
+Spånga Stationsväg 59 lgh 1101
+Kriebsensgatan 14B lgh 1006
+Kanngjutargränd 48 lgh 1504
+Klostergatan 61A lgh 1101
+Trädgårdsgatan 3 lgh 1301
+Björkhultsvägen 21A lgh 1201
+Storgatan 18B lgh 1204
+Karl Hovbergsgatan 23C lgh 1102
+Färövägen 2 lgh 1003
+Myggdalsvägen 114 lgh 1101
+Färnäs Bygata 64 lgh 1001
+Smedjegatan 21 lgh 1003
+Ada Nilssons Gata 11 lgh 1602
+Västerby Backe 16 lgh 1501
+Åsögatan 174 lgh 1303
+Karlskronavägen 10 lgh 1001
+Kristinelundsgatan 1 lgh 1101
+Rämensvägen 25A lgh 1302
+Jonebergsvägen 3D lgh 1103
+Hallonbergsplan 12 lgh 1506
+Linnévägen 41A lgh 1002
+Hamngatan 9 lgh 1701
+Engelbrektsgatan 1B lgh 1102
+Nygatan 43 lgh 1402
+Jören Vävares Gata 1B lgh 1003
+Lilla Fridhemsgatan 2 lgh 1301
+Yttre Ringvägen 33A lgh 1101
+Siktargatan 24 lgh 1601
+Solgatan 12 lgh 1001
+Ingenjörsvägen 47 lgh 1101
+Timmermansvägen 2 lgh 1003
+Kaskögatan 4 lgh 1202
+Bangårdsgatan 21 lgh 1103
+Hjalmar Söderbergs Väg 13 lgh 1102
+Evenemangsgatan 30 lgh 1704
+Jupitervägen 33 lgh 1104
+S:t Olofsgatan 28A lgh 1103
+Härbrevägen 7 lgh 1102
+Vretgatan 13 lgh 1001
+Grubbevägen 8 lgh 1001
+Peter Baggegatan 2B lgh 1001
+Vallmovägen 11 lgh 1214
+Södra Långgatan 23B lgh 1202
+Parkgatan 10 lgh 1001
+Bryggargatan 4C lgh 1103
+Hemmansvägen 66 lgh 1001
+Bennets Väg 8A lgh 1308
+Karlstadsvägen 12 lgh 1101
+Gröna Stugans Väg 43 lgh 1602
+Rådmansgatan 17 lgh 1101
+Bondegatan 62 lgh 1201
+Ingelstadsgatan 44 lgh 1101
+Johan Enbergs Väg 5 lgh 1204
+Andra Långgatan 30 lgh 1403
+Hjulsta Backar 10 lgh 1101
+Elins Gård 1 lgh 1702
+Docentgatan 5B lgh 1704
+Terrassgatan 6 lgh 1101
+Beväringsgatan 13 lgh 1304
+Krysshammarvägen 42 lgh 1502
+Linnégatan 3 lgh 1101
+Lindekullegatan 55C lgh 1102
+Bråddgatan 27 lgh 1402
+Skulpturplatsen 2C lgh 1101
+Vinbergsgatan 6E lgh 1201
+Nyckelvägen 4 lgh 1305
+Nya Vägen 20H lgh 1202
+Myrstigen 1 lgh 1301
+Dalagatan 9P lgh 1301
+Grevegårdsvägen 32 lgh 1001
+Munkebäcksgatan 8 lgh 1001
+Snapphanevägen 3B lgh 1002
+Nickelgränd 1 lgh 1502
+Eriksgatan 13 lgh 1001
+Vegagatan 9C lgh 1201
+Beckasinvägen 45B lgh 0901
+Skälvs Gård 3 lgh 1102
+Kvistbergsvägen 2 lgh 1001
+Skogsstjärnegränd 2A lgh 1101
+Skogsbruksvägen 121 lgh 1003
+Ulvsbygatan 29 lgh 1201
+Klockaregården 19 lgh 1102
+Folkungagatan 58 lgh 1106
+Storgatan 42 lgh 1302
+Odlingsgatan 102 lgh 1304
+Esplanaden 22 lgh 1404
+Spånvägen 26D lgh 1102
+Kaperasvägen 15A lgh 1203
+Årstagatan 23C lgh 1102
+Västra Brinkvägen 13 lgh 1103
+Egnahemsvägen 9D lgh 1202
+Klara Västra Kyrkogata 18C lgh 1101
+Åsögatan 149 lgh 1402
+Bagartorpsringen 64 lgh 1201
+Tingstugatan 40C lgh 1003
+Odens Väg 3 lgh 1001
+Haga Östergata 5Q lgh 1102
+Stenkumlaväg 49 lgh 1001
+Fatburs Brunnsgata 28 lgh 1202
+Hammarsvägen 3A lgh 0901
+Tegnérgränd 24 lgh 1101
+Hornsbergs Strand 43 lgh 1701
+Godvädersgatan 63 lgh 1301
