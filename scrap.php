@@ -362,7 +362,7 @@ use HeadlessChromium\BrowserFactory;
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
 
-        $file_addresses = fopen("address-11.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen("source/60k-file1.txt", "r") or die("Unable to open file!");
 
         $addresses = [];
 
@@ -377,22 +377,22 @@ use HeadlessChromium\BrowserFactory;
 
         // print_r($addresses);
 
-        createLog(0001, 'loop 1', 'New 1M loop started', true);
+        createLog(0001, 'loop 1', 'New 1 loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0002, 'loop 2', 'New 1M loop started', true);
+        createLog(0002, 'loop 2', 'New 2 loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0003, 'loop 3', 'New 1M loop started', true);
+        createLog(0003, 'loop 3', 'New 3 loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0004, 'loop 4', 'New 1M loop started', true);
+        createLog(0004, 'loop 4', 'New 4 loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0005, 'loop 5', 'New loop started', true);
+        createLog(0005, 'loop 5', 'New 5 loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0006, 'loop 6', 'New loop started', true);
+        createLog(0006, 'loop 6', 'New 6 loop started', true);
         runFailedNumbers($file_name);        
 
         // echo 'Finsihed';
