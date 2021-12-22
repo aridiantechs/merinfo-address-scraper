@@ -1,0 +1,271 @@
+Sjöfartsgatan 1 lgh 1202
+Fyrspannsvägen 8 lgh 1002
+Pollargatan 3 lgh 1103
+Gamla Värmdövägen 11 lgh 1307
+Tallidsvägen 5A lgh 1302
+Västra Finnbodavägen 11A lgh 804
+Kantatvägen 16 lgh 1001
+Pollargatan 3 lgh 1104
+Tre Kronors Väg 4 lgh 1303
+Tranvägen 11 lgh 1002
+Båtbyggargatan 62 lgh 1408
+Lugnets Allé 36 lgh 1703
+Sickla Kanalgata 10 lgh 1201
+Pollargatan 24 lgh 1304
+Skarpövägen 13 lgh 1101
+Mjölnarvägen 6A lgh 1706
+Skarpövägen 57 lgh 1306
+Gamla Värmdövägen 11 lgh 1205
+Gamla Värmdövägen 13 lgh 1207
+Midskeppsgatan 11 lgh 1201
+Fyrspannsvägen 3A lgh 901
+Ugglevägen 32B lgh 902
+Mjölnarvägen 28 lgh 1302
+Helgesons Väg 1 lgh 1303
+Ekuddsvägen 25 lgh 2104
+Gamla Värmdövägen 11 lgh 1319
+Gamla Värmdövägen 13 lgh 1906
+Virkesvägen 9B lgh 1402
+Gamla Värmdövägen 13 lgh 1606
+Alphyddevägen 63 lgh 2003
+Sjökortsgatan 4 lgh 1301
+Heliosgatan 19 lgh 1102
+Torkhusgatan 9 lgh 1304
+Heliosgatan 11 lgh 1203
+Rorgängargatan 2 lgh 1102
+Trädgårdsvägen 2 lgh 1306
+Lugnets Allé 65 lgh 1501
+Midskeppsgatan 16 lgh 1401
+Fredriksdalsgatan 7 lgh 1601
+Östra Finnbodavägen 11C lgh 1003
+Turbinvägen 5A lgh 1303
+Skarpövägen 7 lgh 1005
+Mjölnarvägen 6A lgh 1903
+Tre Kronors Väg 43 lgh 1202
+Gamla Värmdövägen 13 lgh 1402
+Helgesons Väg 12 lgh 1205
+Fyrspannsvägen 43 lgh 1402
+Mjölnarvägen 20B lgh 1102
+Edövägen 28B lgh 1001
+Mjölnarvägen 10A lgh 1703
+Mjölnarvägen 10A lgh 1301
+Virkesvägen 9B lgh 1201
+Sickla Kanalgata 19B lgh 1001
+Lugnets Allé 48C lgh 1102
+Gamla Värmdövägen 13 lgh 1405
+Ekuddsvägen 4 lgh 1606
+Sickla Kanalgata 42 lgh 1101
+Midskeppsgatan 9 lgh 1303
+Edinsvägen 6 lgh 904
+Hammarby Allé 52 lgh 1302
+Dahlgrens Väg 5B lgh 1101
+Hammarby Allé 52 lgh 1602
+Midskeppsgatan 9 lgh 1202
+Hammarby Allé 66 lgh 1601
+Lugnets Allé 48E lgh 1001
+Lugnets Allé 48E lgh 1401
+Hammarby Allé 48 lgh 1002
+Sjöfartsgatan 8 lgh 1101
+Båtklubbsgatan 15 lgh 1202
+Fyrspannsvägen 51 lgh 1001
+Alphyddevägen 43 lgh 803
+Trappvägen 8A lgh 1002
+Beckasinvägen 36 lgh 1304
+Lasarettsvägen 3 lgh 1101
+Midskeppsgatan 7 lgh 1102
+Fredriksdalsgatan 20 lgh 1702
+Gamla Värmdövägen 13 lgh 1404
+Ormingeringen 74 lgh 1201
+Diligensvägen 136 lgh 1304
+Torkhusgatan 9 lgh 1603
+Garverigränd 6 lgh 1201
+Blomdalsvägen 3A lgh 1001
+Ugglevägen 19A lgh 1302
+Vävar Johans Gata 4 lgh 1002
+Östra Finnbodavägen 34 lgh 1602
+Skogalundsklippan 26 lgh 1304
+Heliosgatan 45 lgh 1202
+Ekuddsvägen 3 lgh 1702
+Edövägen 22B lgh 1101
+Tranvägen 4 lgh 1503
+Finntorpsvägen 8 lgh 1302
+Edövägen 13A lgh 1301
+Alphyddevägen 9 lgh 1504
+Finnboda Kajväg 6 lgh 1502
+Hammarby Allé 104 lgh 1601
+Ormingeringen 56A lgh 1003
+Vävar Johans Gata 10 lgh 1503
+Virkesvägen 5A lgh 1201
+Båtbyggargatan 68 lgh 1206
+Gamla Värmdövägen 11 lgh 1110
+Skeppsmäklargatan 29 lgh 1403
+Tollare Ängsväg 24 lgh 1404
+Virkesvägen 9J lgh 1602
+Vävar Johans Gata 21 lgh 1501
+Trädgårdsvägen 1B lgh 1102
+Gamla Värmdövägen 11 lgh 1114
+Gamla Värmdövägen 2 lgh 1803
+Tallidsvägen 12B lgh 1102
+Hammarby Allé 58B lgh 1601
+Tollare Ängsväg 24 lgh 1303
+Gamla Värmdövägen 11 lgh 1309
+Fyrspannsvägen 44 lgh 1403
+Ormingeringen 28B lgh 1103
+Dahlgrens Väg 5A lgh 1101
+Båtbyggargatan 66 lgh 1307
+Hammarbyterrassen 32 lgh 1102
+Ängsbacken 3 lgh 1103
+Skarpövägen 35 lgh 1105
+Edövägen 13B lgh 1003
+Becksjudarvägen 55 lgh 1001
+Tre Kronors Väg 2 lgh 1001
+Henriksdalsringen 55 lgh 1301
+Hammarby Allé 90 lgh 1202
+Makaronigränd 5 lgh 1501
+Skeppsmäklargatan 51 lgh 1101
+Styrbordsgatan 15 lgh 1501
+Winborgs Väg 21 lgh 1203
+Sjökvarnsbacken 10 lgh 1503
+Gamla Värmdövägen 11 lgh 1308
+Trappvägen 8B lgh 1002
+Tre Kronors Väg 4 lgh 701
+Gårdsvägen 3 lgh 1001
+Gårdsvägen 2 lgh 1101
+Finnbergsvägen 66 lgh 1002
+Skeppsmäklargatan 9 lgh 1203
+Furuvägen 11 lgh 1103
+Heliosgatan 19 lgh 1101
+Henriksdalsringen 49 lgh 1101
+Styrbordsgatan 23 lgh 1001
+Vikingshillsvägen 29 lgh 1102
+Bergåsavägen 9 lgh 1101
+Turbinvägen 5A lgh 1201
+Saltsjöqvarns Kaj 31 lgh 1302
+Förmansvägen 6 lgh 1001
+Heliosgatan 40 lgh 1003
+Edinsvägen 22B lgh 1205
+Gamla Värmdövägen 11 lgh 1207
+Skogalundsklippan 15 lgh 1401
+Henriksdalsringen 47 lgh 1001
+Heliosgatan 18C lgh 1106
+Gamla Värmdövägen 13 lgh 1406
+Seglatsgatan 8 lgh 1702
+Talluddsvägen 5 lgh 1001
+Ugglevägen 27B lgh 1202
+Gustaf De Lavals Torg 8 lgh 1201
+Sickla Kanalgata 6 lgh 1104
+Maltgatan 12 lgh 1513
+Gamla Värmdövägen 11 lgh 1202
+Skeppsmäklargatan 29 lgh 1301
+Skeppsmäklargatan 51 lgh 1602
+Diligensvägen 67 lgh 1001
+Ormingeringen 38 lgh 1102
+Heliosgatan 16B lgh 1001
+Heliosgatan 47 lgh 1202
+Ormingeringen 8C lgh 1102
+Björknäs Skolväg 6A lgh 1001
+Helgesons Väg 12 lgh 1207
+Ormingeringen 27A lgh 1103
+Västra Finnbodavägen 7A lgh 902
+Förmansvägen 6 lgh 1002
+Trädgårdsvägen 4 lgh 1001
+Heliosgatan 58 lgh 1301
+Ängsbacken 3 lgh 1402
+Sockenvägen 32C lgh 1301
+Hammarby Allé 120 lgh 1701
+Alphyddevägen 29 lgh 902
+Ormingeringen 22 lgh 1101
+Båtbyggargatan 23 lgh 1403
+Ekuddsvägen 25 lgh 1705
+Talluddsvägen 5 lgh 1002
+Mjölnarvägen 4B lgh 1404
+Kölnagatan 10 lgh 1401
+Båtbyggargatan 13 lgh 1302
+Maltgatan 8 lgh 1505
+Ektorpsvägen 19H lgh 1401
+Gamla Värmdövägen 11 lgh 1317
+Tre Kronors Väg 37 lgh 1004
+Ekuddsvägen 27 lgh 2002
+Beckasinvägen 35 lgh 1201
+Järla Gårdsväg 21 lgh 1303
+Centralvägen 3 lgh 1702
+Fartygsgatan 16 lgh 1002
+Edövägen 26A lgh 1001
+Diligensvägen 136 lgh 1501
+Paviljongvägen 24 lgh 1203
+Sickla Kanalgata 15 lgh 1302
+Alphyddevägen 16 lgh 1605
+Finnbergsvägen 28 lgh 1102
+Diligensvägen 96 lgh 1302
+Korphoppsgatan 9 lgh 1301
+Båtbyggargatan 68 lgh 1302
+Ormingeringen 48A lgh 1002
+Furuvägen 1 lgh 1102
+Gamla Värmdövägen 11 lgh 1203
+Ormingeringen 12A lgh 1103
+Hammarby Allé 86 lgh 1602
+Heliosgatan 14A lgh 1501
+Fredriksdalsgatan 20 lgh 1202
+Gustaf De Lavals Torg 8 lgh 1213
+Centralvägen 4D lgh 1202
+Fyrspannsvägen 8 lgh 1204
+Finnboda Kajväg 6 lgh 1101
+Ugglevägen 21B lgh 1202
+Magasinsgången 9 lgh 1101
+Fendergatan 4 lgh 1007
+Gamla Värmdövägen 11 lgh 1201
+Sockenvägen 36A lgh 1202
+Vävar Johans Gata 6 lgh 1202
+Hammarby Allé 5 lgh 902
+Tallidsvägen 5A lgh 1102
+Sickla Kanalgata 103 lgh 1203
+Ekuddsvägen 13 lgh 1102
+Skogalundsklippan 10 lgh 1001
+Fyrspannsvägen 41 lgh 1102
+Ugglevägen 1C lgh 1101
+Ekuddsvägen 2 lgh 1903
+Midskeppsgatan 3 lgh 1501
+Henriksdalsringen 67 lgh 1202
+Fyrspannsvägen 5B lgh 1301
+Ormingeringen 5 lgh 1002
+Hammarby Allé 78C lgh 1002
+Tallidsvägen 8C lgh 1203
+Per Ludvig Lindgrens Terrass 2 lgh 1301
+Fyrspannsvägen 52 lgh 1002
+Furuvägen 9 lgh 1103
+Gamla Värmdövägen 13 lgh 1206
+Ormingeringen 79 lgh 1305
+Heliosgatan 25 lgh 1003
+Fyrspannsvägen 47 lgh 1302
+Vävar Johans Gata 35 lgh 1202
+Hammarby Allé 58A lgh 1202
+Ormingeringen 43 lgh 1203
+Tallidsvägen 5E lgh 1102
+Finnbergsvägen 18 lgh 901
+Gamla Värmdövägen 11 lgh 1209
+Skarpövägen 21 lgh 1005
+Hammarby Allé 179 lgh 1003
+Ektorpsvägen 19D lgh 1211
+Heliosgatan 38 lgh 1401
+Korphoppsgatan 33 lgh 1401
+Maltgatan 4 lgh 1202
+Sockenvägen 42 lgh 1302
+Lasarettsvägen 3 lgh 902
+Stenhuggarvägen 1 lgh 109
+Gustaf De Lavals Väg 6 lgh 1206
+Hammarby Allé 58B lgh 1204
+Edinsvägen 22B lgh 1206
+Maltgatan 11 lgh 1303
+Virkesvägen 7A lgh 1201
+Ormingeringen 14C lgh 1001
+Garverigränd 7 lgh 1208
+Alphyddevägen 12 lgh 1105
+Siloplatsen 2 lgh 1503
+Dahlgrens Väg 5B lgh 1201
+Makaronigränd 5 lgh 1403
+Ektorpsvägen 19C lgh 1301
+Ugglevägen 5C lgh 1302
+Gamla Värmdövägen 11 lgh 1302
+Ormingeringen 43 lgh 1004
+Korphoppsgatan 1 lgh 1503
+Tre Kronors Väg 33 lgh 1204
