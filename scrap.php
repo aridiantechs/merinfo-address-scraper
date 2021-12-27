@@ -362,7 +362,7 @@ use HeadlessChromium\BrowserFactory;
         $file = fopen('uploads/'.$file_name.'.txt', "w");
         fclose($file);
 
-        $file_addresses = fopen("source/60k-file1.txt", "r") or die("Unable to open file!");
+        $file_addresses = fopen("source/500-file1.txt", "r") or die("Unable to open file!");
 
         $addresses = [];
 
