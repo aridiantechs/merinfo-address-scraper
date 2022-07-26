@@ -10,19 +10,6 @@ use Rct567\DomQuery\DomQuery;
 use HeadlessChromium\BrowserFactory;
 
 
-// $servername = "localhost";
-// $username = "aridtlpn_kundkontakter_user";
-// $password = "A)Ro#7Ups_ZN";
-// $dbname = "aridtlpn_kundkontakter";
-
-// Create connection
-// $conn = new mysqli($servername, $username, $password, $dbname);
-// // Check connection
-// if ($conn->connect_error) {
-//   die("Connection failed: " . $conn->connect_error);
-// }
-
-
     function get_web_page( $url )
     {
         $user_agent = 'Mozilla/5.0 (Windows NT 6.1; rv:8.0) Gecko/20100101 Firefox/8.0';
@@ -46,7 +33,7 @@ use HeadlessChromium\BrowserFactory;
             CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
             CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
             CURLOPT_PROXYPORT      => '22225',
-            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone:0xwx5ytxlfcc',
+            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone-country-se:0xwx5ytxlfcc',
             CURLOPT_HTTPPROXYTUNNEL=> 1,
         );
         
@@ -88,7 +75,7 @@ use HeadlessChromium\BrowserFactory;
             CURLOPT_MAXREDIRS      => 10,       // stop after 10 redirects
             CURLOPT_PROXY          => 'zproxy.lum-superproxy.io',
             CURLOPT_PROXYPORT      => '22225',
-            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone:0xwx5ytxlfcc',
+            CURLOPT_PROXYUSERPWD   => 'lum-customer-hl_fa848026-zone-daniel_sahlin_zone-country-se:0xwx5ytxlfcc',
             CURLOPT_HTTPPROXYTUNNEL=> 1,
             CURLOPT_HTTPHEADER     => array(
                                         'origin: https://www.merinfo.se',
@@ -98,7 +85,7 @@ use HeadlessChromium\BrowserFactory;
 
         );
         
-        $ch = curl_init( 'https://www.merinfo.se/api/v1/person/residence' );
+        $ch = curl_init( 'https://www.merinfo.se/api/v1/people/'.$uuid.'/description' );
         curl_setopt_array( $ch, $options );
 
         $x_csrf = 'x-csrf-token:' . $csrf;
@@ -119,15 +106,36 @@ use HeadlessChromium\BrowserFactory;
 
         $data = json_decode($result, true);
 
+        $final_data = [];
+        $final_data['living_type'] = '';
+        $final_data['street']     = '';
+        $final_data['zip']        = '';
+        $final_data['city']       = '';
+        $final_data['county']     = '';
+
         if(is_array($data)){
-            if(array_key_exists('data', $data))
-                return $data['data']['description'];
-            else
-                return 'bostadsinformation';
+            if(array_key_exists('data', $data)){
+                if(array_key_exists('residence', $data['data']))
+                    if(array_key_exists('type', $data['data']['residence']))
+                        $final_data['living_type'] = $data['data']['residence']['type'];
+
+                if(array_key_exists('street', $data['data']))
+                    $final_data['street'] = $data['data']['street'];
+
+                if(array_key_exists('zip', $data['data']))
+                    $final_data['zip'] = $data['data']['zip'];
+
+                if(array_key_exists('city', $data['data']))
+                    $final_data['city'] = $data['data']['city'];
+
+                if(array_key_exists('county', $data['data']))
+                    $final_data['county'] = $data['data']['county'];
+
+
+            }
         }
-        else{
-            return 'not exist';
-        }
+
+        return $final_data;
         
     }
 
@@ -153,17 +161,18 @@ use HeadlessChromium\BrowserFactory;
         }
     }
 
+
     function getData($address,$key,$file_name)
     {
 
-        if($key > 1 && ($key % 20) == 0)
-            sleep(5);
+        // if($key > 1 && ($key % 20) == 0)
+        //     sleep(5);
 
         $original_address = $address = trim(preg_replace('/\s\s+/', ' ', $address));
 
         $address = str_replace(' ', '+', urlencode($address));
         
-        $url = 'https://www.merinfo.se/search?who=0&where='.$address;
+        $url = 'https://www.merinfo.se/search?who='.$address.'=&where=';
         
         $result = get_web_page($url);
         $html   = $result['content'];
@@ -204,33 +213,36 @@ use HeadlessChromium\BrowserFactory;
 
                 $result = '';
 
-                $element = $dom->find('script', 20);
+                $element = $dom->find('profile-description', 0);
 
-                $uuid = substr($element,377,36) ?? '';
+                $uuid = $element->uuid ?? '';
 
-                $element = $dom->find('meta', 3);
+                $element = $dom->find('meta[name="csrf-token"]', 0);
 
-                $csrf = explode('"', $element);
-
-                $csrf = $csrf[3] ?? '';
+                $csrf = $element->content ?? '';
 
                 if($uuid && $csrf)
                     $result = getResidenceInfo($uuid, $csrf);
                 else{
+
+                    echo 'uuid or csrf not found';
                     createLog($key,$original_address,'second loop error');
                     return;
                 }
-                
 
-                if (strpos($result, 'bostadsrätt') !== false) {
+
+                if (strpos($result['living_type'], 'bostadsrätt') !== false)
                     $living_type = 'bostadsrätt';
-                }
-                else if (strpos($result, 'hyresrätt') !== false) {
+                
+                else if (strpos($result['living_type'], 'hyresrätt') !== false)
                     $living_type = 'hyresrätt';
-                }
-                else if (strpos($result, 'bostadsinformation') !== false) {
+                
+                else if (strpos($result['living_type'], 'småhus') !== false)
+                    $living_type = 'småhus';
+                
+                else if ($result['living_type'] == '') 
                     $living_type = 'ingen-information';
-                }
+                
                 else{
                     createLog($key,$original_address,'third loop error');
                     return;
@@ -261,7 +273,14 @@ use HeadlessChromium\BrowserFactory;
         else{
 
             $myfile = fopen('./uploads/'.$file_name.'.txt', "a") or die("Unable to open file!");
-            $txt = str_replace('+', ' ', $original_address ) .' - '. $living_type ?? 'Not found';
+            $original_address = str_replace('+', ' ', $original_address );
+
+            $txt = trim($original_address) . "\t" .
+                   trim($living_type)      . "\t" .
+                   trim($result['street']) . "\t" .
+                   trim($result['zip'])    . "\t" .
+                   trim($result['city'])   . "\t" .
+                   trim($result['county']) . "\t";
 
             fwrite($myfile, $txt);
             fwrite($myfile, "\n");
@@ -358,11 +377,21 @@ use HeadlessChromium\BrowserFactory;
 
     if (1) {
         
-        $file_name = date("Y-m-d-h-i-sa");
-        $file = fopen('uploads/'.$file_name.'.txt', "w");
-        fclose($file);
+        $input_file_name = php_uname('n');
+        
+        $file_name = "final";
 
-        $file_addresses = fopen("source/500-file1.txt", "r") or die("Unable to open file!");
+        if($input_file_name == 'DESKTOP-AJFT9FC')
+        
+            $file_addresses = fopen("source/input-1.txt", "r") or die("Unable to open file!");
+        
+        else{
+        
+            $input_file_name = str_replace("scraper", "input", $input_file_name);
+            $input_file_name = 'source/' . $input_file_name . '.txt';
+            $file_addresses = fopen($input_file_name, "r") or die("Unable to open file!");
+        
+        }
 
         $addresses = [];
 
@@ -370,30 +399,11 @@ use HeadlessChromium\BrowserFactory;
             $addresses[] = $line;
         }
 
-
         foreach(array_unique($addresses) as $key => $address){
             getData($address,$key,$file_name);
         }
 
-        // print_r($addresses);
-
         createLog(0001, 'loop 1', 'New 1 loop started', true);
         runFailedNumbers($file_name);
 
-        createLog(0002, 'loop 2', 'New 2 loop started', true);
-        runFailedNumbers($file_name);
-
-        createLog(0003, 'loop 3', 'New 3 loop started', true);
-        runFailedNumbers($file_name);
-
-        createLog(0004, 'loop 4', 'New 4 loop started', true);
-        runFailedNumbers($file_name);
-
-        createLog(0005, 'loop 5', 'New 5 loop started', true);
-        runFailedNumbers($file_name);
-
-        createLog(0006, 'loop 6', 'New 6 loop started', true);
-        runFailedNumbers($file_name);        
-
-        // echo 'Finsihed';
     }
